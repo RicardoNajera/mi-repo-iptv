@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fp2EaLJ.png" tvg-country="tt", CSat TV (1080p) [Not 24/7]
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FQkLIMR.png" tvg-country="tt", Digital Vision 63 (720p) [Geo-blocked]
+https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CNszwj1.png" tvg-country="tt", Scorch TV (1080p)
+https://w6oy7x7jlxrg-hls-live.5centscdn.com/MandETV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZQagV0x.png" tvg-country="tt", The Parliamentary Channel (720p) [Not 24/7]
+https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69igLlk.png" tvg-country="tt", Trinity TV (480p) [Not 24/7]
+https://5d00db0e0fcd5.streamlock.net/7410/7410/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Win_TV.png" tvg-country="tt", Win TV (576p)
+https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8

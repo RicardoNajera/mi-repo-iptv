@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V055t5e.png" tvg-country="ye", Al Masirah (720p) [Not 24/7]
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0xHb3XM.jpg" tvg-country="ye", Al Masirah Mubacher (642p) [Not 24/7]
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" tvg-country="ye", Al Wafa Tarim (720p)
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UVndAta.png" tvg-country="ye", Al-Sahat TV (720p)
+https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GgEeTNr.png" tvg-country="ye", Almahriah TV (576p)
+https://starmenajo.com/hls/almahriah/index.m3u8
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png" tvg-country="ye", Maraya (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8TzcJu5.png" tvg-country="ye", Yemen Today TV (480p)
+https://video.yementdy.tv/hls/yementoday.m3u8

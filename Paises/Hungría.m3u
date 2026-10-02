@@ -1,0 +1,263 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/04fCzHl.png" tvg-country="hu", 16tv Budapest (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W6jg8iM.png" tvg-country="hu", Alfold TV (1080p)
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-country="hu", AMC Europe Hungary
+http://88.212.15.19/live/amc_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C43Cc9N.png" tvg-country="hu", Apostol TV (576p)
+https://live.apostoltv.hu/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/85sIvrX.png" tvg-country="hu", ATV (Hungary) (160p)
+https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JINE5xS.png" tvg-country="hu", ATV Spirit (360p)
+https://streamservers.atv.hu/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-country="hu", AXN CEE
+http://88.212.15.19/live/axn_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cyReGWh.png" tvg-country="hu", Bajai TV (720p)
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://balatontelevizio.hu/wp-content/uploads/2020/05/balaton_tv_logo.png" tvg-country="hu", Balaton TV (432p)
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-country="hu", BBC Earth Hungary
+http://88.212.15.19/live/bbce_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3H3Ct9f.png" tvg-country="hu", Berente TV (1080p)
+https://stream.streaming4u.hu/BerenteTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0PKqn3V.png" tvg-country="hu", BTV (Hungary) (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CqqWtzo.png" tvg-country="hu", Budapest Europa Televizio (576p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u0AKhzj.png" tvg-country="hu", City TV (Hungary)
+https://citytv.hu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2tFrjUz.png" tvg-country="hu", Cool TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vVOEYuj.png" tvg-country="hu", Csurgo TV (720p)
+https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aAcORTL.png" tvg-country="hu", Dikh TV
+http://88.212.15.19/live/dikh/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aOa73uT.png" tvg-country="hu", Disney Channel (Hungary)
+http://88.212.15.19/live/disney_channel_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xKJoN8L.png" tvg-country="hu", DSTV (Hungary) (720p)
+http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YSpqmSO.png" tvg-country="hu", DTV (Hungary) (720p) [Not 24/7]
+http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oPbsSlp.png" tvg-country="hu", Duna
+http://88.212.15.19/live/duna_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uOBQJZS.png" tvg-country="hu", Duna World
+http://88.212.15.19/live/duna_world_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yhMhvPq.png" tvg-country="hu", Egyker TV (1080p)
+https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-country="hu", Euronews Hungarian (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LdsRz2E.png" tvg-country="hu", EWTN/Bonum TV
+https://dash2.antik.sk/live/ewtn_bonum/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.fehervartv.hu/css/img/icon-1-2.png" tvg-country="hu", Fehervar TV (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AF4Sz8Z.png" tvg-country="hu", FEM3
+http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jaKRnzU.png" tvg-country="hu", Film Cafe
+http://88.212.15.19/live/film_cafe/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/crhsomk.png" tvg-country="hu", Film Mania (576p)
+https://dokagents.site/live/filmmania/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OWqzJyy.png" tvg-country="hu", Film+ (Hungary)
+http://88.212.15.19/live/film_plus_hun_atk/index.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" tvg-country="hu", FILMBOX+ Comedy Magyar (576p)
+http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" tvg-country="hu", FILMBOX+ Emotion Hungary (1080p)
+http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png" tvg-country="hu", FILMBOX+ Hits Hungary
+http://88.212.15.19/live/fb_premium_hungary/index.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" tvg-country="hu", FILMBOX+ One Magyar
+http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PLhh0Ps.png" tvg-country="hu", FIX TV (720p) [Not 24/7]
+https://fixhd.tv:8082/fix/1080i/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fTG99xh.png" tvg-country="hu", Galaxy4
+https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PJ4c4jq.png" tvg-country="hu", Globo TV (Hungary) (720p) [Geo-blocked]
+https://stream.streaming4u.hu/GloboTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeK6Pzb.png" tvg-country="hu", Golya TV (480p) [Geo-blocked]
+https://stream.streaming4u.hu/GolyaTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RHgaPCk.png" tvg-country="hu", Gyongyosi TV (576p)
+https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/uBasB1USS1zI0tdHUbhUg356TwmworMA5P_7UGnhvg3z6LXX6n1bEk7Qj3cE3-yuToA" tvg-country="hu", Hangulat TV (720p)
+https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t5bw1J1.png" tvg-country="hu", Hegyvidek TV
+https://iptv02.eurocable.co.hu:15400/EC-HEGYVIDEKTV-FTA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zuWQKDm.png" tvg-country="hu", Hevizi TV (1080p)
+https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OWIK7FJ.png" tvg-country="hu", History (Hungary)
+http://88.212.15.19/live/history_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p9YFnpw.png" tvg-country="hu", Izaura TV (1080p)
+http://88.212.15.19/live/izaura/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bsDN0lH.png" tvg-country="hu", Jaszsagi Tersegi TV (440p)
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l02znlE.png" tvg-country="hu", Kanizsa TV (400p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZMrj2C5.png" tvg-country="hu", Kapos TV (1080p)
+https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QcrVj3Q.png" tvg-country="hu", Karcag TV (720p)
+https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yxwrX2N.png" tvg-country="hu", Kecskemeti TV (416p) [Not 24/7]
+http://rtmp1.40e.hu:8000/live/ktv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y74Mve1.png" tvg-country="hu", Kiskoros TV (720p)
+https://5cd03f21c7193.streamlock.net/kiskorostv/korostvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1920px-K%C3%B6ly%C3%B6kklub_II.svg.png" tvg-country="hu", Kolyokklub
+http://88.212.15.19/live/kolyokklub_atk/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DifVZkz.png" tvg-country="hu", Komaromi Televizio (400p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dnITSUz.png" tvg-country="hu", Komlos TV (1080p) [Not 24/7]
+https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3znYv1N.png" tvg-country="hu", Life TV (Hungary)
+http://88.212.15.19/live/lifetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IGajR6G.png" tvg-country="hu", Loverseny kozvetites (420p)
+http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r4tgKZK.png" tvg-country="hu", M1 (Hungary) HD
+http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B0nYT0l.png" tvg-country="hu", M2 (Hungary) (1080p)
+http://88.212.15.19/live/m2_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TQ4uJZk.png" tvg-country="hu", M4 Sport (1080p)
+http://88.212.15.19/live/uatlmvixrr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y21wFd0.png" tvg-country="hu", M5 (1080p)
+http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cXajs8V.png" tvg-country="hu", Magyar Mozi TV
+http://88.212.15.19/live/mozi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PF3BP4X.png" tvg-country="hu", Makoi Varosi Televizio (576p)
+http://makomedia.mikrohalo.hu/hls/makotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2zCOXmH.png" tvg-country="hu", Mezokovesdi Televizio (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWOlm1x.png" tvg-country="hu", Minimax (Hungary)
+http://88.212.15.19/live/minimax_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWOlm1x.png" tvg-country="hu", Minimax CEE (576p)
+http://88.212.15.19/live/test_minimax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LtCnPFJ.png" tvg-country="hu", Mozi+
+http://88.212.15.19/live/mozi_plusz/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Moziklub.svg/1920px-Moziklub.svg.png" tvg-country="hu", Moziklub
+http://88.212.15.19/live/moziklub_atk/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NMifecQ.png" tvg-country="hu", Moziverzum
+http://88.212.15.19/live/moziverzum/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kmQ5vYC.png" tvg-country="hu", Muzsika TV
+http://88.212.15.19/live/test_muzsika_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="hu", National Geographic (Hungary)
+http://88.212.15.19/live/ngc_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-country="hu", National Geographic Wild (Hungary)
+http://88.212.15.19/live/ngw_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-country="hu", Nick Jr. (Hungary)
+http://88.212.15.19/live/nick_junior_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fXs8f6a.png" tvg-country="hu", Nickelodeon (Hungary)
+http://88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" tvg-country="hu", Nicktoons (Hungary)
+http://88.212.15.19/live/nicktoons_hungary/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P0fxUH5.png" tvg-country="hu", Oroszlanyi Varosi Televizio (720p)
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hbblRpZ.png" tvg-country="hu", Orszaggyules: OGY plenaris (720p) [Not 24/7]
+http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hbblRpZ.png" tvg-country="hu", Orszaggyules: OGY TAB (720p) [Not 24/7]
+http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/static/media/logo.png" tvg-country="hu", Oxygen Music (1080p)
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0Aq3UD.png" tvg-country="hu", Ozdi Varosi TV (720p) [Not 24/7]
+http://stream.nmih.hu:7980/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eSNF9qt.png" tvg-country="hu", Ozone TV
+http://88.212.15.19/live/ozone/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5L01wRi.png" tvg-country="hu", PilisTV (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/PilisTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VvZEP4s.png" tvg-country="hu", Prime (Hungary)
+http://88.212.15.19/live/prime/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n39a2DT.png" tvg-country="hu", Rakosmente TV (720p)
+http://rakosmentetv.hu:8080/hls/rmtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VXPpukf.png" tvg-country="hu", RegioPlusz TV (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/RegioPluszTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" tvg-country="hu", Retro (576p)
+http://stream.mcquack.net/191/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ruRshE1.png" tvg-country="hu", RTL (Hungary)
+http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcSd0Uk.png" tvg-country="hu", RTL Club
+https://7nyaler.streamhostingcdn.top/stream/65/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PwbLDUQ.png" tvg-country="hu", RTL Gold (Hungary)
+https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c4Hhhzs.png" tvg-country="hu", RTL Harom
+http://88.212.15.19/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IVv0qrI.png" tvg-country="hu", RTL Ketto
+http://88.212.15.19/live/test_rtl2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RTL_Otthon.svg/1920px-RTL_Otthon.svg.png" tvg-country="hu", RTL Otthon
+http://88.212.15.19/live/rtl_otthon_atk/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hKdXwrW.png" tvg-country="hu", Slager Muzika
+https://stream-23.mazana.tv/slagrmuzika.m3u8s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0YjeWcq.png" tvg-country="hu", Slager Original
+https://stream-13.mazana.tv/slagroriginal.m3u8s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qDNRgSQ.png" tvg-country="hu", Slager TV
+http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ihdk45P.png" tvg-country="hu", Soltvadkerti Televizio (720p)
+http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KsxWZIw.png" tvg-country="hu", Sorozat+
+http://88.212.15.19/live/test_sorozat_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sorozatklub.svg/1920px-Sorozatklub.svg.png" tvg-country="hu", Sorozatklub
+http://88.212.15.19/live/sorozatklub_atk/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmFRQ82.png" tvg-country="hu", Spektrum (Hungary)
+http://88.212.15.19/live/spektrum_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VaVi65F.png" tvg-country="hu", Spektrum Home (Hungary)
+http://88.212.15.19/live/spektrum_home_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pbk8c4x.png" tvg-country="hu", Spiler 1
+http://88.212.15.19/live/spiler1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1e0VsVH.png" tvg-country="hu", Spiler 2
+http://88.212.15.19/live/spiler2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5X3tKC.png" tvg-country="hu", Sport 1 (Hungary)
+http://88.212.15.19/live/sport1_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxflVoU.png" tvg-country="hu", Sport2
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxflVoU.png" tvg-country="hu", Sport 2 (Hungary)
+http://88.212.15.19/live/sport2_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pJsLyiv.png" tvg-country="hu", Story4
+http://88.212.15.19/live/test_story_4_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JCu1u2v.png" tvg-country="hu", Super TV2
+http://88.212.15.19/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilRmZtF.png" tvg-country="hu", Szecseny TV (720p)
+http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eiab9MP.png" tvg-country="hu", Szolnok TV (1080p)
+https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/skXYntc.png" tvg-country="hu", Tatai TV (1080p)
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T8ueztB.png" tvg-country="hu", TelePaks (396p)
+https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KcTTnUA.png" tvg-country="hu", The Fishing & Hunting Channel
+http://88.212.15.19/live/test_fishing_hunting/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KcTTnUA.png" tvg-country="hu", The Fishing & Hunting Channel HD
+http://88.212.15.19/live/fishing_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2bShnh.png" tvg-country="hu", Tisza TV (576p) [Not 24/7]
+https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/960px-TV2_2008.svg.png" tvg-country="hu", TV2 (Hungary)
+http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B02hbcV.png" tvg-country="hu", TV2 Comedy
+http://88.212.15.19/live/tv2_comedy/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zltlezm.png" tvg-country="hu", TV2 Kids
+http://88.212.15.19/live/tv2_kids/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GFj3XP.png" tvg-country="hu", TV2 Sef
+http://88.212.15.19/live/test_lichi_tv_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cjypCfu.png" tvg-country="hu", TV4 (Hungary)
+http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/97xpqt0.png" tvg-country="hu", TV Budakalasz (1080p) [Not 24/7]
+https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GUVW073.png" tvg-country="hu", TV Eger (1080p)
+http://stream.tveger.hu:8010/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2LE8xSW.png" tvg-country="hu", TV Keszthely (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLpZIS6.png" tvg-country="hu", TV Paprika (Hungary)
+http://88.212.15.19/live/parpika_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kzzYLdj.png" tvg-country="hu", TV Szentendre (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/TVSzentendre/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WOEqdmx.png" tvg-country="hu", Vasarhelyi Televizio (576p)
+https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ehx7R3A.png" tvg-country="hu", Viasat 3
+http://88.212.15.19/live/viasat3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kypSbFX.png" tvg-country="hu", Viasat 6
+http://88.212.15.19/live/viasat6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9krKKgU.png" tvg-country="hu", Volgyhid TV (540p)
+https://5cd03f21c7193.streamlock.net/volgyhidtv/mediakft/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IoHyW7w.png" tvg-country="hu", VTV Fuzesabony (720p) [Not 24/7]
+https://stream.nmih.hu:7962/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x8jstsh.png" tvg-country="hu", VTV Mor (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLVPf0i.png" tvg-country="hu", Zalaegerszegi TV (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xGUlF78.png" tvg-country="hu", Zenebutik
+http://88.212.15.19/live/zenebutik/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wPqCtwR.png" tvg-country="hu", Zuglo TV (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8

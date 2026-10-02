@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uwuSXJ8.png" tvg-country="gh", Adinkra TV (1080p)
+https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m6CM7VU.png" tvg-country="gh", Alvin Channel TV (360p) [Not 24/7]
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WjHSrHN.png" tvg-country="gh", Champion TV
+https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xhkiiO3.png" tvg-country="gh", GH Television (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/ghtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Naj8yUN.png" tvg-country="gh", GSG TV (720p)
+https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5cFLWKO.png" tvg-country="gh", GTV (Ghana) (540p)
+https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MaLNfJG.png" tvg-country="gh", Homebase TV (480p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d1P9ekm.png" tvg-country="gh", Hope Channel Ghana (480p)
+https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/34PmVAq.png" tvg-country="gh", MOGPA TV
+https://bk7l2r2nyx53-hls-live.5centscdn.com/ablazetv/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0YLSM3R.png" tvg-country="gh", MOGPA TV Plus
+https://bk7l2r2nyx53-hls-live.5centscdn.com/mogpatvplus/2567a5ec9705eb7ac2c984033e06189d.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mBNOSzl.png" tvg-country="gh", Nim TV (720p) [Not 24/7]
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034118312437919744/emeWo-ag_400x400.jpg" tvg-country="gh", OTV (Ghana) (720p)
+https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jw6d3dR.png" tvg-country="gh", Pent TV
+https://playlist.dacast.com/live/a72117af-d78e-7ffe-7c12-1af6cd4a8483-live-42172a86-494b-a866-498f-dbaff4b5e3c0/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UaQC0l8.jpeg" tvg-country="gh", Pindin TV
+https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prime_News.png" tvg-country="gh", Prime News (1080p)
+https://stream.ottlive.co.in/primenews/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a9ORO1G.png" tvg-country="gh", Pronems TV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yOPB7JB.png" tvg-country="gh", Studio One + (720p)
+https://cdn.pishow.tv/ott/live/276/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pthX34m.png" tvg-country="gh", Trace Jama (1080p)
+https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G5bNH48/Traditional-TV-HD.png" tvg-country="gh", Traditional TV (1080p)
+http://83.103.149.75:8085/udp/239.30.0.9:4000
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8t967Hq.png" tvg-country="gh", TV3 (Ghana) (540p)
+https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iEKDH26.png" tvg-country="gh", UGTV (720p)
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 tvg-logo="https://www.utvafrica.com/images/utv-logo.png" tvg-country="gh", UTV Africa (720p)
+https://oqgdro3xd4rm-hls-live.5centscdn.com/tfmediacastlivestreamUTV/8f263182c36c7e5c56a986bf770091e3.sdp/playlist.m3u8

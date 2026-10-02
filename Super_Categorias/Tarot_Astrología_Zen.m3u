@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fIi8o0C.png" tvg-country="fr", MyZen TV (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxLKSqL.png" tvg-country="cz", Plzen TV (1080p)
+https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKUaflB.png" tvg-country="ba", RTV Zenica (720p)
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/es.png" tvg-country="es", Taroteame (576p)
+https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kzzYLdj.png" tvg-country="hu", TV Szentendre (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/TVSzentendre/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xGUlF78.png" tvg-country="hu", Zenebutik
+http://88.212.15.19/live/zenebutik/index.m3u8
+#EXTINF:-1 tvg-logo="https://znth.tv/images/logo.png" tvg-country="es", zenith (1080p)
+https://live.azenagroup.com/zenith/index.ll.m3u8
+#EXTINF:-1 tvg-logo="https://www.stingray.com/wp-content/uploads/2023/12/stingray_zenlifebystingray_white.svg" tvg-country="ca", ZenLIFE by Stingray (1080p)
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8

@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cF7gJ2Q.jpeg" tvg-country="py", ABC Teleshow (720p)
+https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OqfBMGy.png" tvg-country="py", ABC-TV Paraguay (1080p)
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(vig4KUMvzIpvL_0CGgNPG2QFE6DukpwGhRZzGj8aqOyedNaDjlOwv-qe03N1Bk5-7nB-V7Uv8gBwwy2h-0TCL_WRE6IWeUWiVcnYm587YcdKpnqvQZ3tYg9iGdqpySyX)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rCEu3fM.png" tvg-country="py", America Paraguay (720p)
+http://45.170.130.224:8000/play/a02o/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqwyCV1.png" tvg-country="py", Asomavision (614p)
+https://asomatv.cloud-ip.cc/livestream/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFmyjZN/unnamed-1.png" tvg-country="py", Bruno Masi TV (720p)
+https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iXkwP31.png" tvg-country="py", C9N (720p)
+https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ah8n7jL.png" tvg-country="py", Canal Pro
+https://www.desde-paraguay.com/pro.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0RypDUY.png" tvg-country="py", E40 (1080p)
+https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1649_EPA__TV.png" tvg-country="py", EPA! TV (720p)
+https://live-evg10.tv360.bitel.com.pe/bitel/epatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bXWzstH.png" tvg-country="py", Farra Play (576p)
+https://stream.farra.com.py/live/farra_low.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5VPgAxB.jpg" tvg-country="py", G10TV (1080p)
+https://reflect-jacksonville.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qcf6Qev.png" tvg-country="py", Latele (1080p)
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CaA7l86.png" tvg-country="py", Mega TV (Paraguay) (1080p)
+https://www.desde-paraguay.com/mega.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VFxuBdL.jpg" tvg-country="py", Nandejara Ne'e TV
+https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vnIkhRO.png" tvg-country="py", Nanduti (1080p)
+https://nanduti.b-cdn.net/Source.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUEkaiW.png" tvg-country="py", NPY (1080p)
+https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9umNKp.jpeg" tvg-country="py", Oasis TV (Paraguay) (720p)
+https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWnTZ3c.png" tvg-country="py", Paraguay TV (1080p)
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yd9Dw2G.png" tvg-country="py", Paravision
+http://45.170.130.224:8000/play/a032/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXHK7UP.png" tvg-country="py", Productiva TV
+https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kLanG1t.jpeg" tvg-country="py", Radio Guaira TV
+https://tvdatta.com:3991/live/guairatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x02CGSW.png" tvg-country="py", RDN (1080p) [Not 24/7]
+https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iL5JnSy.jpeg" tvg-country="py", Regional TV Yaguaron (1080p)
+https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zcwQyPI.png" tvg-country="py", Rial TV (720p)
+https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" tvg-country="py", SNT (480p)
+https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltJQvZd.png" tvg-country="py", SUR TV Itapua
+http://45.170.130.224:8000/play/a036/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6lVrFvb.png" tvg-country="py", Telefuturo (Paraguay) (1080p)
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" tvg-country="py", Tigo Sports (Paraguay) (1080p)
+http://45.170.130.224:8000/play/a04k/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" tvg-country="py", Tigo Sports+ (1280p)
+https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgIv5QK.png" tvg-country="py", Trece (Paraguay)
+http://45.170.130.224:8000/play/a050/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H69eLFW.png" tvg-country="py", TV Bella Asuncion
+https://s2.tvdatta.com:3687/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mfypr0t.png" tvg-country="py", TV Camara (Paraguay) (1080p)
+http://45.170.130.224:8000/play/a03x/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cateqjx.jpeg" tvg-country="py", TV Canindeyu (1080p)
+https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgTD2TW.png" tvg-country="py", Unicanal
+http://45.170.130.224:8000/play/a04y/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XwmUbfp.png" tvg-country="py", Venus Media (1080p)
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8

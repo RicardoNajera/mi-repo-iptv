@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IHkZpaI.png" tvg-country="kp", KCTV (720p) [Not 24/7]
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p02AEOF.png" tvg-country="kp", Korean Central Television (1080p) [Not 24/7]
+https://live.koryocdn.org/kctv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p02AEOF.png" tvg-country="kp", Korean Central Television SD (576p)
+https://streamer.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1BHJjY4.png" tvg-country="kp", Ryongnamsan Television (720p) [Not 24/7]
+https://live.koryocdn.org/ryongnamsan/index.m3u8

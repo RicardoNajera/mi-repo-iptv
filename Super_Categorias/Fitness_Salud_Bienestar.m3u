@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sC0K5BZ.png" tvg-country="ru", 36.6 TV
+https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540" tvg-country="in", Ayush TV (576p)
+http://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qnwJiji.png" tvg-country="us", Better Health TV (480p)
+https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ht4tUOc.png" tvg-country="br", Canal Saude
+https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AzpRtCz.png" tvg-country="cn", CCTV-Health (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BM4E0Kr.png" tvg-country="ru", City Eden MedZdrav [Not 24/7]
+https://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NXBMzGV.png" tvg-country="bg", Code Health TV (1080p)
+https://cdn2.invivo.bg/codehealth_test/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bCyW32I.png" tvg-country="in", CVR Health (576p)
+https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VNirxxn.png" tvg-country="ru", Doctor (1080p)
+http://31.148.48.15/Doktor/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Dr%20Pal%20TV.jpeg" tvg-country="in", Dr Pal TV (720p)
+https://stream.cisk.tech/drpal/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_LIFE/images/LOGO_HD/image.png" tvg-country="in", ETV Life (1080p)
+https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESV6qgH.png" tvg-country="us", FITE 24/7 (1080p)
+https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7FQxaII.png" tvg-country="ae", GEM Fit
+https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vXbAeD0.png" tvg-country="fr", HANDICAP TV
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/2709.png" tvg-country="us", Health Channel (1080p)
+http://89.33.29.115:8080/Health/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkHrttj.png" tvg-country="es", Logos TV Salud (720p) [Not 24/7]
+https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.medibiztv.com/assets/logo-E76jcvP9.png" tvg-country="ae", MediBizTV (720p)
+https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xe7x1k2.png" tvg-country="ro", MediCOOL TV
+https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/643814ef479f6400086ff043/colorLogoPNG.png" tvg-country="dk", Mit plastikmareridt
+https://jmp2.uk/plu-643814ef479f6400086ff043.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fIi8o0C.png" tvg-country="fr", MyZen TV (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME/images/LOGO_HD/image.png" tvg-country="in", NDTV Profit (1080p)
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7orZOJA.png" tvg-country="ru", Otkritiy mir. Zdorove (576p)
+https://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/fr.png" tvg-country="fr", Persiana Medical
+https://phd2hls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1WDFKF0.png" tvg-country="es", Pluto TV Misterios Medicos
+https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SfyCwXj.png" tvg-country="id", PMI TV (720p) [Not 24/7]
+https://cdn.live247stream.com/pmi/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0PkyJ3U.png" tvg-country="br", Pronto-socorro: Historias De Emergencia
+https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pnbzE2V.png" tvg-country="th", Rama Channel
+https://ramach.ddns.net/live/ramalive/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f0/IRIB_Salamat_Logo.png" tvg-country="ir", Salamat TV
+https://ncdn.telewebion.ir/salamat/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kHFlTEy.png" tvg-country="us", Smart LifeStyle TV (720p)
+https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wQpooHw.png" tvg-country="tg", SOS Docteur TV (480p) [Not 24/7]
+https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QVHKPw.png" tvg-country="es", Television Consciente (1080p)
+https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e9145ec07f2a00070e68dc/colorLogoPNG.png" tvg-country="us", The Andy Griffith Show
+https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e9145ec07f2a00070e68dc/colorLogoPNG.png" tvg-country="ca", The Andy Griffith Show CA
+https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2sAz8dZ.png" tvg-country="us", The Doctors (720p) [Geo-blocked]
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pGm8QCj.png" tvg-country="ru", Tonus (576p)
+http://194.143.148.28:8080/Mir24/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BT7EtfB.png" tvg-country="us", WiseHumanTv (1080p)
+https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jedtE5l.png" tvg-country="ru", Zdorovoe TV (576p)
+https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.stingray.com/wp-content/uploads/2023/12/stingray_zenlifebystingray_white.svg" tvg-country="ca", ZenLIFE by Stingray (1080p)
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LPqySGk.png" tvg-country="ru", Zhivi! (1080p)
+http://31.148.48.15/Zhivi/index.m3u8

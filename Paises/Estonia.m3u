@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fUjGHDa.png" tvg-country="ee", ETV 2 (720p)
+https://sb.err.ee/live/etv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5URjPgG.png" tvg-country="ee", ETV (Estonia) (720p)
+https://sb.err.ee/live/etv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png" tvg-country="ee", ETV+ (720p)
+https://sb.err.ee/live/etvpluss.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJSvxE2.png" tvg-country="ee", KidZone Max (1080p) [Geo-blocked]
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JhrTB82.png" tvg-country="ee", Life TV (Estonia) (432p) [Not 24/7]
+http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SeRNJIS.png" tvg-country="ee", OTSE (1080p)
+http://stream.mcquack.net/329/index.m3u8
+#EXTINF:-1 tvg-logo="https://web02.antik.sk/assets/img/channels/5c4e6aadc3255df82fedf3221570cdb5.svg" tvg-country="ee", OTV (Estonia)
+http://88.212.15.19/live/otv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dJRGDt2.png" tvg-country="ee", Riigikogu (720p)
+https://router.euddn.net/862366dd346d6b6392d5231546f3d179/smil:rk_live_1.smil/playlist.m3u8?c=8005
+#EXTINF:-1 tvg-logo="https://i.imgur.com/usXedIj.png" tvg-country="ee", Taevas TV7 (720p)
+https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rKBaK56.png" tvg-country="ee", TBN Baltia (1080p)
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8

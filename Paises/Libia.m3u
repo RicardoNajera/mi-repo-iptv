@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NVOeM3P.png" tvg-country="ly", Al Madina (720p)
+https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xkQKVGi.png" tvg-country="ly", Libya Al Ahrar TV (1080p)
+https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSUny9D.jpeg" tvg-country="ly", Libya Al Wataniya (360p)
+https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iBAhM2v.png" tvg-country="ly", Tanasuh TV (1080p)
+https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f9pL2NE.png" tvg-country="ly", Wasat TV (1080p)
+https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8

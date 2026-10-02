@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pxFamLr.png" tvg-country="bj", ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CYy4n0N.png" tvg-country="bj", Benin Web TV (720p)
+https://stream.beninwebtv.bj/2/live/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v8TiqhH.png" tvg-country="bj", Evandis Gospel TV (1080p)
+https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oUnEYl5.png" tvg-country="bj", TVC Benin (720p)
+https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8

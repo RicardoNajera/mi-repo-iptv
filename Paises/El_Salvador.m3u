@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/960px-Canal_2_TCS.png" tvg-country="sv", Canal 2 (El Salvador) (720p)
+http://186.33.26.18:8000/play/a0qp/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png" tvg-country="sv", Canal 4 (El Salvador) (1080p)
+http://45.5.118.188:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M4muPLK.png" tvg-country="sv", Canal 6 (El Salvador) (720p)
+http://45.167.2.101:8000/play/a0qs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2ppMnY.png" tvg-country="sv", Canal 10 (El Salvador) (720p)
+https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/itqQEux.png" tvg-country="sv", Canal 11 TuTV (349p)
+https://stream.giostreaming.app/canal11/canal11.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMv3yEf.png" tvg-country="sv", Canal 12 (576p)
+http://186.33.26.18:8000/play/a0nw/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/payIg0N.png" tvg-country="sv", Elim TV (576p)
+http://38.252.238.18:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3802-294x165-FFFFFF.jpg" tvg-country="sv", Femenina TV
+https://streamunoapp.com:3511/live/femeninatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vHfb3Z4.png" tvg-country="sv", Iglesia Del Camino (480p) [Not 24/7]
+http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OBuiCyb.png" tvg-country="sv", Legislative Assembly of El Salvador (1080p) [Not 24/7]
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Canal_19%27s_logo_%28Second_Era%29_in_2002.png" tvg-country="sv", Megavision Canal 19 (720p)
+https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HbdYU9k.png" tvg-country="sv", Megavision Canal 21 (720p)
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hwC1stN.png" tvg-country="sv", Mision ELTV (720p)
+https://rd.tvabierta.net/live/misioneltv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png" tvg-country="sv", Orbita TV (360p) [Not 24/7]
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:-1 tvg-logo="https://radioclasicapotosi.com/players/nexoplayer/assets/logo.png" tvg-country="sv", Radio Clasica TV (720p)
+https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jaBxxpt.png" tvg-country="sv", SolTV (El Salvador) (720p)
+https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iYFWG06.png" tvg-country="sv", TCS+ (480p) [Not 24/7]
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oLnrf0d.png" tvg-country="sv", Television de San Vicente (1080p)
+https://emision.arpamedia.es:4343/hls/tvsanvicenteweb.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" tvg-country="sv", Tigo Sports (El Salvador) (1080p)
+http://45.167.2.101:8000/play/a0pp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fyCC8R6.png" tvg-country="sv", TVM El Salvador (720p)
+https://twitch-m3u8.bastypro112.workers.dev/tvm_esa/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsXXEUZ.png" tvg-country="sv", TVO Canal 23 (720p)
+https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Tvojesus.png" tvg-country="sv", TVO Jesus (720p)
+https://cloud.tvomix.com/TVOJESUS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCVWtHd.png" tvg-country="sv", TVO San Vicente (720p)
+https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/7ef61237-c46d-456b-afe3-a42ef49a979e_Mejorado2.png" tvg-country="sv", TVOMIX (1080p)
+https://cloud.tvomix.com/TVOMIX/index.m3u8

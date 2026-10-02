@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgao1fVZ7tV_ExJErlM5JsI8Rxv5TXJSU7ZE6p-g_qSXOiRKrAjCmX650Aw1PYv6cPqML3eKDQGZ_Z5BPYpeLwwAbZay3g4mpTVBW9Xs5D9nEVPD1i9xfOKQsRCFrOJhBgRt9L9yhfLimbu7S4Ozio2tiZ5uc45lRtyS6RjMpI-Ts1n2m_THG8K19R4STns=w800" tvg-country="ve", AbejalesTV (720p)
+https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/frd60hR.png" tvg-country="ve", Agrotendencia TV (1080p)
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" tvg-country="ve", Aguacate TV (1080p)
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/veeuqS1.png" tvg-country="ve", Alcance TV (Venezuela) (720p)
+https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qm88HT0.png" tvg-country="ve", ANTV (Venezuela) (720p)
+http://181.78.8.199:8000/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SLqrEOz.png" tvg-country="ve", Anzoategui TV (360p) [Not 24/7]
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bGVFBa.png" tvg-country="ve", AsiriTV (720p) [Not 24/7]
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D7bLHGB/1575-Barinas-TV.png" tvg-country="ve", Barinas TV (720p) [Not 24/7]
+https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8CB2On.jpeg" tvg-country="ve", Canal 15 Teleor (720p)
+https://ares.disfrutaenlared.com:1936/activatv/activatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Tb7CF4.jpg" tvg-country="ve", Canal 21 Tachira (360p)
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ew44KOZ.png" tvg-country="ve", Canal C del Zulia (1080p)
+https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vKfOavW.png" tvg-country="ve", Canal I (1080p)
+https://streaming.canal-i.com/canal-i/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G0x4xqa.png" tvg-country="ve", Canal Metropolitano de Noticias
+https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5QKQ2E.png" tvg-country="ve", Canal TRV (576p)
+https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QGvfqug.png" tvg-country="ve", Caracola TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LBI2la0.png" tvg-country="ve", Catatumbo TV (406p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" tvg-country="ve", Coral TV (720p)
+https://tv.mediacp.eu:8081/coraltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Y4ahiYu.png" tvg-country="ve", Ecovision (720p)
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v6nRdxQ.png" tvg-country="ve", Globovision (576p)
+http://181.78.8.199:8000/play/a09k/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg" tvg-country="ve", Guaro TV (720p)
+https://stream.guarotv.net:3592/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg" tvg-country="ve", Inter TV (Venezuela) (1080p)
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l11Ixhi.jpeg" tvg-country="ve", Isla TV (480p)
+https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvqk2hw/LOGO-HORIZONTAL-text.png" tvg-country="ve", La Tele Tuya (576p)
+http://181.78.8.199:8000/play/a0fs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EJf1eRt.png" tvg-country="ve", LaPuraCrema Television
+https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://laraenredes.com/wp-content/uploads/elementor/thumbs/LOGO-LARA-EN-REDES-2025-r768xu4o4gvkigl9v1lorc3aq3n35710u0g7cah8e0.jpg" tvg-country="ve", Lara en Redes
+https://streamtv.laraenredes.com:3020/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I6gsUqD.png" tvg-country="ve", Meridiano TV (576p)
+http://181.78.8.199:8000/play/a0fr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yfgTa2d.png" tvg-country="ve", Monagas Vision (720p) [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jTX2vp0.png" tvg-country="ve", Norte TV (720p) [Not 24/7]
+https://ntvcanal7.com.ar:81/dash/stream.mpd
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/ve.png" tvg-country="ve", Plus TLT (720p)
+http://15.204.246.24:8080/PlusTLTHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG_1765471713312.png" tvg-country="ve", Pluto TV Novelas de Venezuela
+https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jHUSfGz.png" tvg-country="ve", Portuguesa Television (480p) [Not 24/7]
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" tvg-country="ve", PromarTV (576p)
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TvFKG35.png" tvg-country="ve", RCTV3 (480p)
+https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJIN8Dc.png" tvg-country="ve", ShowVen TV (720p)
+https://cdnbarinas.tvzamora.com/showven/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zRX91Xr.png" tvg-country="ve", Siembra TV (Venezuela) [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BwRNes1.png" tvg-country="ve", Suceso TV (720p) [Not 24/7]
+https://live.enhdtv.com:8081/8060/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B26qL3e.png" tvg-country="ve", Sun Channel (720p)
+http://168.196.127.137:6001/play/a06p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jPzcb2S.png" tvg-country="ve", TeleAragua (480p)
+http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YDE4Jsi.jpg" tvg-country="ve", Telebocono (720p) [Not 24/7]
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QtRNfaj.png" tvg-country="ve", Telecentro (Venezuela) (480p) [Not 24/7]
+https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P50VjRX.png" tvg-country="ve", Telesur (1080p)
+http://181.78.211.244:8005/play/a0cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P50VjRX.png" tvg-country="ve", Telesur English (480p)
+https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P50VjRX.png" tvg-country="ve", Telesur English HD (1080p)
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P50VjRX.png" tvg-country="ve", Telesur HD (1080p)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cxvkUvK.png" tvg-country="ve", Televen (1080p)
+http://38.134.250.110:8000/play/a02i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wFC6Xxq.png" tvg-country="ve", Televisora de Oriente (406p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png" tvg-country="ve", TNO Radio (720p)
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png" tvg-country="ve", Torococo TV (720p) [Not 24/7]
+https://us.streaminghd.cl/torococotelevision/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG" tvg-country="ve", TRT (Venezuela) (410p) [Not 24/7]
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c1YHQ8K/tvandes.png" tvg-country="ve", TV Andes (720p) [Not 24/7]
+https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZUQ2WP.png" tvg-country="ve", TV Luz (480p)
+https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DHyRWc0.png" tvg-country="ve", TV Montana Canal 10 (1080p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hwd7osJ.jpeg" tvg-country="ve", TV Oasis Monay (720p)
+https://servilive.com:3562/live/vav4c8z38live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J8ztiAN.png" tvg-country="ve", TVS (Venezuela) (720p)
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NMI2Wed.png" tvg-country="ve", Vale TV (480p) [Not 24/7]
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNpgFAU.png" tvg-country="ve", Vallevision (720p) [Not 24/7]
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uc3zqcP.png" tvg-country="ve", Ve Plus (720p)
+http://186.148.196.100:8000/play/a01d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uc3zqcP.png" tvg-country="ve", Ve Plus Panregional (1080p)
+http://190.61.114.186:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gm1m8hW.png" tvg-country="ve", Venevision (576p)
+http://181.78.8.199:8000/play/a0if/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vtGED07.jpg" tvg-country="ve", Venevision Internacional (720p)
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0bqJksL.png" tvg-country="ve", Vepaco TV (480p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4gj5NMa.png" tvg-country="ve", Vision NDV (720p) [Not 24/7]
+https://soportedvb.click:3891/live/visionndvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/25CFHpB.png" tvg-country="ve", Vive TV (1080p)
+http://192.144.113.132:1935/live/ViveTV/playlist.m3u8

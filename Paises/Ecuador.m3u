@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUqKymM.png" tvg-country="ec", America Estereo Guayaquil (360p)
+https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUqKymM.png" tvg-country="ec", America Estereo Ibarra (720p)
+https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUqKymM.png" tvg-country="ec", America Estereo Quito (1080p)
+https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUqKymM.png" tvg-country="ec", America Estereo Tulcan (614p)
+https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCN6iZJ.png" tvg-country="ec", Antena Uno Radiovideo (360p)
+https://tvdatta.com:3578/live/antenaunolive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FTv7zpJ.jpeg" tvg-country="ec", Aupur Television (1080p)
+https://canal.aupurtv.co/live/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m1LK6rY.png" tvg-country="ec", Bacan Te Veo (360p)
+https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqQ3kCs.png" tvg-country="ec", Bellavision (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" tvg-country="ec", Canal Pulpo TV
+https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" tvg-country="ec", Cinerama Television (720p)
+https://live.cineramatvbo.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/ctnmas.jpg" tvg-country="ec", CNT Mas TV (720p) [Not 24/7]
+https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oukGx28.png" tvg-country="ec", Curiquingue TV (720p)
+https://video2.lhdserver.es/pjtv/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KOuxdMD.png" tvg-country="ec", Dismar Radio TV (720p)
+https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8k8DsBL.png" tvg-country="ec", Duran TV (480p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GiDD8xG.jpg" tvg-country="ec", Eclipse TV (720p)
+https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pVlZUSV.png" tvg-country="ec", Ecotel TV (720p)
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hj6EYwe.png" tvg-country="ec", Ecuador TV (1080p)
+http://45.224.97.181:9999/EcuadorTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EMe5oWn.jpg" tvg-country="ec", EcuaMundo Radio TV (720p) [Not 24/7]
+https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" tvg-country="ec", Ecuavisa (1080p)
+http://45.171.108.253:8888/ECUAVISA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hl5wowk.png" tvg-country="ec", Ecuavisa Guayaquil (1080p) [Not 24/7]
+https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+#EXTINF:-1 tvg-logo="https://elpituco.com/wp-content/uploads/2021/04/ElPituco.png" tvg-country="ec", El Pituco TV (720p)
+https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1743_El_Radar.png" tvg-country="ec", El Radar (720p)
+https://video.ipstream.cl:3459/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8PxpamC.png" tvg-country="ec", EUTV (720p)
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KMEf0Cc.png" tvg-country="ec", Ficom Channel (720p)
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1nNnYQO.png" tvg-country="ec", FM Mundo (1080p)
+https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" tvg-country="ec", Gamavision (1080p)
+http://45.224.97.181:9999/Gamavision/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2t7A2yg.png" tvg-country="ec", Girasol TV (1080i)
+https://s.emisoras.tv:8081/girasoltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/koMQZNX.png" tvg-country="ec", Hechos Ecuador (1080p) [Not 24/7]
+https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TyckDSV.png" tvg-country="ec", IeanJesus Ecuador (720p)
+https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2WirGqb.png" tvg-country="ec", Inti TV (1080p) [Not 24/7]
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cCFxyIp.jpg" tvg-country="ec", KandelaTV (480p)
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+#EXTINF:-1 tvg-logo="https://lahoratv.org/imagen/lahora.jpeg" tvg-country="ec", La Hora TV (720p) [Not 24/7]
+https://edge.enhdtv.com/8206/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8wDMgmB.jpg" tvg-country="ec", La Perla Radio TV (720p) [Not 24/7]
+https://eu1.servers10.com:8081/8068/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zv8CxZX.png" tvg-country="ec", La Voz de Maria (720p)
+https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
+#EXTINF:-1 tvg-logo="https://www.larivision.com/web/wp-content/uploads/2025/07/logow.png" tvg-country="ec", Larivision TV
+https://cloud5.larivision.net/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YjgYYH3.png" tvg-country="ec", LatacungaTV (360p)
+https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rdpcv7C/1689421727166.jpg" tvg-country="ec", Limon TV (1080p) [Not 24/7]
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d1GWRnm.png" tvg-country="ec", Majestad Television (720p)
+https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
+#EXTINF:-1 tvg-logo="https://makrodigitaltelevision.com/logo.jpg" tvg-country="ec", MakroDigital Television (1080p)
+https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZkW342.png" tvg-country="ec", Manavision (480p)
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UC8WrEN.jpg" tvg-country="ec", Maxivision TV (720p)
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/MC_TV_logosu.png" tvg-country="ec", MC TV (720p)
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" tvg-country="ec", Mega Cine TV (1080p)
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sfd87LX.png" tvg-country="ec", Mercurio Noticias
+https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IHKBGmu.png" tvg-country="ec", Multicanal Catamayo (720p) [Not 24/7]
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9pW0LA.jpeg" tvg-country="ec", Ondas Quevedenas TV (720p) [Not 24/7]
+https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://oromartv.com/images/OTV400.png" tvg-country="ec", Oromar TV (1080p)
+http://45.224.97.181:9999/Oromar/index.m3u8
+#EXTINF:-1 tvg-logo="https://oromartv.com/images/OTV400.png" tvg-country="ec", Oromar TV+ (720p)
+https://stream.oromar.tv/hls/camriva/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mhbERF9.jpg" tvg-country="ec", Pantalla Clasica EC (512p) [Not 24/7]
+https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png" tvg-country="ec", Peques TV (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TZqOINg.png" tvg-country="ec", Plus TV (Ecuador) (720p) [Not 24/7]
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CYldC2R.png" tvg-country="ec", Puruwa TV (1080p)
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IvZtqyz.png" tvg-country="ec", Radio Bonita 106.7 (720p)
+https://cloudvideo.servers10.com:8081/8154/index.m3u8
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/574/radio-centro-fm.e939fb1e.png" tvg-country="ec", Radio Centro (720p)
+https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qZzSOeU.png" tvg-country="ec", Radio Cuenca Estereo (720p)
+https://eu1.servers10.com:8081/8074/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png" tvg-country="ec", Radio Fantasia TV (720p)
+https://v2.tustreaming.cl/fantasiatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chPfoOs.png" tvg-country="ec", Radio Ideal (720p) [Not 24/7]
+https://www.idealfm104-7.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BYcxI03.png" tvg-country="ec", Radio Rumba TV (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJNXjS2.png" tvg-country="ec", RadioMensaje TV (720p)
+https://eu1.servers10.com:8081/8230/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3jj0MQP.jpg" tvg-country="ec", Red Digital (1080p) [Not 24/7]
+https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pzf2ZAW.png" tvg-country="ec", Red TVE Ventanas (432p)
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DzxGHRZ.png" tvg-country="ec", RTV (Ecuador) (720p) [Not 24/7]
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rwA3HIp.png" tvg-country="ec", RumbaMix TV (720p)
+https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f8bDccF.png" tvg-country="ec", SiTV (1080p) [Not 24/7]
+http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HWHeqWY.png" tvg-country="ec", Sono Onda TV (720p)
+https://live.obslivestream.com/sonoondatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/okK02EN.png" tvg-country="ec", TC Television (1080p)
+http://45.224.97.181:9999/TC/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" tvg-country="ec", Teleamazonas (1080p)
+http://45.171.108.253:8888/TELEAMAZONAS/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FtV5TCs.jpg" tvg-country="ec", Telecomercio TV (720p) [Not 24/7]
+https://streaming.grupomediosdelnorte.com:19360/telecomerciotv/telecomerciotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1DqLy8H.png" tvg-country="ec", Telecosta (Ecuador)
+https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/whIRrjo.png" tvg-country="ec", Telerama (240p) [Not 24/7]
+https://play.once.net.ec/telerama/live.tv/538.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D1BBTv8.png" tvg-country="ec", Telesucesos (720p) [Not 24/7]
+https://ticsbalancer.ticsecuador.com.ec:4444/TeleSucesos/streams/UIO-HD_adaptive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C5vHpd0.png" tvg-country="ec", Tribuna TV (720p) [Not 24/7]
+https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xIuFSnx.png" tvg-country="ec", TV Cisne (1080p)
+https://video2.lhdserver.es/tvcisne/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TIsk5zN.png" tvg-country="ec", TV Universal Ecuador (720p)
+https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zhdIwlm.png" tvg-country="ec", TVC (Ecuador) (1080p)
+http://45.224.97.181:9999/TVC/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d02qUU.jpeg" tvg-country="ec", TvOro (1080p)
+http://45.187.0.19:9090/tvusa/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1rluyB7.png" tvg-country="ec", UNIANDES TV (720p) [Not 24/7]
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HQGBqGU.png" tvg-country="ec", Unsion TV (1080p)
+http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QoJ2gD0.png" tvg-country="ec", VitoTVO (1080p)
+http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6q0Gp9R.png" tvg-country="ec", Zaracay TV (1080p) [Not 24/7]
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8

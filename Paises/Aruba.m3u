@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9fWY09U.png" tvg-country="aw", Aruba.TV (1080p)
+https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9s6LZJZ.png" tvg-country="aw", ArubaTV +
+https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MKZCskA.png" tvg-country="aw", Heart Radio Aruba
+https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PY3P0aM.png" tvg-country="aw", Telearuba (1080p) [Not 24/7]
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8

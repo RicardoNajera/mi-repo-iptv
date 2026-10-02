@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven-Eight-TV.png/960px-Seven-Eight-TV.png" tvg-country="bg", 7/8 TV
+http://213.91.179.28:8000/play/a0cn
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png" tvg-country="bg", 24Kitchen Bulgary (1080p)
+http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tPMNDtD.png" tvg-country="bg", Agro TV (Bulgaria) (480p)
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-country="bg", AMC Europe Bulgary (576p)
+http://hls127.freeott.top:8080/BG_AMC/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-country="bg", AXN CEE Bulgary
+http://85.11.144.9:4222/AXN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/47IKxmt.png" tvg-country="bg", AXN White Bulgaria (576p)
+http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cHwOVqk.png" tvg-country="bg", Bloomberg TV Bulgaria
+http://213.91.179.28:8000/play/a04m
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7JU9b5j.png" tvg-country="bg", BNT 1 (1080p)
+https://shift03.isp.bg/BNT1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FyTUr9Q.png" tvg-country="bg", BNT 2 (1080p)
+https://shift03.isp.bg/BNT2_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pPpSJ4u.png" tvg-country="bg", BNT 3 (1080p)
+https://shift03.isp.bg/BNT3_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lw8b3yu.png" tvg-country="bg", BNT 4 (1080p)
+https://shift03.isp.bg/BNT4_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swFzesA.png" tvg-country="bg", BOX TV
+http://213.91.179.28:8000/play/a0an
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vygOosC.png" tvg-country="bg", BTA TV (720p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l47z7gw.png" tvg-country="bg", bTV
+http://213.91.179.28:8000/play/a03w
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hGUXHuT.png" tvg-country="bg", bTV Action
+http://213.91.179.28:8000/play/a04n
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uV81rS4.png" tvg-country="bg", bTV Cinema
+http://213.91.179.28:8000/play/a04i
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1c6A5dO.png" tvg-country="bg", bTV Comedy
+http://213.91.179.28:8000/play/a04k
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rXBPJ1e.png" tvg-country="bg", bTV Lady
+http://213.91.179.28:8000/play/a05i
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mvShl7F.png" tvg-country="bg", Bulgaria On Air
+http://213.91.179.28:8000/play/a05x
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t9vVTLH.png" tvg-country="bg", CineStar 1 Bulgaria
+http://213.91.179.28:8000/play/a05h
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mFL452f.png" tvg-country="bg", City TV (Bulgaria) (576p) [Not 24/7]
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mVc2g64.png" tvg-country="bg", Code Fashion TV (1080p)
+https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NXBMzGV.png" tvg-country="bg", Code Health TV (1080p)
+https://cdn2.invivo.bg/codehealth_test/index.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/bg.png" tvg-country="bg", Diema
+http://213.91.179.28:8000/play/a045
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SgNVY4d.png" tvg-country="bg", Diema Family
+http://213.91.179.28:8000/play/a047
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxrAiAe.png" tvg-country="bg", Disney Channel (Bulgaria)
+http://213.91.179.28:8000/play/a059
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YMgzzkf.png" tvg-country="bg", DSTV (Bulgaria) (614p) [Not 24/7]
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/bg.png" tvg-country="bg", Eurocom (360p)
+https://live.ecomservice.bg/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RrQVoOg.png" tvg-country="bg", Euronews Bulgaria
+http://213.91.179.28:8000/play/a05e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42wImV2.png" tvg-country="bg", Fiesta TV
+https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" tvg-country="bg", FILMBOX+ Emotion Bulgaria
+http://213.91.179.28:8000/play/a04r
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" tvg-country="bg", FILMBOX+ Love & Crime Bulgaria (720p)
+http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" tvg-country="bg", FILMBOX+ One Bulgaria (576p)
+http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1UokOyN.png" tvg-country="bg", FM Plus TV (720p)
+https://v2.tustreaming.cl/fmplus/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Seq7Od7.png" tvg-country="bg", Folk Klub TV (720p)
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdOGJes.png" tvg-country="bg", Folklore TV (720p)
+https://play.folkloretv.pe/StreamSD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VLv4r50.png" tvg-country="bg", FX Life (576p)
+http://str2.iptvhd.ru:8080/Fox_Life_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/bg.png" tvg-country="bg", History (Bulgaria)
+http://213.91.179.28:8000/play/a0c1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gbaxq6P.png" tvg-country="bg", Hit Mix Music
+http://213.91.179.28:8000/play/a0cl
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HPsxqMx.png" tvg-country="bg", Home + (576p)
+http://str2.iptvhd.ru:8080/home_plus/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bxzeEML.png" tvg-country="bg", Hope Channel Bulgaria
+https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eXErSv0.png" tvg-country="bg", Kanal 3 (1080p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMqEY0J.png" tvg-country="bg", Kino Nova
+http://213.91.179.28:8000/play/a041
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S3Fbf8T.png" tvg-country="bg", Light Channel (Bulgaria) (480p) [Not 24/7]
+https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n7bcrrp.png" tvg-country="bg", Magic TV (Bulgaria) (720p)
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ohnpql.png" tvg-country="bg", Max Sport 1 (1080p)
+http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/33m1wPN.png" tvg-country="bg", Max Sport 2 (1080p)
+http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eGiGgZ2.png" tvg-country="bg", Max Sport 3 (1080p)
+http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7IxXX6f.png" tvg-country="bg", Max Sport 4 (1080p)
+http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/21tpl5b.png" tvg-country="bg", MMTV (1080p)
+https://sendlive.online/hls/mmtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DdZH49P.png" tvg-country="bg", Movie Star (720p)
+https://shift03.isp.bg/MovieStar/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="bg", National Geographic (Bulgaria) (1080p)
+http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-country="bg", National Geographic Wild (Bulgaria) (1080p)
+http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="bg", Nickelodeon (Bulgaria) (576p)
+http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JU1dFfK.png" tvg-country="bg", Nostalgia (Bulgaria)
+http://213.91.179.28:8000/play/a03q
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WCsPSLX.png" tvg-country="bg", Nova (Bulgaria)
+http://213.91.179.28:8000/play/a03l
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s6IryS3.png" tvg-country="bg", Nova News
+http://213.91.179.28:8000/play/a063
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2jREQ5.png" tvg-country="bg", Okey [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/bg.png" tvg-country="bg", Plovdiv Orthodox TV (1080p)
+http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/bg.png" tvg-country="bg", RING
+http://213.91.179.28:8000/play/a06e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mudXVT8.png" tvg-country="bg", Shift TV (1080p)
+https://hls.shift.tv/live/shifttv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ya5xpUL.png" tvg-country="bg", Sky Folk TV (720p) [Not 24/7]
+https://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-country="bg", Star Channel (Bulgaria) (720p)
+http://hls127.freeott.top:8080/BG_FOX/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" tvg-country="bg", Star Crime (Bulgaria) (720p)
+http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" tvg-country="bg", Star Life (Bulgaria) (720p)
+http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OoJSmoj.png" tvg-country="bg", The Voice (720p)
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/thevoicetv.png" tvg-country="bg", The Voice TV (1080p)
+https://legitpro.co.in/thevoicetv/thevoicetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/062jkXw.png" tvg-country="bg", This is Bulgaria HD (1080p)
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKY4q64.png" tvg-country="bg", Tiankov Folk (576p)
+https://streamer103.neterra.tv/tiankov-folk/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/33LexyP.png" tvg-country="bg", Tiankov Orient Folk (576p)
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5xllfed.png" tvg-country="bg", Travel TV (576p)
+https://streamer103.neterra.tv/travel/live.m3u8
+#EXTINF:-1 tvg-logo="https://tvsb.bg/theme/images/logo.png" tvg-country="bg", TV Spravedliva Bulgariya
+https://tv.tvsb.bg/112.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DvBboqe.png" tvg-country="bg", TV Zagora (576p)
+http://zagoratv.ddns.net:8080/tvzagora.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvmaispet.com.br/images/tvpet-logo.png" tvg-country="bg", TV+Pet
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg" tvg-country="bg", Viasat Explore (Bulgaria) (1080p)
+https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg" tvg-country="bg", Viasat History (Bulgaria) (1080p)
+https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/io0WAkA.png" tvg-country="bg", Viasat Kino Bulgaria (1080p)
+http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png" tvg-country="bg", Viasat Nature (Bulgaria) (1080p)
+https://shift03.isp.bg/ViasatNature_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M7QKnH3.png" tvg-country="bg", Vivacom Arena (720p)
+http://hls127.freeott.top:8080/BG_Vivacom_Arena_HD/video.m3u8

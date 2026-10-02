@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lhgrqmA.png" tvg-country="jm", Caribbean Gospel TV
+https://25466019af9b7aed.servers.dvcloud.tv/hls/iptv_providers/fhvtgifbqbcjp0g19mdd76t18tpalu4k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3PUxes.png" tvg-country="jm", Fame95 FM (480p)
+https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Aw9u4Ax.png" tvg-country="jm", Jamaica Online TV (1080p) [Not 24/7]
+https://tvsw7-hls.secdn.net/tvsw7-chorigin/play/prod-bb11dd0e11ca45229a3f58aeff5213d8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ewdPTh8.png" tvg-country="jm", Jamaica Travel Channel (720p)
+https://stream-207076.castr.net/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c27k0Bd.png" tvg-country="jm", Riddim & Hope TV
+https://6zklxwavdw9b-hls-live.5centscdn.com/RIDDIMNHOPE/0954119dc19d9003dd5f4bb37b3f559e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R4PoC3L.png" tvg-country="jm", TVJ (720p) [Not 24/7]
+https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8

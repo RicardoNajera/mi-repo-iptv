@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kqHWrZ9.png" tvg-country="et", Addis TV (720p)
+https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jytpy32.png" tvg-country="et", AZA TV HD (1080p)
+https://tv.webmedialive.com/azatvhn/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ccdwsWj.png" tvg-country="et", Company TV (720p)
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0P7QHde.png" tvg-country="et", Daru TV (720p)
+https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zqbK2IB.png" tvg-country="et", EBS HD (1080p)
+https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fewPTFE.png" tvg-country="et", EBS Cinema (720p)
+https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/62oo8Bx.png" tvg-country="et", EBS Kids (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lSpplhD.png" tvg-country="et", EBS Musika (720p)
+https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PaAacxF.png" tvg-country="et", Mereja TV
+https://g4wlkqp8l23a-hls-live.5centscdn.com/MerejaTV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rqEyzjE.png" tvg-country="et", Nesiha TV (720p)
+https://stream.cisk.tech/nasihatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsEGIXO.png" tvg-country="et", Trace Muzika (1080p)
+https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8

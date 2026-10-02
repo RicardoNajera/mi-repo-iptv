@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIaRpiS.png" tvg-country="cm", Afrique54 TV (720p)
+https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/spQgX7X.png" tvg-country="cm", Afrique Media (720p)
+https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xspb9uY.png" tvg-country="cm", CAM 10 TV (720p)
+https://stream.it-innov.com/cam10tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQWNh3L.png" tvg-country="cm", CRTV (Cameroon) (576p)
+http://145.239.5.177/147/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5CshVf9.png" tvg-country="cm", CRTV News
+https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KG93Tvn.png" tvg-country="cm", Filinfo TV (1080p)
+https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zzG1S2n.png" tvg-country="cm", Laura Dave Media TV (720p)
+https://streaming.lauradavemedia.com/ldm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wneSSYM.png" tvg-country="cm", Panafrican Media TV (480p)
+https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1dmBqpf.png" tvg-country="cm", Play TV (Cameroon) (720p) [Not 24/7]
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cYwkCj2.png" tvg-country="cm", Trace Mboa (1080p)
+https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8

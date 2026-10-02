@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MM5evnD.png" tvg-country="mm", Fortune TV (720p)
+http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zyTQG9F.png" tvg-country="mm", MWD (720p) [Not 24/7]
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4XV7cjU.png" tvg-country="mm", MWD Documentary [Geo-blocked]
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5KRsqeF.png" tvg-country="mm", MWD Movies [Not 24/7]
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wb3Ku8X.png" tvg-country="mm", MWD Variety (720p) [Not 24/7]
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ClmWqE5.png" tvg-country="mm", Myanmar International TV
+https://mrtvott.com/cache/MITV/master.m3u8

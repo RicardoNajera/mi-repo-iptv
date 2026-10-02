@@ -1,0 +1,183 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-country="cz", AMC Europe Czech Republic
+http://88.212.15.19/live/test_amc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Peo1QiZ.png" tvg-country="cz", AXN Black Czech Republic
+http://88.212.15.19/live/test_black/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-country="cz", AXN CEE Czech Republic
+http://88.212.15.19/live/test_axn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/47IKxmt.png" tvg-country="cz", AXN White CzechRepublic
+http://88.212.15.19/live/test_white/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo-krimi-barrandov-color.svg/960px-Logo-krimi-barrandov-color.svg.png" tvg-country="cz", Barrandov Krimi (1080p)
+https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-country="cz", BBC Earth Czechia
+http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egK33Dj.png" tvg-country="cz", BEATTV (1080p)
+https://tv.beatfm.nl/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" tvg-country="cz", Canal+ Action Europe Czechia
+http://46.149.191.219:9106/play/a01g
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6fmQLF8.png" tvg-country="cz", Club TV
+https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/elZyUjX.png" tvg-country="cz", CNN Prima News (1080p)
+http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/960px-%C4%8CT1_logo_2012.svg.png" tvg-country="cz", CT1
+http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png" tvg-country="cz", CT2
+http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/960px-%C4%8CT24_logo.png" tvg-country="cz", CT24 (1080p)
+http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png" tvg-country="cz", CT Decko (1080p)
+http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png" tvg-country="cz", CT Sport (720p)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hKo8ApU.png" tvg-country="cz", Current Time TV (1080p)
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-country="cz", Disney Channel (Czech Republic)
+http://88.212.15.19/live/test_disney/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-country="cz", Disney Junior (Czech Republic)
+http://88.212.15.19/live/test_disney_junior/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://web02.antik.sk/assets/img/channels/615631fb7d93832cdf7a2d85be336c4e.svg" tvg-country="cz", DVTV Extra
+https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KPogWAG.png" tvg-country="cz", Echo24 (720p)
+https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OLd5od5.png" tvg-country="cz", Elektrika TV (1080p)
+https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0o3zjC7.png" tvg-country="cz", Eurosport 4K Czechia
+http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OBYuY3S.png" tvg-country="cz", Film+ (Czech Republic)
+http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" tvg-country="cz", FILMBOX+ Comedy Czechia
+http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" tvg-country="cz", FILMBOX+ Emotion Czechia
+http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png" tvg-country="cz", FILMBOX+ Festival
+https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png" tvg-country="cz", FILMBOX+ Festival HD (1080p)
+https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png" tvg-country="cz", FILMBOX+ Hits
+https://racitonsen.s.gy/FB_HITS_PL
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png" tvg-country="cz", FILMBOX+ Hits Czechia
+http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" tvg-country="cz", FILMBOX+ Love & Crime
+http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" tvg-country="cz", FILMBOX+ One (1080p)
+http://57.128.231.171:8080/236/index.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" tvg-country="cz", FILMBOX+ One Czechia
+http://88.212.15.19/live/test_filmbox/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkvYVyz/Captura.png" tvg-country="cz", GO TV (720p)
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-country="cz", History (Czech Republic)
+http://88.212.15.19/live/test_history/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hi8hZzl.png" tvg-country="cz", Jihoceska televize (1080p)
+https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg" tvg-country="cz", Junior Technologia TV (1080p) [Not 24/7]
+https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kino_Barrandov_logo.png/960px-Kino_Barrandov_logo.png" tvg-country="cz", Kino Barrandov
+http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://web02.antik.sk/assets/img/channels/0d824abdc4c21ab5d35cf946847cedee.svg" tvg-country="cz", KVIFF TV
+http://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tYhXeRq.png" tvg-country="cz", Mana Cirkev Online (1080p) [Not 24/7]
+https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/deVHJKS.png" tvg-country="cz", Mnau TV (1080p)
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" tvg-country="cz", MusicTop (1080p)
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="cz", National Geographic (Czech Republic)
+http://88.212.15.19/live/test_ngc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-country="cz", National Geographic Wild (Czech Republic)
+http://88.212.15.29/live/test_ngw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KT4tdQs.png" tvg-country="cz", Nick Jr. (Czech Republic)
+http://88.212.15.19/live/test_nick_jr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="cz", Nickelodeon (Czech Republic)
+http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" tvg-country="cz", Nicktoons (Czech Republic)
+http://88.212.15.19/live/test_nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png" tvg-country="cz", Ocko (540p)
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5rw9tWy.png" tvg-country="cz", Ocko Black
+https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/960px-%C3%93%C4%8Dko_Expres_logo.png" tvg-country="cz", Ocko Expres (540p)
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nrWNyLc.jpg" tvg-country="cz", Ocko Gold (540p)
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%C3%93%C4%8Dko_Star_logo.png/960px-%C3%93%C4%8Dko_Star_logo.png" tvg-country="cz", Ocko Star
+https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxLKSqL.png" tvg-country="cz", Plzen TV (1080p)
+https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTJHIX1.png" tvg-country="cz", Polar TV (Czech Republic) (1080p)
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prima_2013.png/960px-Prima_2013.png" tvg-country="cz", Prima (Czech Republic) (1080p)
+http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Prima_Cool_logo_zelen%C3%A9.png/960px-Prima_Cool_logo_zelen%C3%A9.png" tvg-country="cz", Prima Cool
+http://88.212.15.19/live/prima_cool_cz_avc/index.m3u8
+#EXTINF:-1 tvg-logo="https://irp.cdn-website.com/184bfd6a/MOBILE/jpg/477.jpg" tvg-country="cz", Prima Free
+https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Prima_Krimi.png/960px-Prima_Krimi.png" tvg-country="cz", Prima Krimi
+http://88.212.15.19/live/test_prima_krimi_cz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Prima_Love_logo_2018.png/960px-Prima_Love_logo_2018.png" tvg-country="cz", Prima Love
+http://88.212.15.19/live/prima_love_cz_avc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ePrdyLi.png" tvg-country="cz", Prima Max
+http://88.212.15.19/live/test_prima_max_cz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wlqGfU2.png" tvg-country="cz", Prima News
+https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XbwAwkp.png" tvg-country="cz", Prima Show (1080p)
+http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/cz.png" tvg-country="cz", Prima Sport 5 (480p)
+https://dokagents.site/live/pr5/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppqgNDA.png" tvg-country="cz", Prima Star (1080p)
+http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uNJqZ6p.png" tvg-country="cz", Prima Zoom (1080p)
+http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pyOjdZs.png" tvg-country="cz", Retro Music TV (360p)
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F5Uosum.png" tvg-country="cz", Spektrum (Czech Republic)
+http://88.212.15.19/live/test_spektrum/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VaVi65F.png" tvg-country="cz", Spektrum Home (Czech Republic)
+http://88.212.15.19/live/test_home_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" tvg-country="cz", Stara TV (720p)
+https://stream.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pJsLyiv.png" tvg-country="cz", Story4 Czechia
+http://88.212.15.19/live/story_4_cze_atk/index.m3u8
+#EXTINF:-1 tvg-logo="https://web02.antik.sk/assets/img/channels/db23090472360f39401398f924a47461.svg" tvg-country="cz", Svoboda
+http://88.212.15.19/live/svoboda/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BTKh5ef.png" tvg-country="cz", Telestar1
+https://dvb.tennet.ro/mobile_tv/telestar.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/opuhDX9.png" tvg-country="cz", Televize Prerov (1080p) [Geo-blocked]
+https://173.212.247.21/live/tvprerov.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TpQ8PRb.png" tvg-country="cz", Televize Seznam (1080p)
+http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_TV_Barrandov.png/960px-Logo_TV_Barrandov.png" tvg-country="cz", TV Barrandov
+http://88.212.15.19/live/test_barrandov/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/59LpYoF.png" tvg-country="cz", TV Brezova (540p)
+http://95.105.193.219:88/hls/tvb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Xm3WSn.png" tvg-country="cz", TV Brno 1 (1080p)
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qTOnPXe.png" tvg-country="cz", TV DK (486p) [Not 24/7]
+http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Noe-logo-2016.png/500px-Noe-logo-2016.png" tvg-country="cz", TV Noe (720p) [Geo-blocked]
+https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p4FtFUl.png" tvg-country="cz", TV Noe+ (720p) [Geo-blocked]
+https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gFjJ7YB.png" tvg-country="cz", TV Nova (720p)
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NSabYyT.png" tvg-country="cz", TV Paprika (Czech Republic)
+http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jCGrjf5.png" tvg-country="cz", TV Zoom (720p)
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KuRD19.png" tvg-country="cz", TVcom (1080p)
+https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ulfeIwM.png" tvg-country="cz", UTV (Czech Republic) (1080p)
+https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" tvg-country="cz", Viasat Epic Drama Czechia
+http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DyT5pKB.png" tvg-country="cz", Viasat Explore (Czech Republic)
+http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wRP9XA7.png" tvg-country="cz", Viasat History (Czech Republic)
+http://88.212.15.29/live/test_viasat_history_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ousRqqD.png" tvg-country="cz", Viasat Nature (Czech Republic)
+http://88.212.15.29/live/test_viasat_nature_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Wwptd3.png" tvg-country="cz", Vychodoceska TV (1080p)
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/0ba18c3b-b319-4ea9-bdad-dfba2c348ce3-width200-quality90.jpeg" tvg-country="cz", wedotv Auta (480p)
+https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvauta-rakutende/cb553d1e726c678e9cd43d67d3ef42a0df2416fc087a8d6933fb4b926bc10f41f4e2a581b212bb785d9914ce1c553f080132c0099c3a0bc6da73b6512d6c6021c9c3ed64d89d1b17b2c8797368e62c4119e10f11d93b53309dbb1858dd68ec2b005ebb0d6f577fdcec0fac6b5ac58402967a7c82fc8e68312f5e56cd543fa29a7c9b1f0f5d65e94693d1605aa34f1abbd31c9df63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b3ef4ac466f6f236f8a816ed1b835750fce1b5bcd2552213354fcac85f74f76ee2d250ca9b29fe635ad50a6fd540358406cb1d865a44989e5902bf9691a80e7d6fa575336b4c1145626b2f6a19dc1d352d742d6adf3d47f7098b94136178925f92c2f2a9ff4cf54d5954ed69b2c87bd651863808353c1cce6daa1e0c40abb20c9ccfbd76c16172d5442a054b09f6bd4319229fc975d712e202ecabb5bc094d65734102dd7d6249b797c8cd5808dd01935b0163c5fe665cb52062ced3a686eea24fdda11638b2f06807751d65737894ef9f81cfda8d5e00c58e48e91a29ebd7f4ba5b486210eed8f29b009af85251fe39768f8/106/426x240_611520/index.m3u8
+#EXTINF:-1 tvg-logo="https://whiplash.cc/assets/img/channels/windowtv.png" tvg-country="cz", Window TV (720p)
+https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8

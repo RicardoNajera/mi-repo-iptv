@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/ng.png" tvg-country="ng", 6 Wise Tv (720p)
+https://live.enhdtv.com:8081/8150/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fykhzxh.jpg" tvg-country="ng", A2i Music (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yq7ghPE.jpg" tvg-country="ng", A2i Naija (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/54WrwyN.jpg" tvg-country="ng", A2i Religion (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YlDFir7.jpg" tvg-country="ng", A2i TV (1080p)
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/91JLpxr.png" tvg-country="ng", ACNN (480p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/06zuf64.png" tvg-country="ng", AMusic Channel (720p)
+http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/4e042cb6-500b-4e4c-a8ca-21a5a7a7a71b" tvg-country="ng", Big Time Plus (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ww5zNmY.png" tvg-country="ng", Channels 24
+https://live20.bozztv.com/dvrfl06/astv/astv-channel24africa/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg" tvg-country="ng", Channels TV
+https://cs2.push2stream.com/CHANNELSTV-DVR/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/ng.png" tvg-country="ng", Chosen TV English (360p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcxBEUo.jpg" tvg-country="ng", Clergy TV (720p) [Not 24/7]
+https://goliveafrica.media:9998/live/650452cf2ddb2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MKKap2F.png" tvg-country="ng", cLoveworld TV (480p)
+https://live-hls-5rxy.livepush.io/live_cdn/em_LJ5aZjqp0LdiQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uGE6lZ2.png" tvg-country="ng", Cool FM 98.9 (720p)
+https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://papaji.freetvindia.com/media/Daily_post.png" tvg-country="ng", Daily Post TV (1080p)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/103b8dd3-a888-4d1d-89a5-8a4bc25e48c1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/thGAXeM.png" tvg-country="ng", Dunamis TV (576p) [Not 24/7]
+https://atechgroupuk.site/DTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ORer9ag.png" tvg-country="ng", Foursquare TV (360p) [Not 24/7]
+https://webstreaming-3.viewmedia.tv/web_033/Stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P5OABe5.png" tvg-country="ng", Galaxy TV (720p) [Not 24/7]
+https://stream.castr.com/6463248048d6cd3e143655b2/live_43351ad0f3b411ed81c78fcc31887c54/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9gS2Y4G/guidelove-logo.png" tvg-country="ng", Guide Love TV (720p)
+https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cx5V233.jpg" tvg-country="ng", Hits 360 TV (720p) [Not 24/7]
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FP1aUPw.jpg" tvg-country="ng", Itage TV (480p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Jeremiah%20TV.jpeg" tvg-country="ng", Jeremiah TV
+https://x.streamablecloud.com/stream/hls/jeremiahtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TbtjWHI.png" tvg-country="ng", KKRtv (720p) [Not 24/7]
+http://stream.kkr.dk/live/kkr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s6PUehQ.jpg" tvg-country="ng", LN247 (1080p)
+https://go5lmb6oyawb-hls-live.5centscdn.com/station/3dfd3752af3d7aec5c53992c2da3a316.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KYMjRjK.png" tvg-country="ng", LoveWorld Arabic (360p)
+https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vd2xPxh.png" tvg-country="ng", LoveWorld Persia (720p)
+https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xrNtabe.png" tvg-country="ng", MGI TV (720p) [Geo-blocked]
+https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DNTeCQt.png" tvg-country="ng", More Grace TV (410p) [Not 24/7]
+https://atechgroupuk.site/ETV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qvCgI8N.png" tvg-country="ng", News Central
+https://wf.newscentral.ng:8443/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/ng.png" tvg-country="ng", Nigbati (720p) [Not 24/7]
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mN8j8CR.png" tvg-country="ng", NTA International (576p) [Not 24/7]
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TEr1U90.png" tvg-country="ng", Oasis Television (720p) [Not 24/7]
+http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lj9WEq8.png" tvg-country="ng", OSBC TV (480p)
+https://cloud.odysee.live/content/0edfb4b7fb52d2d5ae30e052ce6b61d376fcd662/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JHbhLuK.jpg" tvg-country="ng", Phenomenal Life TV (1080p)
+https://5be80bd118c27.streamlock.net:433/phenomenaltv/phenomenal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZIBs8l.png" tvg-country="ng", Planet 100.9 FM (1080p)
+https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6RT3yao.png" tvg-country="ng", Plus TV Africa (720p) [Not 24/7]
+https://5c0740dba62b3.streamlock.net/plustv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXKQE0G.png" tvg-country="ng", Rave TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nb08dfK.png" tvg-country="ng", Salvation TV (Nigeria) (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_017/Stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9jcV9oG.png" tvg-country="ng", Silverbird News 24 (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fKtPcT4.png" tvg-country="ng", Soundcity TV
+https://cs2.push2stream.com/SOUNDCITY/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wz5bQKx.jpeg" tvg-country="ng", Sporty TV
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uTNmSWE.png" tvg-country="ng", Superscreen TV (412p)
+https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X0UmU3K.png" tvg-country="ng", Trace Gospel Nigeria and East Africa (1080p)
+https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rguekcp.png" tvg-country="ng", Trace Naija (1080p)
+https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W4xwCdl.png" tvg-country="ng", TRC TV (720p)
+https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ReV8R5S.png" tvg-country="ng", TVC (Nigeria) (1080p)
+https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png" tvg-country="ng", Unique TV (576p)
+https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3uEuzVH.jpeg" tvg-country="ng", Waffi TV (240p)
+https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Djng8pI.png" tvg-country="ng", Wap TV (720p) [Not 24/7]
+https://newproxy3.vidivu.tv/waptv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IeioxBp.png" tvg-country="ng", Wazobia Max TV Nigeria (720p)
+https://wazobia.live:8333/channel/wmax.m3u8
+#EXTINF:-1 tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png" tvg-country="ng", Wazobia Max TV Port-Harcourt (720p)
+https://wazobia.live:8333/channel/wmaxph.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BNVhoC.png" tvg-country="ng", Yadah TV (576p) [Not 24/7]
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ytv.ng/images/yobe/ytv-logo.jpg" tvg-country="ng", Yobe TV (720p)
+https://oqgdro3xd4rm-hls-live.5centscdn.com/tfmediacastlivestream24/60414fd886a863e5851f4559fb86e7f6.sdp/playlist.m3u8

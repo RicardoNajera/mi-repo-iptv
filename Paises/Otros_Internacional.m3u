@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IQtAKIa.png" tvg-country="otros", 5Stars (1080p)
+http://89.33.29.115:8080/IL_5Stars/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/66wHb7E.png" tvg-country="otros", Pink (720p)
+https://edge8.pink.rs/pinktv/index.m3u8

@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iK6AmkZ.png" tvg-country="tj", Badakhshon (576p)
+https://live.teleradiocom.tj/11/3m.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWPIziG.png" tvg-country="tj", Dushanbe HD (1080p)
+https://live.teleradiocom.tj/7/3m.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MDULX7X.png" tvg-country="tj", Ilm va Tabiat (1080p)
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ffqdD8W.png" tvg-country="tj", Jahonnamo (1080p)
+https://live.teleradiocom.tj/4/3m.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X4xVpBj.png" tvg-country="tj", Khatlon (576p)
+https://live.teleradiocom.tj/10/3m.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sCBbBOj.png" tvg-country="tj", Pamir TV (1080p) [Not 24/7]
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sEXCFNk.png" tvg-country="tj", Tojikiston (1080p)
+https://live.teleradiocom.tj/1/3m.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dacai5z.png" tvg-country="tj", TV Bahoriston (1080p)
+https://live.teleradiocom.tj/3/3m.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AFgEYFp.png" tvg-country="tj", TV Kulob (576p)
+https://live.teleradiocom.tj/12/3m.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ho2vKZJ.png" tvg-country="tj", TV Safina (1080p)
+https://live.teleradiocom.tj/2/3m.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lAkMrtr.png" tvg-country="tj", TV Sayohi (1080p)
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2qz5a4.png" tvg-country="tj", TV Sinamo (1080p)
+https://live.teleradiocom.tj/6/3m.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YzkwTHb.png" tvg-country="tj", TV Sugd (1080p)
+https://live.teleradiocom.tj/14/3m.m3u8

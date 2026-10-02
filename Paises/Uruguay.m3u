@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g1BFoSs.png" tvg-country="uy", Azahares Radiovisual Multimedia (720p)
+https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IpYxSr1.png" tvg-country="uy", Canal 5 (Uruguay) (720p)
+https://tinyurl.com/canal5uy
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/390_Radio_Universal.png" tvg-country="uy", Radio Universal (720p)
+https://videostream.chileservidores.com:8081/universal/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BmwZNWm.png" tvg-country="uy", TV Rivera [Not 24/7]
+https://movil.ejeserver.com/live/tvrivera.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BzQphbw.png" tvg-country="uy", UCL (720p)
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7o1bq3p.png" tvg-country="uy", Vera TV (1080p) [Not 24/7]
+http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8

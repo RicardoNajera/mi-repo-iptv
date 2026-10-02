@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENBCDaQ.png" tvg-country="ne", Dounia TV
+https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8XIcpH.png" tvg-country="ne", Saraounia TV
+https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vboq428.png" tvg-country="ne", Tele Sahel (1080p)
+https://mediaserver1.castpin.com/hls/telesahel/index.m3u8

@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YRiulCU.png" tvg-country="nz", 3HD
+https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLQgwc6.png" tvg-country="nz", CHTV (1080p)
+https://viewhn.com/chtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gtDROeT.png" tvg-country="nz", Firstlight (576p)
+https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WaaaW0w.png" tvg-country="nz", Juice TV (1080p) [Not 24/7]
+https://juicex.nz/hls/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BQ0qWzX.png" tvg-country="nz", Kordia TV (1080p)
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jGZlnzT.png" tvg-country="nz", NZTV
+https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2aHW4q7.png" tvg-country="nz", Parliament TV (New Zealand) (1080p)
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HYEABSt.png" tvg-country="nz", Sensing Murder
+https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eYyYojh.png" tvg-country="nz", Sky Open (1080p) [Geo-blocked]
+https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eYyYojh.png" tvg-country="nz", Sky Open +1 (576p) [Geo-blocked]
+https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3CNvYUN.png" tvg-country="nz", Te Reo (1080p)
+https://i.mjh.nz/.r/te-reo.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nx76HUE.png" tvg-country="nz", TVNZ 1 [Geo-blocked]
+https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9sV4dbH.png" tvg-country="nz", TVNZ 2 [Geo-blocked]
+https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tJf9DEI.png" tvg-country="nz", TVNZ DUKE [Geo-blocked]
+https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_Duke/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xm4KBwE.png" tvg-country="nz", Wairarapa TV (1080p) [Not 24/7]
+https://stream1.np.co.nz/WAITVABR/WAITVABR/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT3PrHZ.png" tvg-country="nz", Whakaata Maori (1080p)
+https://i.mjh.nz/.r/maori-tv.m3u8

@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3m9LrLj/k7gIibH.png" tvg-country="kg", 312 Kino (406p)
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" tvg-country="kg", 312 TV (406p)
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vBPmUQA.png" tvg-country="kg", Ala-Too 24 (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r6czQwQ/365049798-774721644658455-5702658175909463406-n-2.png" tvg-country="kg", ElTR (480p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/162/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Kvcj5Q/manas.jpg" tvg-country="kg", Manas TV (1080p)
+http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9VBnyQ1/cropped-white.png" tvg-country="kg", Osh Pirim (1080p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ORCu0w0.png" tvg-country="kg", Sport (Kyrgyzstan) (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mti9t9C.png" tvg-country="kg", TV1.KG (1080p)
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnV0Ui1.png" tvg-country="kg", Wiki TV (720p)
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8

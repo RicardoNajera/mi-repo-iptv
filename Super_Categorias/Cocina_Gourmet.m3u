@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png" tvg-country="bg", 24Kitchen Bulgary (1080p)
+http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/prMkTsZ.png" tvg-country="us", America's Test Kitchen (720p)
+https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kcmHcSx.png" tvg-country="gb", BBC Food (1080p)
+https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YhFFxlE.png" tvg-country="us", bon appetit (1080p)
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61c1dce2fb9ae40007d0ac15/colorLogoPNG.png" tvg-country="no", Camp Kulinaris
+https://jmp2.uk/plu-6400bf66dff38e00083f4ee8.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61c1dce2fb9ae40007d0ac15/colorLogoPNG.png" tvg-country="no", Camp Kulinaris NO
+https://jmp2.uk/plu-61c1dce2fb9ae40007d0ac15.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/15a9pG9.png" tvg-country="us", Chef Champion (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vhVnAzE.png" tvg-country="us", Chef Roc Show (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UYksTee.png" tvg-country="tr", Chef TV (720p)
+http://168.197.104.22/CHEF_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Chefi.ro_2026.png" tvg-country="ro", Chefi.ro (1080p)
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wR0pvRc.png" tvg-country="ru", City Eden Recepty Gurmana [Not 24/7]
+https://cityeden.catcast.tv/content/47516/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bhY0Zcs.png" tvg-country="us", Cooking Panda (576p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Create_TV_2006.svg/revision/latest/smart/width/386/height/259?cb=20240205233457" tvg-country="us", Create (1080p)
+https://create.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Create_TV_2006.svg/revision/latest/smart/width/386/height/259?cb=20240205233457" tvg-country="us", Create WMPT
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/CTV_Life_Channel_2019.svg/500px-CTV_Life_Channel_2019.svg.png" tvg-country="ca", CTV Life Channel (720p)
+http://185.246.209.113/ANIMALPLANETHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/APM2ej5.jpeg" tvg-country="uz", Dasturxon TV (576p)
+https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg" tvg-country="id", Dens Food Channel [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ByMyRI9.png" tvg-country="ar", El Gourmet (1080p)
+http://15.204.246.24:8080/ElGourmetHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ByMyRI9.png" tvg-country="ar", El Gourmet South (1080p)
+https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42wImV2.png" tvg-country="bg", Fiesta TV
+https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
+#EXTINF:-1 tvg-logo="https://images.open-epg.com/x1723.png" tvg-country="us", Food Channel (1080p)
+http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" tvg-country="in", Food Food (576p)
+https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gxCYAwH.png" tvg-country="ru", FoodTime (1080p)
+http://str2.iptvhd.ru:8080/Eda/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5cwb1q.png" tvg-country="it", Gambero Rosso Channel (720p)
+https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SMtSinK.png" tvg-country="ae", GEM Food
+https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WgN4T18.png" tvg-country="us", Gordon Ramsay's Hell's Kitchen (720p)
+https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gusto_TV.png" tvg-country="ca", Gusto TV (1080p)
+https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P9eT0O9.png" tvg-country="us", Hell's Kitchen (1080p)
+https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TdKO0er.png" tvg-country="ru", Hello Taste
+https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IdGNIoB.png" tvg-country="us", Home.Made.Nation (720p)
+https://jmp2.uk/plu-5dc1cb279c91420009db261d.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MIUDYh0.png" tvg-country="us", Hungry (720p)
+https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HrRUd6r.png" tvg-country="gb", In the Kitchen (720p)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rk7fMNe.png" tvg-country="us", Iron Chef
+https://jmp2.uk/plu-6582f8dadfed030008e5a93d.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B45qcQX.png" tvg-country="jo", Jordan Kitchen (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WcGKc4C.png" tvg-country="rs", Kitchen TV
+http://213.91.179.28:8000/play/a03n
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/660d667519ca71000849a1e1/colorLogoPNG.png" tvg-country="dk", Koch'en pa toppen
+https://jmp2.uk/plu-660d667519ca71000849a1e1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7jxZnuS.png" tvg-country="ru", Kuhnya (576p)
+http://stream.mcquack.net/179/index.m3u8
+#EXTINF:-1 tvg-logo="https://smotret.tv/images/kulinar-tv.webp" tvg-country="ru", Kulinar TV (576p)
+https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4a4qX0P.png" tvg-country="hr", Kus-Kus
+https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5QQy3aW.png" tvg-country="us", Mad Dog and Merrill (540p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg" tvg-country="pk", Masala TV (576p)
+http://103.250.28.74:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-logo="https://platform-iuoamc.uk/storage/tv/branding/mca-tv-official-logo.png" tvg-country="it", Master Chefs Academy TV (720p)
+https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lOuySbz.png" tvg-country="es", MasterChef
+https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61c19edbf535220007075c4e/colorLogoPNG.png" tvg-country="dk", MasterChef Danmarks storste madtalenter
+https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63e3b33e8795f300087e6a46/colorLogoPNG.png" tvg-country="dk", Med kniven for struben
+https://jmp2.uk/plu-63e3b33e8795f300087e6a46.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" tvg-country="es", Pluto TV Cocina
+https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" tvg-country="br", Pluto TV Cozinha
+https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/608aa718a8ec810007d87fee/colorLogoPNG_1774519163545.png" tvg-country="it", Pluto TV Cucina
+https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG_1733440509319.png" tvg-country="fr", Pluto TV Cuisine
+https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG_1769092247484.png" tvg-country="us", Pluto TV Food
+https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG_1769092247484.png" tvg-country="gb", Pluto TV Food GB
+https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" tvg-country="kr", Pluto TV KFOOD
+https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/416_Sabor_TV.png" tvg-country="pe", Sabor TV (720p)
+https://v1.tustreaming.cl/sabortv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oHmh5Jb.png" tvg-country="us", Shabakeh 7
+https://sh7hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/shef_llive.jpg" tvg-country="ru", Shef (1080p)
+https://cdn-dvr.ntv.ru/Shef/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xP7Ehn8.png" tvg-country="us", Tastemade (1080p)
+https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xP7Ehn8.png" tvg-country="gb", Tastemade UK (1080p)
+https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FPy4zF4.png" tvg-country="br", Tastemade Brasil (720p)
+https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8s6aRwv.png" tvg-country="us", Tastemade en Espanol (1080p) [Geo-blocked]
+https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-country="ru", Telecafe (Russia) (720p)
+https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4v93XUB.png" tvg-country="gb", The Jamie Oliver Channel (1080p)
+https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61c1a05ef30f5d0007e562f3/colorLogoPNG.png" tvg-country="dk", Til Middag Hos
+https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GFj3XP.png" tvg-country="hu", TV2 Sef
+http://88.212.15.19/live/test_lichi_tv_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-chef.png" tvg-country="fr", TV5MONDE Chefs (1080p)
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NSabYyT.png" tvg-country="cz", TV Paprika (Czech Republic)
+http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLpZIS6.png" tvg-country="hu", TV Paprika (Hungary)
+http://88.212.15.19/live/parpika_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3fuXBHT.png" tvg-country="ro", TV Paprika (Romania)
+https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3GTIs4j.png" tvg-country="us", TVS Tavern (480p)
+https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/logo%20%287%29%20%281%29.png" tvg-country="ru", Vkus (576p)
+http://178.134.1.158:8081/vkus/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MN89dfS.png" tvg-country="us", Wine Watches & Whiskey (1080p)
+https://www-on-freecast.b-cdn.net/WWW-on-Freecast/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST/images/LOGO_HD/LOGO_HD_image.png" tvg-country="in", Zee Zest HD (1080p)
+http://103.72.101.252:8080/live/2757.m3u8

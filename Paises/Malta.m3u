@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IhJ0BjF.png" tvg-country="mt", NET TV (720p)
+http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Logo_of_the_Parliament_of_Malta.png" tvg-country="mt", Parliament of Malta (1080p)
+https://stream.smashmalta.com:25463/live/webplayer/livestream/23.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aO-2614npPjbJny21ljgGDRqfixPUG39uLfXwG-xX6fd2y5sxjp_SR6ty92d9l08yt10" tvg-country="mt", Ritmu TV
+https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yg6ZWKu.png" tvg-country="mt", Smash TV (720p)
+https://stream.smashmalta.com:25463/live/webplayer/livestream/47.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V0iMsED.png" tvg-country="mt", TVM (Malta) (1080p)
+https://stream.smashmalta.com:25463/live/webplayer/livestream/19.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CFcst4g.png" tvg-country="mt", TVMnews+ [Geo-blocked]
+http://80.79.6.221:25461/smash/public/20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YIreFti.png" tvg-country="mt", TVMsport+ (1080p)
+https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8

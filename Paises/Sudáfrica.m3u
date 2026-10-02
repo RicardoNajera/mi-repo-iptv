@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" tvg-country="za", 1KZN TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2tdMyef.png" tvg-country="za", AWTV (1080p) [Geo-blocked]
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TZ1unwF.png" tvg-country="za", Baraza TV (1080p)
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TZ1unwF.png" tvg-country="za", Baraza TV Deep House (720p)
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TZ1unwF.png" tvg-country="za", Baraza TV Relaxing (720p)
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mcNjuuO.png" tvg-country="za", BOKTV (720p) [Not 24/7]
+https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y8FK1Kk.png" tvg-country="za", Cape Town TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QVBdpuF.png" tvg-country="za", Coza TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_019/Stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zp62Nbd.png" tvg-country="za", Deen TV (576p)
+https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lXMzsNM.png" tvg-country="za", e.tv News & Sport (720p)
+https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Waf1SOq.png" tvg-country="za", etv (1080p)
+https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yAZE7aU.png" tvg-country="za", Faith Africa (1080p)
+https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vCB7u0e.png" tvg-country="za", GNF TV (576p)
+https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SFacyYO.png" tvg-country="za", Hope Channel Africa (1080p)
+https://jstre.am/live/jsl:i1onRBELcGV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/py1XOXX.png" tvg-country="za", Kingsview TV (1080p)
+https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fg65XCS.png" tvg-country="za", LoveworldSAT (1080p)
+https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HDYqWuR.png" tvg-country="za", M-Net HD (720p)
+http://ares.mnet.mk/hls/mnet.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0fnY2cj/IMG-20230419-161527.jpg" tvg-country="za", M-Net Info
+https://live.mnet.mk/hls/mnet-info.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SbKkpuH.png" tvg-country="za", M-Net Kids (720p)
+http://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7k8ar1Z.png" tvg-country="za", M-Net Sport (720p)
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KagpoPN.png" tvg-country="za", News24 (1080p)
+https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sbeuEYY.png" tvg-country="za", ROV TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G8OXWe4.png" tvg-country="za", SABC 1 (720p) [Geo-blocked]
+https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rj6i9sn.png" tvg-country="za", SABC 2 [Geo-blocked]
+https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YhdnZHH.png" tvg-country="za", SABC Lehae [Geo-blocked]
+https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/liLta8j.png" tvg-country="za", SABC News (720p) [Geo-blocked]
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654228e5b5.jpg" tvg-country="za", Soweto TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X0UmU3K.png" tvg-country="za", Trace Gospel Southern Africa (1080p)
+https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.hypresslive.com/wp-content/uploads/2025/12/9cf0931b-5e1e-16da-515a-bd203ca3c928-1536x1074.png" tvg-country="za", Trace Ngoma (1080p)
+https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png" tvg-country="za", Trace Urban Southern Africa (1080p)
+https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" tvg-country="za", Tshwane TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vhv5gjN.png" tvg-country="za", WildEarth (1080p)
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hH2KF6W/4792.png" tvg-country="za", XV TV (480p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8

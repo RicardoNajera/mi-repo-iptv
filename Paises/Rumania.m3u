@@ -1,0 +1,283 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Acasa_2022_flat.png/960px-Acasa_2022_flat.png" tvg-country="ro", Acasa HD
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Acasa_Gold_2022.svg/revision/latest/scale-to-width-down/512" tvg-country="ro", Acasa Gold
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S7X1PiC.png" tvg-country="ro", Agro TV (Romania) (360p) [Not 24/7]
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IqvZBeo.png" tvg-country="ro", Aleph Business (1280p)
+https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qPRQZMI.png" tvg-country="ro", Aleph News (720p)
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Aotv_logo_svg.svg/revision/latest/scale-to-width-down/512" tvg-country="ro", Alfa Omega TV (1080p) [Not 24/7]
+https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-country="ro", AMC Europe Romania
+https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8
+#EXTINF:-1 tvg-logo="https://amiteltv.com/wp-content/uploads/2026/01/LOGO-SIN-FONDO-WEB.png" tvg-country="ro", Amitel TV (720p)
+https://stv2.boliviaplay.com.bo/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xjTU14t.jpg" tvg-country="ro", ANC Television (720p)
+https://live.amelbatv.co:81/anctvlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EPmwuuv.png" tvg-country="ro", Antena 1 (Romania)
+https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Antena_Interna%C8%9Bional_2022.png/revision/latest/scale-to-width-down/512" tvg-country="ro", Antena International
+https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300" tvg-country="ro", Antena Monden (720p)
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300" tvg-country="ro", Antena Stars
+https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qufz6nk.png" tvg-country="ro", Arges TV (720p)
+https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
+#EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2026/08/25/00keSCoSw0EaWnICcuYB.png" tvg-country="ro", Asia Express NonStop (576i)
+https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1eB9roP.png" tvg-country="ro", Atlantis Radio TV (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbrDIbZ.png" tvg-country="ro", Atomic Academy TV (480p)
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O4uI0Uy.png" tvg-country="ro", Atomic TV (360p)
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Peo1QiZ.png" tvg-country="ro", AXN Black Romania
+https://saruman1.tharen1.cfd/axyblack/usergenrxi6s93hs2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-country="ro", AXN CEE Romania
+https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/B1_TV_logo.svg/960px-B1_TV_logo.svg.png" tvg-country="ro", B1
+https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-country="ro", BBC Earth Romania
+https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-country="ro", BBC Earth Romania HD (576p)
+http://hls127.freeott.top:8080/BG_The_World/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UBoBYUI.png" tvg-country="ro", BBC First Romania
+https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ugPo6ca.png" tvg-country="ro", Bollywood Classic Romania
+https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bEMUpHZ.png" tvg-country="ro", Bollywood Film
+https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6klhXxp.png" tvg-country="ro", Bucovina TV (576i)
+https://www.bucovinatv.ro/proxy/video/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Chefi.ro_2026.png" tvg-country="ro", Chefi.ro (1080p)
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BY8UZa0.png" tvg-country="ro", CineMaraton (576i)
+https://dokagents.site/live/cinemaraton/mono.m3u8
+#EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png" tvg-country="ro", Cinemaraton Plus (1080i)
+https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-country="ro", Comedy Central (Romania)
+https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RD4TgcM.png" tvg-country="ro", Credo TV
+https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g4pZ3ZW.jpeg" tvg-country="ro", Dac TV (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png" tvg-country="ro", Dance FM (720p)
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ab6p2SW.png" tvg-country="ro", DBM TV (1080p)
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4devfx1.png" tvg-country="ro", Diaspora 24 [Geo-blocked]
+https://vdo3.pro-fhi.net:3218/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmRnD0M.png" tvg-country="ro", Digi 24 (720p)
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YhKpUkd.png" tvg-country="ro", Digi Life (576i)
+https://dokagents.site/live/digilife/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5zMxDYq.png" tvg-country="ro", Digi Sport 1
+https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KWDUi3v.png" tvg-country="ro", Digi Sport 2 HD (1080i)
+https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T1ci5UK.png" tvg-country="ro", Digi Sport 3 (576i)
+https://dokagents.site/live/digisport3/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Knj9I6f.png" tvg-country="ro", Digi Sport 4 (576i)
+https://dokagents.site/live/digisport4/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pGICS9K.png" tvg-country="ro", Digi World (576i)
+https://dokagents.site/live/digiworld/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-country="ro", Disney Channel (Romania)
+https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-country="ro", Disney Junior (Romania)
+https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jzhZ8kl.png" tvg-country="ro", Etno TV
+https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jUOVUXt.png" tvg-country="ro", Euronews Romania (576p)
+https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTy4FHs.png" tvg-country="ro", Favorit TV (576p)
+https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jaKRnzU.png" tvg-country="ro", Film Cafe Romania
+https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sSoRvGz.png" tvg-country="ro", Film Now
+https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sSoRvGz.png" tvg-country="ro", Film Now HD (1080i)
+https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" tvg-country="ro", FILMBOX+ Comedy Romania
+https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" tvg-country="ro", FILMBOX+ Emotion Romania
+https://onyx1.mofta1.cfd/fboye/usergendlg8sl1ks0tv7sr8n.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png" tvg-country="ro", FILMBOX+ Hits Romania (576p)
+https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" tvg-country="ro", FILMBOX+ Love & Crime Romania
+https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" tvg-country="ro", FILMBOX+ One Romania (576p)
+https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/ro.png" tvg-country="ro", Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-country="ro", History (Romania)
+https://dokagents.site/live/history/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9bz15ad.png" tvg-country="ro", Hunedoara 1 (480p) [Not 24/7]
+https://netstreaming.eu/hd1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HY7EL5e.png" tvg-country="ro", IasiTV Life (1080p) [Not 24/7]
+https://tv.streambox.ro/hls/itv/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvimpact.ro/impact-logo.png" tvg-country="ro", Impact TV (Romania) (1080p)
+https://live.tvimpact.ro:8088/hevc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G5mNdpE.png" tvg-country="ro", Impact TV Dance (1080p)
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G5mNdpE.png" tvg-country="ro", Impact TV Manele (1080p)
+https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HcFpNwA.png" tvg-country="ro", Inedit TV
+https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P1ZbVRg.png" tvg-country="ro", Informatia TV
+https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E8VwnK7.png" tvg-country="ro", Ion TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SMSIm9.png" tvg-country="ro", Kanal D2 (1080i)
+https://stream2.kanald.ro/iphone/knd2-live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/15ILp0P.png" tvg-country="ro", Kanal D (Romania) (480p)
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S3Fbf8T.png" tvg-country="ro", Light Channel (Romania) (480p) [Not 24/7]
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9izrr4d.png" tvg-country="ro", Magic TV (Romania) (720p)
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xe7x1k2.png" tvg-country="ro", MediCOOL TV
+https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gzq05v8.png" tvg-country="ro", Metropola TV (1080p) [Not 24/7]
+https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Minimax_2021.svg" tvg-country="ro", Minimax (Romania)
+https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k0VO0LH.png" tvg-country="ro", Mireasa (720p)
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aX70RD2.png" tvg-country="ro", Mooz Dance
+https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GwATd3Y.png" tvg-country="ro", Mooz Hits
+https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ft24x5T.png" tvg-country="ro", Mooz Ro!
+https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bq9CHyn/Musceltv1.png" tvg-country="ro", Muscel TV (720p)
+https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MoguWme.png" tvg-country="ro", Nasul TV (720p) [Not 24/7]
+https://live.nasul.tv/live/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VxBdga3.png" tvg-country="ro", National 24 Plus
+https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="ro", National Geographic (Romania)
+https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-country="ro", National Geographic Wild (Romania)
+https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KHzUIwG.png" tvg-country="ro", National TV
+https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" tvg-country="ro", Nickelodeon (Romania)
+https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" tvg-country="ro", Nicktoons (Romania)
+https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/33Vn0Ij.png" tvg-country="ro", Nova TV Brasov (576p) [Not 24/7]
+http://novapress.ro:2022/live/nova/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f6xEIAr.png" tvg-country="ro", Observator News (360p)
+https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p2umWAT.png" tvg-country="ro", Prima TV (Romania) (576p)
+https://dokagents.site/live/primatv/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p2umWAT.png" tvg-country="ro", Prima TV (Romania) HD
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQmB9Cc.png" tvg-country="ro", Pro Arena HD (1080i)
+https://dokagents.site/live/proarena/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TvHFGwZ.png" tvg-country="ro", Pro Cinema (576i)
+https://dokagents.site/live/procinema/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVk3WlT.png" tvg-country="ro", PRO TV (576i)
+https://dokagents.site/live/protv/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVk3WlT.png" tvg-country="ro", PRO TV HD (1080p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfr1ZYw.png" tvg-country="ro", PRO TV International
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/ro.png" tvg-country="ro", PROTV News (1080p)
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djT0Q8q.png" tvg-country="ro", PSD TV (720p)
+https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.radio3net.ro/img/logos/logo_3.png" tvg-country="ro", Radio Romania 3Net (480p)
+https://media.3netmedia.ro/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" tvg-country="ro", Radio Romania Antena Satelor (720p) [Not 24/7]
+https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png" tvg-country="ro", Radio Romania Oltenia-Craiova (576p) [Not 24/7]
+https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
+#EXTINF:-1 tvg-logo="https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg" tvg-country="ro", Radio Romania Targu Mures (576p)
+https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kqEPVPk.png" tvg-country="ro", Realitatea Plus (720p)
+https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BaEyZto.png" tvg-country="ro", Realitatea Sportiva (720p)
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bNdpyAZ.png" tvg-country="ro", Realitatea Star (576i)
+https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VB88A5V.png" tvg-country="ro", Rock TV (Romania) (720p)
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIfEp5I.png" tvg-country="ro", Romania TV (576i)
+https://dokagents.site/live/romaniatv/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KUyqQCX.png" tvg-country="ro", SperantaTV (1080p)
+https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pzxUE0O.png" tvg-country="ro", Super TV (Romania) (576p)
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0iuwjbK.png" tvg-country="ro", Taraf TV (576p)
+https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CheqyWH.png" tvg-country="ro", Tele7ABC HD (720p)
+https://live.tele7abc.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/11b5W8u.png" tvg-country="ro", Tele7music (576i)
+https://live.tele7music.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3EZ8CmJ.png" tvg-country="ro", TeleM Botosani (540p) [Not 24/7]
+http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eORs1yt.jpg" tvg-country="ro", Telemas (1080p)
+https://s.emisoras.tv:8081/telemas/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8z0zLjw.jpeg" tvg-country="ro", TeleMoldova + [Geo-blocked]
+https://vdo.ssl-stream.com:3247/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eAagwLW.png" tvg-country="ro", Tezaur TV (576i)
+https://tezaurtv.md/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3Sqd4L.png" tvg-country="ro", Timeless Dizi Channel (Romania)
+https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fQrBY1M/tr24-telepack.jpg" tvg-country="ro", TR24 Television (720p)
+https://stream.it-innov.com/tr24/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xJBMnjy.png" tvg-country="ro", TraLaLa TV
+https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GhFmUVO.png" tvg-country="ro", TV Buzau (576p)
+http://78.96.33.89:8080
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3fuXBHT.png" tvg-country="ro", TV Paprika (Romania)
+https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f4fzoLe.png" tvg-country="ro", TVPlus Suceava (576p)
+http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcUX1gB.png" tvg-country="ro", TVR 1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mKouHIZ.png" tvg-country="ro", TVR 2
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yHCuTap.png" tvg-country="ro", TVR 3
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RkDra93.png" tvg-country="ro", TVR Cluj
+https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vxWbQiy.png" tvg-country="ro", TVR Craiova
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9i70C9.png" tvg-country="ro", TVR Cultural
+https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/960px-TVR_Folclor_Logo_2023.svg.png" tvg-country="ro", TVR Folclor
+https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kxkihds.png" tvg-country="ro", TVR Iasi
+https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7oE7ThR.png" tvg-country="ro", TVR Info
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w28wcHs.png" tvg-country="ro", TVR International
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png" tvg-country="ro", TVR Sport
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Hptdqj.png" tvg-country="ro", TVR Targu-Mures
+https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0x6Edei.png" tvg-country="ro", TVR Timisoara
+https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EW2bfix.png" tvg-country="ro", Univers TV (720p)
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" tvg-country="ro", Viasat Epic Drama Romania
+https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg" tvg-country="ro", Viasat Explore (Romania)
+https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg" tvg-country="ro", Viasat History (Romania)
+https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/io0WAkA.png" tvg-country="ro", Viasat Kino Romania
+https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png" tvg-country="ro", Viasat Nature (Romania)
+https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cn6pAEZ.png" tvg-country="ro", VSCTV (1080p)
+https://reflect-vsctv.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vJZgpOb.png" tvg-country="ro", We Sport TV
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8

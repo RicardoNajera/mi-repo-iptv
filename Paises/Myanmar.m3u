@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4EHL2mH.png" tvg-country="mm", 5 Plus (720p)
+https://mmtvs.exliatycl.online/5plus/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg" tvg-country="mm", Channel 9 (Myanmar) (720p)
+https://mmtvs.exliatycl.online/channel9/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6PqxuhF.png" tvg-country="mm", Channel K (720p)
+https://mmtvs.exliatycl.online/channelk/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VdezHOv.png" tvg-country="mm", DVB TV (720p) [Geo-blocked]
+https://live-stream.dvb.no/hls/stream_src/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gffq8ks.png" tvg-country="mm", Hluttaw S & D
+https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uyv7oJH.png" tvg-country="mm", MRTV
+https://mrtvott.com/cache/MRTV-HD/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c9q6oT0.png" tvg-country="mm", MRTV Entertainment
+https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f4PWvrW.jpg" tvg-country="mm", MRTV Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5eK8Bc4.png" tvg-country="mm", MRTV News
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5aLFslk.jpg" tvg-country="mm", MRTV NRC
+https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cFTR4kC.png" tvg-country="mm", MRTV Sports [Not 24/7]
+https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gjan8rl.png" tvg-country="mm", TV Mon (720p)
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvmon/tvmon/playlist.m3u8

@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-country="tw", AXN Asia Taiwan (1080p)
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hkwcBM9.png" tvg-country="tw", Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tqsKObw.png" tvg-country="tw", CTi Variety (720p)
+http://23.237.10.66:16372
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V1EVtRm.png" tvg-country="tw", CTS News [Geo-blocked]
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-country="tw", DaAi 1 (720p)
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-country="tw", DaAi 2 (1080p)
+http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uFDkOhV.png" tvg-country="tw", EBC Financial News (1080p) [Not 24/7]
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 tvg-logo="https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png" tvg-country="tw", EBC General Education (720p) [Not 24/7]
+https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFZs80p.png" tvg-country="tw", EBC News (1080p) [Not 24/7]
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q8ahtbT.png" tvg-country="tw", FTV (Taiwan) (720p) [Not 24/7]
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HBT2o0I.png" tvg-country="tw", FTV One (720p) [Not 24/7]
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p108I5g.png" tvg-country="tw", FTV Taiwan (720p) [Not 24/7]
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YxFRoft.png" tvg-country="tw", Good 2 (720p)
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ETgVyTy.png" tvg-country="tw", Good Idea TV (720p) [Not 24/7]
+http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k28Kc3o.png" tvg-country="tw", Good TV (Taiwan) (720p) [Not 24/7]
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1CdGSbU.png" tvg-country="tw", Hakka TV
+https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B8iaejQ.png" tvg-country="tw", Love TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n4CenYn.png" tvg-country="tw", LTN Family SD (576p)
+http://103.250.28.74:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-logo="https://mnews.pk/wp-content/uploads/2025/10/mnews-logo-news.png" tvg-country="tw", M News (1080p)
+https://cdn.rabta.stream/M-News/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.momoshop.com.tw/img/message.png" tvg-country="tw", MOMO TV (1080p)
+http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MiwdgD.png" tvg-country="tw", Next TV (1080p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ES6xFAv.png" tvg-country="tw", NSTV (1080p)
+https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iyFXcDy.png" tvg-country="tw", NTD TV Asia-Pacific
+https://live.ntdtv.com/aplive200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EGVbAvJ.png" tvg-country="tw", SET News (1080p) [Geo-blocked]
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QqIdVqz.png" tvg-country="tw", Taiwan Indigenous TV (720p)
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Taiwan_Plus.png" tvg-country="tw", Taiwan Plus TV (1080p)
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/960px-TTV_2nd_logo.svg.png" tvg-country="tw", TTV (720p)
+http://162.19.247.76:22222/live/taishi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/171lwfg.png" tvg-country="tw", TVBS News [Geo-blocked]
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4S1rkhm.png" tvg-country="tw", TVBS-Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4PUUp3E.png" tvg-country="tw", Wan Luo TV (576p)
+https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8

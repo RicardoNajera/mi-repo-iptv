@@ -1,0 +1,1268 @@
+[
+  {
+    "categoria": "🎬 Películas y Cine",
+    "iso": "peliculas",
+    "icono": "https://img.icons8.com/color/160/clapperboard.png",
+    "total_canales": 755
+  },
+  {
+    "categoria": "🍿 Series, Doramas y K-Dramas",
+    "iso": "series",
+    "icono": "https://img.icons8.com/color/160/tv-show.png",
+    "total_canales": 726
+  },
+  {
+    "categoria": "🧸 Infantil y Niños",
+    "iso": "infantil",
+    "icono": "https://img.icons8.com/color/160/teddy-bear.png",
+    "total_canales": 449
+  },
+  {
+    "categoria": "🔞 Adultos & Midnight (+18)",
+    "iso": "adultos",
+    "icono": "https://img.icons8.com/color/160/under-18-adult-content.png",
+    "total_canales": 9
+  },
+  {
+    "categoria": "🎮 Videojuegos & Gaming",
+    "iso": "gaming",
+    "icono": "https://img.icons8.com/color/160/controller.png",
+    "total_canales": 40
+  },
+  {
+    "categoria": "💻 Tecnología & Futuro",
+    "iso": "tecnologia",
+    "icono": "https://img.icons8.com/color/160/processor.png",
+    "total_canales": 317
+  },
+  {
+    "categoria": "🐾 Mundo Animal & Fauna",
+    "iso": "animales",
+    "icono": "https://img.icons8.com/color/160/paw-print.png",
+    "total_canales": 135
+  },
+  {
+    "categoria": "🎵 Música, Radio & Conciertos",
+    "iso": "musica",
+    "icono": "https://img.icons8.com/color/160/musical-notes.png",
+    "total_canales": 1114
+  },
+  {
+    "categoria": "📰 Noticias & Breaking News",
+    "iso": "noticias",
+    "icono": "https://img.icons8.com/color/160/news.png",
+    "total_canales": 1728
+  },
+  {
+    "categoria": "😂 Comedia & Humor",
+    "iso": "comedia",
+    "icono": "https://img.icons8.com/color/160/comedy.png",
+    "total_canales": 315
+  },
+  {
+    "categoria": "✨ Asombroso, Misterio & OVNIs",
+    "iso": "asombroso",
+    "icono": "https://img.icons8.com/color/160/flying-saucer.png",
+    "total_canales": 59
+  },
+  {
+    "categoria": "⚽ Deportes & Pasión",
+    "iso": "deportes",
+    "icono": "https://img.icons8.com/color/160/football2.png",
+    "total_canales": 550
+  },
+  {
+    "categoria": "🙏 Religión, Fe & Espiritualidad",
+    "iso": "religion",
+    "icono": "https://img.icons8.com/color/160/praying-hands.png",
+    "total_canales": 219
+  },
+  {
+    "categoria": "🔪 Terror & Suspenso",
+    "iso": "terror",
+    "icono": "https://img.icons8.com/color/160/skull.png",
+    "total_canales": 45
+  },
+  {
+    "categoria": "🎌 Anime & Cultura Otaku",
+    "iso": "anime",
+    "icono": "https://img.icons8.com/color/160/naruto.png",
+    "total_canales": 46
+  },
+  {
+    "categoria": "🍳 Cocina & Gourmet",
+    "iso": "cocina",
+    "icono": "https://img.icons8.com/color/160/chef-hat.png",
+    "total_canales": 71
+  },
+  {
+    "categoria": "🌿 Naturaleza & Documentales",
+    "iso": "documentales",
+    "icono": "https://img.icons8.com/color/160/natural-food.png",
+    "total_canales": 277
+  },
+  {
+    "categoria": "🏎️️ Motores, Autos & F1",
+    "iso": "motores",
+    "icono": "https://img.icons8.com/color/160/racing-car.png",
+    "total_canales": 140
+  },
+  {
+    "categoria": "👠 Moda, Estilo & Farándula",
+    "iso": "moda",
+    "icono": "https://img.icons8.com/color/160/dress.png",
+    "total_canales": 57
+  },
+  {
+    "categoria": "💪 Fitness, Salud & Bienestar",
+    "iso": "salud",
+    "icono": "https://img.icons8.com/color/160/dumbbell.png",
+    "total_canales": 39
+  },
+  {
+    "categoria": "💼 Negocios & Criptomonedas",
+    "iso": "finanzas",
+    "icono": "https://img.icons8.com/color/160/economic-improvement.png",
+    "total_canales": 28
+  },
+  {
+    "categoria": "🛸 Ciencia Ficción & Fantasía",
+    "iso": "scifi",
+    "icono": "https://img.icons8.com/color/160/futurama-bender.png",
+    "total_canales": 86
+  },
+  {
+    "categoria": "🎭 Arte, Cultura & Teatro",
+    "iso": "cultura",
+    "icono": "https://img.icons8.com/color/160/theatre-mask.png",
+    "total_canales": 622
+  },
+  {
+    "categoria": "🕵️ Crimen, Investigación & Forense",
+    "iso": "crimen",
+    "icono": "https://img.icons8.com/color/160/detective.png",
+    "total_canales": 139
+  },
+  {
+    "categoria": "✈️ Viajes & Aventura",
+    "iso": "viajes",
+    "icono": "https://img.icons8.com/color/160/airplane-take-off.png",
+    "total_canales": 172
+  },
+  {
+    "categoria": "🔮 Tarot, Astrología & Zen",
+    "iso": "astrologia",
+    "icono": "https://img.icons8.com/color/160/crystal-ball.png",
+    "total_canales": 8
+  },
+  {
+    "categoria": "🎙️ Podcasts & Entrevistas",
+    "iso": "podcasts",
+    "icono": "https://img.icons8.com/color/160/microphone.png",
+    "total_canales": 16
+  },
+  {
+    "categoria": "⚡ Acción & Adrenalina",
+    "iso": "accion",
+    "icono": "https://img.icons8.com/color/160/explosion.png",
+    "total_canales": 100
+  },
+  {
+    "categoria": "Estados Unidos",
+    "iso": "us",
+    "icono": "https://flagcdn.com/w160/us.png",
+    "total_canales": 1690
+  },
+  {
+    "categoria": "Ucrania",
+    "iso": "ua",
+    "icono": "https://flagcdn.com/w160/ua.png",
+    "total_canales": 158
+  },
+  {
+    "categoria": "Alemania",
+    "iso": "de",
+    "icono": "https://flagcdn.com/w160/de.png",
+    "total_canales": 329
+  },
+  {
+    "categoria": "Países Bajos",
+    "iso": "nl",
+    "icono": "https://flagcdn.com/w160/nl.png",
+    "total_canales": 170
+  },
+  {
+    "categoria": "Rusia",
+    "iso": "ru",
+    "icono": "https://flagcdn.com/w160/ru.png",
+    "total_canales": 597
+  },
+  {
+    "categoria": "Sudáfrica",
+    "iso": "za",
+    "icono": "https://flagcdn.com/w160/za.png",
+    "total_canales": 33
+  },
+  {
+    "categoria": "Georgia",
+    "iso": "ge",
+    "icono": "https://flagcdn.com/w160/ge.png",
+    "total_canales": 30
+  },
+  {
+    "categoria": "Australia",
+    "iso": "au",
+    "icono": "https://flagcdn.com/w160/au.png",
+    "total_canales": 60
+  },
+  {
+    "categoria": "Marruecos",
+    "iso": "ma",
+    "icono": "https://flagcdn.com/w160/ma.png",
+    "total_canales": 14
+  },
+  {
+    "categoria": "Canadá",
+    "iso": "ca",
+    "icono": "https://flagcdn.com/w160/ca.png",
+    "total_canales": 188
+  },
+  {
+    "categoria": "Uganda",
+    "iso": "ug",
+    "icono": "https://flagcdn.com/w160/ug.png",
+    "total_canales": 25
+  },
+  {
+    "categoria": "España",
+    "iso": "es",
+    "icono": "https://flagcdn.com/w160/es.png",
+    "total_canales": 380
+  },
+  {
+    "categoria": "Nueva Zelanda",
+    "iso": "nz",
+    "icono": "https://flagcdn.com/w160/nz.png",
+    "total_canales": 16
+  },
+  {
+    "categoria": "Kenia",
+    "iso": "ke",
+    "icono": "https://flagcdn.com/w160/ke.png",
+    "total_canales": 31
+  },
+  {
+    "categoria": "Afganistán",
+    "iso": "af",
+    "icono": "https://flagcdn.com/w160/af.png",
+    "total_canales": 31
+  },
+  {
+    "categoria": "República Dominicana",
+    "iso": "do",
+    "icono": "https://flagcdn.com/w160/do.png",
+    "total_canales": 189
+  },
+  {
+    "categoria": "Grecia",
+    "iso": "gr",
+    "icono": "https://flagcdn.com/w160/gr.png",
+    "total_canales": 92
+  },
+  {
+    "categoria": "Polonia",
+    "iso": "pl",
+    "icono": "https://flagcdn.com/w160/pl.png",
+    "total_canales": 113
+  },
+  {
+    "categoria": "Irak",
+    "iso": "iq",
+    "icono": "https://flagcdn.com/w160/iq.png",
+    "total_canales": 60
+  },
+  {
+    "categoria": "Reino Unido",
+    "iso": "gb",
+    "icono": "https://flagcdn.com/w160/gb.png",
+    "total_canales": 351
+  },
+  {
+    "categoria": "India",
+    "iso": "in",
+    "icono": "https://flagcdn.com/w160/in.png",
+    "total_canales": 835
+  },
+  {
+    "categoria": "Irán",
+    "iso": "ir",
+    "icono": "https://flagcdn.com/w160/ir.png",
+    "total_canales": 86
+  },
+  {
+    "categoria": "Israel",
+    "iso": "il",
+    "icono": "https://flagcdn.com/w160/il.png",
+    "total_canales": 50
+  },
+  {
+    "categoria": "Myanmar",
+    "iso": "mm",
+    "icono": "https://flagcdn.com/w160/mm.png",
+    "total_canales": 12
+  },
+  {
+    "categoria": "🌐 Otros / Internacional",
+    "iso": "otros",
+    "icono": "https://flagcdn.com/w160/un.png",
+    "total_canales": 2
+  },
+  {
+    "categoria": "Francia",
+    "iso": "fr",
+    "icono": "https://flagcdn.com/w160/fr.png",
+    "total_canales": 247
+  },
+  {
+    "categoria": "Nigeria",
+    "iso": "ng",
+    "icono": "https://flagcdn.com/w160/ng.png",
+    "total_canales": 53
+  },
+  {
+    "categoria": "Bulgaria",
+    "iso": "bg",
+    "icono": "https://flagcdn.com/w160/bg.png",
+    "total_canales": 79
+  },
+  {
+    "categoria": "Italia",
+    "iso": "it",
+    "icono": "https://flagcdn.com/w160/it.png",
+    "total_canales": 343
+  },
+  {
+    "categoria": "Costa de Marfil",
+    "iso": "ci",
+    "icono": "https://flagcdn.com/w160/ci.png",
+    "total_canales": 13
+  },
+  {
+    "categoria": "Dinamarca",
+    "iso": "dk",
+    "icono": "https://flagcdn.com/w160/dk.png",
+    "total_canales": 143
+  },
+  {
+    "categoria": "Noruega",
+    "iso": "no",
+    "icono": "https://flagcdn.com/w160/no.png",
+    "total_canales": 115
+  },
+  {
+    "categoria": "México",
+    "iso": "mx",
+    "icono": "https://flagcdn.com/w160/mx.png",
+    "total_canales": 258
+  },
+  {
+    "categoria": "Pakistán",
+    "iso": "pk",
+    "icono": "https://flagcdn.com/w160/pk.png",
+    "total_canales": 73
+  },
+  {
+    "categoria": "Chile",
+    "iso": "cl",
+    "icono": "https://flagcdn.com/w160/cl.png",
+    "total_canales": 185
+  },
+  {
+    "categoria": "Tailandia",
+    "iso": "th",
+    "icono": "https://flagcdn.com/w160/th.png",
+    "total_canales": 71
+  },
+  {
+    "categoria": "Hungría",
+    "iso": "hu",
+    "icono": "https://flagcdn.com/w160/hu.png",
+    "total_canales": 131
+  },
+  {
+    "categoria": "Argentina",
+    "iso": "ar",
+    "icono": "https://flagcdn.com/w160/ar.png",
+    "total_canales": 218
+  },
+  {
+    "categoria": "Kazajistán",
+    "iso": "kz",
+    "icono": "https://flagcdn.com/w160/kz.png",
+    "total_canales": 53
+  },
+  {
+    "categoria": "Armenia",
+    "iso": "am",
+    "icono": "https://flagcdn.com/w160/am.png",
+    "total_canales": 16
+  },
+  {
+    "categoria": "Turquía",
+    "iso": "tr",
+    "icono": "https://flagcdn.com/w160/tr.png",
+    "total_canales": 186
+  },
+  {
+    "categoria": "Perú",
+    "iso": "pe",
+    "icono": "https://flagcdn.com/w160/pe.png",
+    "total_canales": 146
+  },
+  {
+    "categoria": "Japón",
+    "iso": "jp",
+    "icono": "https://flagcdn.com/w160/jp.png",
+    "total_canales": 13
+  },
+  {
+    "categoria": "Costa Rica",
+    "iso": "cr",
+    "icono": "https://flagcdn.com/w160/cr.png",
+    "total_canales": 63
+  },
+  {
+    "categoria": "Emiratos Árabes Unidos",
+    "iso": "ae",
+    "icono": "https://flagcdn.com/w160/ae.png",
+    "total_canales": 72
+  },
+  {
+    "categoria": "Kirguistán",
+    "iso": "kg",
+    "icono": "https://flagcdn.com/w160/kg.png",
+    "total_canales": 9
+  },
+  {
+    "categoria": "Brasil",
+    "iso": "br",
+    "icono": "https://flagcdn.com/w160/br.png",
+    "total_canales": 330
+  },
+  {
+    "categoria": "Chipre",
+    "iso": "cy",
+    "icono": "https://flagcdn.com/w160/cy.png",
+    "total_canales": 14
+  },
+  {
+    "categoria": "Eslovaquia",
+    "iso": "sk",
+    "icono": "https://flagcdn.com/w160/sk.png",
+    "total_canales": 36
+  },
+  {
+    "categoria": "Macedonia del Norte",
+    "iso": "mk",
+    "icono": "https://flagcdn.com/w160/mk.png",
+    "total_canales": 20
+  },
+  {
+    "categoria": "Bangladés",
+    "iso": "bd",
+    "icono": "https://flagcdn.com/w160/bd.png",
+    "total_canales": 36
+  },
+  {
+    "categoria": "Albania",
+    "iso": "al",
+    "icono": "https://flagcdn.com/w160/al.png",
+    "total_canales": 30
+  },
+  {
+    "categoria": "Tanzania",
+    "iso": "tz",
+    "icono": "https://flagcdn.com/w160/tz.png",
+    "total_canales": 11
+  },
+  {
+    "categoria": "Sri Lanka",
+    "iso": "lk",
+    "icono": "https://flagcdn.com/w160/lk.png",
+    "total_canales": 15
+  },
+  {
+    "categoria": "Filipinas",
+    "iso": "ph",
+    "icono": "https://flagcdn.com/w160/ph.png",
+    "total_canales": 26
+  },
+  {
+    "categoria": "Paraguay",
+    "iso": "py",
+    "icono": "https://flagcdn.com/w160/py.png",
+    "total_canales": 35
+  },
+  {
+    "categoria": "Arabia Saudita",
+    "iso": "sa",
+    "icono": "https://flagcdn.com/w160/sa.png",
+    "total_canales": 51
+  },
+  {
+    "categoria": "Venezuela",
+    "iso": "ve",
+    "icono": "https://flagcdn.com/w160/ve.png",
+    "total_canales": 63
+  },
+  {
+    "categoria": "China",
+    "iso": "cn",
+    "icono": "https://flagcdn.com/w160/cn.png",
+    "total_canales": 149
+  },
+  {
+    "categoria": "Bolivia",
+    "iso": "bo",
+    "icono": "https://flagcdn.com/w160/bo.png",
+    "total_canales": 66
+  },
+  {
+    "categoria": "Rumania",
+    "iso": "ro",
+    "icono": "https://flagcdn.com/w160/ro.png",
+    "total_canales": 141
+  },
+  {
+    "categoria": "Bélgica",
+    "iso": "be",
+    "icono": "https://flagcdn.com/w160/be.png",
+    "total_canales": 40
+  },
+  {
+    "categoria": "Azerbaiyán",
+    "iso": "az",
+    "icono": "https://flagcdn.com/w160/az.png",
+    "total_canales": 15
+  },
+  {
+    "categoria": "Etiopía",
+    "iso": "et",
+    "icono": "https://flagcdn.com/w160/et.png",
+    "total_canales": 11
+  },
+  {
+    "categoria": "Ghana",
+    "iso": "gh",
+    "icono": "https://flagcdn.com/w160/gh.png",
+    "total_canales": 22
+  },
+  {
+    "categoria": "Benín",
+    "iso": "bj",
+    "icono": "https://flagcdn.com/w160/bj.png",
+    "total_canales": 4
+  },
+  {
+    "categoria": "Croacia",
+    "iso": "hr",
+    "icono": "https://flagcdn.com/w160/hr.png",
+    "total_canales": 25
+  },
+  {
+    "categoria": "Indonesia",
+    "iso": "id",
+    "icono": "https://flagcdn.com/w160/id.png",
+    "total_canales": 166
+  },
+  {
+    "categoria": "Sudán",
+    "iso": "sd",
+    "icono": "https://flagcdn.com/w160/sd.png",
+    "total_canales": 3
+  },
+  {
+    "categoria": "República del Congo",
+    "iso": "cg",
+    "icono": "https://flagcdn.com/w160/cg.png",
+    "total_canales": 4
+  },
+  {
+    "categoria": "Camerún",
+    "iso": "cm",
+    "icono": "https://flagcdn.com/w160/cm.png",
+    "total_canales": 10
+  },
+  {
+    "categoria": "Líbano",
+    "iso": "lb",
+    "icono": "https://flagcdn.com/w160/lb.png",
+    "total_canales": 32
+  },
+  {
+    "categoria": "Egipto",
+    "iso": "eg",
+    "icono": "https://flagcdn.com/w160/eg.png",
+    "total_canales": 29
+  },
+  {
+    "categoria": "Corea del Sur",
+    "iso": "kr",
+    "icono": "https://flagcdn.com/w160/kr.png",
+    "total_canales": 100
+  },
+  {
+    "categoria": "Chequia",
+    "iso": "cz",
+    "icono": "https://flagcdn.com/w160/cz.png",
+    "total_canales": 1
+  },
+  {
+    "categoria": "Argelia",
+    "iso": "dz",
+    "icono": "https://flagcdn.com/w160/dz.png",
+    "total_canales": 16
+  },
+  {
+    "categoria": "Catar",
+    "iso": "qa",
+    "icono": "https://flagcdn.com/w160/qa.png",
+    "total_canales": 19
+  },
+  {
+    "categoria": "Túnez",
+    "iso": "tn",
+    "icono": "https://flagcdn.com/w160/tn.png",
+    "total_canales": 6
+  },
+  {
+    "categoria": "Libia",
+    "iso": "ly",
+    "icono": "https://flagcdn.com/w160/ly.png",
+    "total_canales": 5
+  },
+  {
+    "categoria": "Yemen",
+    "iso": "ye",
+    "icono": "https://flagcdn.com/w160/ye.png",
+    "total_canales": 7
+  },
+  {
+    "categoria": "Palestina",
+    "iso": "ps",
+    "icono": "https://flagcdn.com/w160/ps.png",
+    "total_canales": 15
+  },
+  {
+    "categoria": "Kuwait",
+    "iso": "kw",
+    "icono": "https://flagcdn.com/w160/kw.png",
+    "total_canales": 11
+  },
+  {
+    "categoria": "Siria",
+    "iso": "sy",
+    "icono": "https://flagcdn.com/w160/sy.png",
+    "total_canales": 11
+  },
+  {
+    "categoria": "Colombia",
+    "iso": "co",
+    "icono": "https://flagcdn.com/w160/co.png",
+    "total_canales": 140
+  },
+  {
+    "categoria": "Jordania",
+    "iso": "jo",
+    "icono": "https://flagcdn.com/w160/jo.png",
+    "total_canales": 16
+  },
+  {
+    "categoria": "Omán",
+    "iso": "om",
+    "icono": "https://flagcdn.com/w160/om.png",
+    "total_canales": 5
+  },
+  {
+    "categoria": "Bosnia y Herzegovina",
+    "iso": "ba",
+    "icono": "https://flagcdn.com/w160/ba.png",
+    "total_canales": 18
+  },
+  {
+    "categoria": "Islandia",
+    "iso": "is",
+    "icono": "https://flagcdn.com/w160/is.png",
+    "total_canales": 4
+  },
+  {
+    "categoria": "Turkmenistán",
+    "iso": "tm",
+    "icono": "https://flagcdn.com/w160/tm.png",
+    "total_canales": 8
+  },
+  {
+    "categoria": "República Democrática del Congo",
+    "iso": "cd",
+    "icono": "https://flagcdn.com/w160/cd.png",
+    "total_canales": 13
+  },
+  {
+    "categoria": "República Checa",
+    "iso": "cz",
+    "icono": "https://flagcdn.com/w160/cz.png",
+    "total_canales": 91
+  },
+  {
+    "categoria": "Ecuador",
+    "iso": "ec",
+    "icono": "https://flagcdn.com/w160/ec.png",
+    "total_canales": 80
+  },
+  {
+    "categoria": "Guatemala",
+    "iso": "gt",
+    "icono": "https://flagcdn.com/w160/gt.png",
+    "total_canales": 50
+  },
+  {
+    "categoria": "Vietnam",
+    "iso": "vn",
+    "icono": "https://flagcdn.com/w160/vn.png",
+    "total_canales": 76
+  },
+  {
+    "categoria": "Angola",
+    "iso": "ao",
+    "icono": "https://flagcdn.com/w160/ao.png",
+    "total_canales": 5
+  },
+  {
+    "categoria": "Andorra",
+    "iso": "ad",
+    "icono": "https://flagcdn.com/w160/ad.png",
+    "total_canales": 1
+  },
+  {
+    "categoria": "Nepal",
+    "iso": "np",
+    "icono": "https://flagcdn.com/w160/np.png",
+    "total_canales": 11
+  },
+  {
+    "categoria": "Portugal",
+    "iso": "pt",
+    "icono": "https://flagcdn.com/w160/pt.png",
+    "total_canales": 59
+  },
+  {
+    "categoria": "Singapur",
+    "iso": "sg",
+    "icono": "https://flagcdn.com/w160/sg.png",
+    "total_canales": 24
+  },
+  {
+    "categoria": "Austria",
+    "iso": "at",
+    "icono": "https://flagcdn.com/w160/at.png",
+    "total_canales": 28
+  },
+  {
+    "categoria": "Reunión",
+    "iso": "re",
+    "icono": "https://flagcdn.com/w160/re.png",
+    "total_canales": 1
+  },
+  {
+    "categoria": "Luxemburgo",
+    "iso": "lu",
+    "icono": "https://flagcdn.com/w160/lu.png",
+    "total_canales": 7
+  },
+  {
+    "categoria": "Camboya",
+    "iso": "kh",
+    "icono": "https://flagcdn.com/w160/kh.png",
+    "total_canales": 21
+  },
+  {
+    "categoria": "Uzbekistán",
+    "iso": "uz",
+    "icono": "https://flagcdn.com/w160/uz.png",
+    "total_canales": 33
+  },
+  {
+    "categoria": "Serbia",
+    "iso": "rs",
+    "icono": "https://flagcdn.com/w160/rs.png",
+    "total_canales": 56
+  },
+  {
+    "categoria": "Somalia",
+    "iso": "so",
+    "icono": "https://flagcdn.com/w160/so.png",
+    "total_canales": 13
+  },
+  {
+    "categoria": "Aruba",
+    "iso": "aw",
+    "icono": "https://flagcdn.com/w160/aw.png",
+    "total_canales": 4
+  },
+  {
+    "categoria": "Suecia",
+    "iso": "se",
+    "icono": "https://flagcdn.com/w160/se.png",
+    "total_canales": 118
+  },
+  {
+    "categoria": "Baréin",
+    "iso": "bh",
+    "icono": "https://flagcdn.com/w160/bh.png",
+    "total_canales": 6
+  },
+  {
+    "categoria": "Guinea",
+    "iso": "gn",
+    "icono": "https://flagcdn.com/w160/gn.png",
+    "total_canales": 2
+  },
+  {
+    "categoria": "Kosovo",
+    "iso": "xk",
+    "icono": "https://flagcdn.com/w160/xk.png",
+    "total_canales": 11
+  },
+  {
+    "categoria": "Surinam",
+    "iso": "sr",
+    "icono": "https://flagcdn.com/w160/sr.png",
+    "total_canales": 5
+  },
+  {
+    "categoria": "Malasia",
+    "iso": "my",
+    "icono": "https://flagcdn.com/w160/my.png",
+    "total_canales": 19
+  },
+  {
+    "categoria": "Taiwán",
+    "iso": "tw",
+    "icono": "https://flagcdn.com/w160/tw.png",
+    "total_canales": 30
+  },
+  {
+    "categoria": "Uruguay",
+    "iso": "uy",
+    "icono": "https://flagcdn.com/w160/uy.png",
+    "total_canales": 6
+  },
+  {
+    "categoria": "Honduras",
+    "iso": "hn",
+    "icono": "https://flagcdn.com/w160/hn.png",
+    "total_canales": 69
+  },
+  {
+    "categoria": "Tayikistán",
+    "iso": "tj",
+    "icono": "https://flagcdn.com/w160/tj.png",
+    "total_canales": 13
+  },
+  {
+    "categoria": "Moldavia",
+    "iso": "md",
+    "icono": "https://flagcdn.com/w160/md.png",
+    "total_canales": 24
+  },
+  {
+    "categoria": "Lituania",
+    "iso": "lt",
+    "icono": "https://flagcdn.com/w160/lt.png",
+    "total_canales": 18
+  },
+  {
+    "categoria": "Bielorrusia",
+    "iso": "by",
+    "icono": "https://flagcdn.com/w160/by.png",
+    "total_canales": 17
+  },
+  {
+    "categoria": "Hong Kong",
+    "iso": "hk",
+    "icono": "https://flagcdn.com/w160/hk.png",
+    "total_canales": 19
+  },
+  {
+    "categoria": "Mongolia",
+    "iso": "mn",
+    "icono": "https://flagcdn.com/w160/mn.png",
+    "total_canales": 27
+  },
+  {
+    "categoria": "Caribe Neerlandés",
+    "iso": "bq",
+    "icono": "https://flagcdn.com/w160/bq.png",
+    "total_canales": 1
+  },
+  {
+    "categoria": "Ruanda",
+    "iso": "rw",
+    "icono": "https://flagcdn.com/w160/rw.png",
+    "total_canales": 6
+  },
+  {
+    "categoria": "Panamá",
+    "iso": "pa",
+    "icono": "https://flagcdn.com/w160/pa.png",
+    "total_canales": 20
+  },
+  {
+    "categoria": "El Salvador",
+    "iso": "sv",
+    "icono": "https://flagcdn.com/w160/sv.png",
+    "total_canales": 24
+  },
+  {
+    "categoria": "Burkina Faso",
+    "iso": "bf",
+    "icono": "https://flagcdn.com/w160/bf.png",
+    "total_canales": 4
+  },
+  {
+    "categoria": "Nicaragua",
+    "iso": "ni",
+    "icono": "https://flagcdn.com/w160/ni.png",
+    "total_canales": 11
+  },
+  {
+    "categoria": "Suiza",
+    "iso": "ch",
+    "icono": "https://flagcdn.com/w160/ch.png",
+    "total_canales": 34
+  },
+  {
+    "categoria": "Cuba",
+    "iso": "cu",
+    "icono": "https://flagcdn.com/w160/cu.png",
+    "total_canales": 4
+  },
+  {
+    "categoria": "Macao",
+    "iso": "mo",
+    "icono": "https://flagcdn.com/w160/mo.png",
+    "total_canales": 7
+  },
+  {
+    "categoria": "Jamaica",
+    "iso": "jm",
+    "icono": "https://flagcdn.com/w160/jm.png",
+    "total_canales": 6
+  },
+  {
+    "categoria": "Santa Lucía",
+    "iso": "lc",
+    "icono": "https://flagcdn.com/w160/lc.png",
+    "total_canales": 2
+  },
+  {
+    "categoria": "Barbados",
+    "iso": "bb",
+    "icono": "https://flagcdn.com/w160/bb.png",
+    "total_canales": 2
+  },
+  {
+    "categoria": "Puerto Rico",
+    "iso": "pr",
+    "icono": "https://flagcdn.com/w160/pr.png",
+    "total_canales": 12
+  },
+  {
+    "categoria": "Haití",
+    "iso": "ht",
+    "icono": "https://flagcdn.com/w160/ht.png",
+    "total_canales": 33
+  },
+  {
+    "categoria": "Maldivas",
+    "iso": "mv",
+    "icono": "https://flagcdn.com/w160/mv.png",
+    "total_canales": 9
+  },
+  {
+    "categoria": "Curazao",
+    "iso": "cw",
+    "icono": "https://flagcdn.com/w160/cw.png",
+    "total_canales": 10
+  },
+  {
+    "categoria": "Irlanda",
+    "iso": "ie",
+    "icono": "https://flagcdn.com/w160/ie.png",
+    "total_canales": 18
+  },
+  {
+    "categoria": "Trinidad y Tobago",
+    "iso": "tt",
+    "icono": "https://flagcdn.com/w160/tt.png",
+    "total_canales": 6
+  },
+  {
+    "categoria": "Laos",
+    "iso": "la",
+    "icono": "https://flagcdn.com/w160/la.png",
+    "total_canales": 5
+  },
+  {
+    "categoria": "Níger",
+    "iso": "ne",
+    "icono": "https://flagcdn.com/w160/ne.png",
+    "total_canales": 3
+  },
+  {
+    "categoria": "Zambia",
+    "iso": "zm",
+    "icono": "https://flagcdn.com/w160/zm.png",
+    "total_canales": 1
+  },
+  {
+    "categoria": "Eritrea",
+    "iso": "er",
+    "icono": "https://flagcdn.com/w160/er.png",
+    "total_canales": 1
+  },
+  {
+    "categoria": "Estonia",
+    "iso": "ee",
+    "icono": "https://flagcdn.com/w160/ee.png",
+    "total_canales": 10
+  },
+  {
+    "categoria": "Guadalupe",
+    "iso": "gp",
+    "icono": "https://flagcdn.com/w160/gp.png",
+    "total_canales": 3
+  },
+  {
+    "categoria": "Eslovenia",
+    "iso": "si",
+    "icono": "https://flagcdn.com/w160/si.png",
+    "total_canales": 20
+  },
+  {
+    "categoria": "Birmania",
+    "iso": "mm",
+    "icono": "https://flagcdn.com/w160/mm.png",
+    "total_canales": 6
+  },
+  {
+    "categoria": "Senegal",
+    "iso": "sn",
+    "icono": "https://flagcdn.com/w160/sn.png",
+    "total_canales": 8
+  },
+  {
+    "categoria": "Letonia",
+    "iso": "lv",
+    "icono": "https://flagcdn.com/w160/lv.png",
+    "total_canales": 11
+  },
+  {
+    "categoria": "Rumanía",
+    "iso": "ro",
+    "icono": "https://flagcdn.com/w160/ro.png",
+    "total_canales": 5
+  },
+  {
+    "categoria": "Bahamas",
+    "iso": "bs",
+    "icono": "https://flagcdn.com/w160/bs.png",
+    "total_canales": 3
+  },
+  {
+    "categoria": "Madagascar",
+    "iso": "mg",
+    "icono": "https://flagcdn.com/w160/mg.png",
+    "total_canales": 14
+  },
+  {
+    "categoria": "Guyana",
+    "iso": "gy",
+    "icono": "https://flagcdn.com/w160/gy.png",
+    "total_canales": 3
+  },
+  {
+    "categoria": "Finlandia",
+    "iso": "fi",
+    "icono": "https://flagcdn.com/w160/fi.png",
+    "total_canales": 17
+  },
+  {
+    "categoria": "Malí",
+    "iso": "ml",
+    "icono": "https://flagcdn.com/w160/ml.png",
+    "total_canales": 3
+  },
+  {
+    "categoria": "Corea del Norte",
+    "iso": "kp",
+    "icono": "https://flagcdn.com/w160/kp.png",
+    "total_canales": 4
+  },
+  {
+    "categoria": "Somalilandia",
+    "iso": "so",
+    "icono": "https://flagcdn.com/w160/so.png",
+    "total_canales": 1
+  },
+  {
+    "categoria": "Mauricio",
+    "iso": "mu",
+    "icono": "https://flagcdn.com/w160/mu.png",
+    "total_canales": 1
+  },
+  {
+    "categoria": "Sierra Leona",
+    "iso": "sl",
+    "icono": "https://flagcdn.com/w160/sl.png",
+    "total_canales": 2
+  },
+  {
+    "categoria": "Mónaco",
+    "iso": "mc",
+    "icono": "https://flagcdn.com/w160/mc.png",
+    "total_canales": 7
+  },
+  {
+    "categoria": "Namibia",
+    "iso": "na",
+    "icono": "https://flagcdn.com/w160/na.png",
+    "total_canales": 2
+  },
+  {
+    "categoria": "Malta",
+    "iso": "mt",
+    "icono": "https://flagcdn.com/w160/mt.png",
+    "total_canales": 7
+  },
+  {
+    "categoria": "San Cristóbal y Nieves",
+    "iso": "kn",
+    "icono": "https://flagcdn.com/w160/kn.png",
+    "total_canales": 2
+  },
+  {
+    "categoria": "Bonaire",
+    "iso": "bq",
+    "icono": "https://flagcdn.com/w160/bq.png",
+    "total_canales": 3
+  },
+  {
+    "categoria": "Togo",
+    "iso": "tg",
+    "icono": "https://flagcdn.com/w160/tg.png",
+    "total_canales": 6
+  },
+  {
+    "categoria": "Gambia",
+    "iso": "gm",
+    "icono": "https://flagcdn.com/w160/gm.png",
+    "total_canales": 2
+  },
+  {
+    "categoria": "Belice",
+    "iso": "bz",
+    "icono": "https://flagcdn.com/w160/bz.png",
+    "total_canales": 1
+  },
+  {
+    "categoria": "Bután",
+    "iso": "bt",
+    "icono": "https://flagcdn.com/w160/bt.png",
+    "total_canales": 1
+  },
+  {
+    "categoria": "Montenegro",
+    "iso": "me",
+    "icono": "https://flagcdn.com/w160/me.png",
+    "total_canales": 7
+  },
+  {
+    "categoria": "Sahara Occidental",
+    "iso": "eh",
+    "icono": "https://flagcdn.com/w160/eh.png",
+    "total_canales": 1
+  },
+  {
+    "categoria": "Cabo Verde",
+    "iso": "cv",
+    "icono": "https://flagcdn.com/w160/cv.png",
+    "total_canales": 2
+  },
+  {
+    "categoria": "Brunéi",
+    "iso": "bn",
+    "icono": "https://flagcdn.com/w160/bn.png",
+    "total_canales": 3
+  },
+  {
+    "categoria": "San Marino",
+    "iso": "sm",
+    "icono": "https://flagcdn.com/w160/sm.png",
+    "total_canales": 3
+  },
+  {
+    "categoria": "Seychelles",
+    "iso": "sc",
+    "icono": "https://flagcdn.com/w160/sc.png",
+    "total_canales": 2
+  },
+  {
+    "categoria": "Guinea Ecuatorial",
+    "iso": "gq",
+    "icono": "https://flagcdn.com/w160/gq.png",
+    "total_canales": 2
+  },
+  {
+    "categoria": "San Vicente y las Granadinas",
+    "iso": "vc",
+    "icono": "https://flagcdn.com/w160/vc.png",
+    "total_canales": 1
+  },
+  {
+    "categoria": "Chad",
+    "iso": "td",
+    "icono": "https://flagcdn.com/w160/td.png",
+    "total_canales": 1
+  },
+  {
+    "categoria": "Martinica",
+    "iso": "mq",
+    "icono": "https://flagcdn.com/w160/mq.png",
+    "total_canales": 2
+  },
+  {
+    "categoria": "Polinesia Francesa",
+    "iso": "pf",
+    "icono": "https://flagcdn.com/w160/pf.png",
+    "total_canales": 1
+  },
+  {
+    "categoria": "Samoa",
+    "iso": "ws",
+    "icono": "https://flagcdn.com/w160/ws.png",
+    "total_canales": 1
+  },
+  {
+    "categoria": "Mozambique",
+    "iso": "mz",
+    "icono": "https://flagcdn.com/w160/mz.png",
+    "total_canales": 3
+  },
+  {
+    "categoria": "Malaui",
+    "iso": "mw",
+    "icono": "https://flagcdn.com/w160/mw.png",
+    "total_canales": 1
+  }
+]

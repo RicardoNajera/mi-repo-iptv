@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9pQdGw1.png" tvg-country="bq", NosTV Bonaire 2
+https://stream2.nostvbonaire.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GINI6oP.png" tvg-country="bq", NosTV Bonaire (1080p)
+http://streaming.flamingotv.net/nostv/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WOokQmj.png" tvg-country="bq", Voz Di Bonaire TV (720p)
+https://tv.westream.cloud/VozdiBonaireTV/VozdiBonaireTV.m3u8

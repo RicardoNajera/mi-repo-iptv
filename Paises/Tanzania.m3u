@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgnjgvF.png" tvg-country="tz", A12 TV
+https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bLq9eFa.png" tvg-country="tz", Dodoma TV (360p) [Not 24/7]
+https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NmnOGHI.jpg" tvg-country="tz", Faraja Television (1080p) [Not 24/7]
+https://panel.freedomflixtv.org:3868/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hkV51ij.png" tvg-country="tz", IBN TV (480p)
+http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eKy2ocd.png" tvg-country="tz", IBN TV Africa (720p)
+http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5o821rT.png" tvg-country="tz", Rhema TV (720p)
+https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/tz.png" tvg-country="tz", T2 Movies
+https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wu8MBb7.png" tvg-country="tz", T2 TV
+https://t2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcLFYhn.png" tvg-country="tz", Tanzania Safari Channel (576p)
+https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OmiVZ1u.png" tvg-country="tz", TBC1
+https://tbc.maintek.co/LiveApp/streams/YF43nTzH0duMyUA2130641323343587.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VkUJt2q.png" tvg-country="tz", TBC2 (1080p)
+https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_44ed95e05b6d11f18d5d85805abbdd6f/index.m3u8

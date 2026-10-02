@@ -1,0 +1,345 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51FJ5A0mEyL.jpg" tvg-country="us", 30A Luxe Life Discovered (720p)
+https://30a-tv.com/feeds/vidaa/luxelife.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s" tvg-country="us", 30A Television Channel (720p)
+https://30a-tv.com/feeds/masters/30atv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0j5Aget.png" tvg-country="us", 30A The Beach Show (720p)
+https://30a-tv.com/beachy.m3u8
+#EXTINF:-1 tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" tvg-country="us", Adventure Earth (1080p)
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VQVr4Nk.png" tvg-country="us", Adventure TV (1080p)
+http://57.128.231.171:8080/320/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/090tCQ5.png" tvg-country="fr", Alpe d'Huez TV (720p) [Not 24/7]
+https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dAO9llk.png" tvg-country="us", Anthony Bourdain: Parts Unknown
+https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9fWY09U.png" tvg-country="aw", Aruba.TV (1080p)
+https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9s6LZJZ.png" tvg-country="aw", ArubaTV +
+https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.antenaplay.ro/2026/08/25/00keSCoSw0EaWnICcuYB.png" tvg-country="ro", Asia Express NonStop (576i)
+https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOGQAns.png" tvg-country="us", Atlanta Channel (720p)
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png" tvg-country="de", Autentic Travel (1080p)
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OjpCtGj.png" tvg-country="us", AWE (720p)
+https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VhxtMUQ.png" tvg-country="us", AWE International (720p)
+https://a-cdn.klowdtv.com/live1/aweint/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hL8i7Ar.png" tvg-country="us", AWE Plus (720p)
+https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hL8i7Ar.png" tvg-country="us", AWE Plus KPVM-LD
+https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zdRvy87.png" tvg-country="ua", BamBarBia.TV (720p) [Not 24/7]
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QiuYWs9.png" tvg-country="gb", BBC Travel
+https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/weypM9C.png" tvg-country="us", Beach TV Florida & Alabama (720p)
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XhDBdff.png" tvg-country="us", Beach TV Key West & Florida Keys (720p)
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aLYz7Bv.png" tvg-country="us", Beach TV Myrtle Beach & The Grand Strand (720p)
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCQDvEe.png" tvg-country="us", Beach TV Panama City (720p)
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZREy4zM.png" tvg-country="id", Biznet Adventure (1080p)
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2ncOXi.png" tvg-country="cn", CCTV-World Geography SD (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61c1dda0fe470d00080f85b8/colorLogoPNG.png" tvg-country="no", Charterfeber
+https://jmp2.uk/plu-61c1dda0fe470d00080f85b8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1WjGN8u.png" tvg-country="ru", Chemodan TV (1080p)
+http://stream.mcquack.net/399/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F1it6fh.png" tvg-country="cl", Chile Channel (720p)
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSgY3CD.png" tvg-country="cn", China Travel (1080p)
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG_1757954279063.png" tvg-country="es", Cine aventura
+https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D2qNVZ7.png" tvg-country="sg", CinemaWorld (720p)
+http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CTQgqsM.png" tvg-country="es", Ciudades del Ocio TV (720p)
+https://cloudvideo.servers10.com:8081/8024/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MKKap2F.png" tvg-country="ng", cLoveworld TV (480p)
+https://live-hls-5rxy.livepush.io/live_cdn/em_LJ5aZjqp0LdiQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N4pFVVF.png" tvg-country="cr", Costa Rica Channel (576p) [Not 24/7]
+https://video0.rogohosting.com:19360/8006/8006.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Der%20TV.jpeg" tvg-country="de", Der TV
+https://stream.berosat.live/hls/der-tv/der-tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pGICS9K.png" tvg-country="ro", Digi World (576i)
+https://dokagents.site/live/digiworld/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJH47fJ.png" tvg-country="pk", Discover Pakistan (1080p)
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uOBQJZS.png" tvg-country="hu", Duna World
+http://88.212.15.19/live/duna_world_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KArB5U6.png" tvg-country="uz", Dunyo bo'ylab (1080p)
+https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTWl2Iy.png" tvg-country="ca", Evasion TV
+https://kali.vdopanel.com:3788/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RLHRjQ3.png" tvg-country="gb", Faith World TV (1080p)
+https://faithworldtv.abs.tv/1826926230/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Q6TENm.png" tvg-country="us", Fun Roads (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GXJKWdy.png" tvg-country="ru", Glazami Turista (1080p)
+http://str2.iptvhd.ru:8080/Glazami_turista_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2u33Ayy.jpeg" tvg-country="gb", GlobalWorldTV (720p)
+https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IaRcN1G.png" tvg-country="us", GoTraveler (720p) [Geo-blocked]
+https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/gxzypd.jpg" tvg-country="cn", Guangxi Variety & Travel Channel
+http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" tvg-country="il", i24NEWS English World (1080p)
+https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dW3AUQ.png" tvg-country="br", IMPD TV Worldwide (1080p)
+https://igrejamundial.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png" tvg-country="ru", INTRAVEL (1080p)
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ewdPTh8.png" tvg-country="jm", Jamaica Travel Channel (720p)
+https://stream-207076.castr.net/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gpeIoU9.png" tvg-country="jo", Jordan Tourism (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1JNrLxq.png" tvg-country="us", Journy (720p)
+https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7DqgELX.png" tvg-country="kr", KBS World (720p)
+https://stream8.cinerama.uz/1448/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2896-294x165-FFFFFF.jpg" tvg-country="co", La Ruta TV
+https://streamunoapp.com:3983/live/larutatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/lanzhou.jpg" tvg-country="cn", Lanzhou Culture & Tourism Channel
+https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q3UToRM.png" tvg-country="ph", Living Asia Channel (1080p)
+https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KYMjRjK.png" tvg-country="ng", LoveWorld Arabic (360p)
+https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vd2xPxh.png" tvg-country="ng", LoveWorld Persia (720p)
+https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgHbDmF.png" tvg-country="gb", LoveWorld UK (1080p) [Not 24/7]
+https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/us.png" tvg-country="us", LoveWorld USA (720p)
+https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fg65XCS.png" tvg-country="za", LoveworldSAT (1080p)
+https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zl2FmFC.png" tvg-country="mv", Maldives TV (720p)
+https://lana.psm.mv/live/mtv.m3u8
+#EXTINF:-1 tvg-logo="https://www.mongolsat.mn/assets/img/channel/22.png" tvg-country="mn", MNB World (1080p)
+https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uIiAdBv.png" tvg-country="ru", Moya Planeta (1080p)
+http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bYiRfAg.png" tvg-country="gb", MTA1 World (720p)
+https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GUQhLeg.png" tvg-country="th", NBT World (1080p)
+https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_TIMES/images/LOGO_HD/image.png" tvg-country="in", NDTV Good Times (1080p)
+https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MfyRQCs.png" tvg-country="us", News of the World (720p)
+https://nowhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MfyRQCs.png" tvg-country="us", News of the World Arabic (720p)
+https://live.nowtelly.com/now_arabic/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MfyRQCs.png" tvg-country="us", News of the World Spanish (1080p)
+https://live.nowtelly.com/now_spanish/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MfyRQCs.png" tvg-country="us", News of the World USA (1080p)
+https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png" tvg-country="in", NewsWorld (1080p)
+https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_X_World.png" tvg-country="in", NewsX World (576p)
+https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ESi2La.png" tvg-country="jp", NHK World Premium (720p)
+https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" tvg-country="jp", NHK World-Japan (1080p)
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" tvg-country="jp", NHK World-Japan HD (1080p)
+http://51.75.127.199:3141/nhkworldjapan/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kBol4Pf.png" tvg-country="us", Palm Beaches TV (720p)
+https://live.feed.thepalmbeaches.tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A6GXhta.png" tvg-country="us", PBS Travel (1080p)
+https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
+#EXTINF:-1 tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" tvg-country="it", Peer TV Alto Adige (1280p)
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" tvg-country="it", Peer TV South Tyrol (1280p)
+https://iptv.peer.biz/live/peertv-en.m3u8
+#EXTINF:-1 tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-country="it", Peer TV Sudtirol (1080p)
+https://iptv.peer.biz/live/peertv.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/fr.png" tvg-country="fr", Persiana Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_(2026).svg" tvg-country="us", Placid (1080p) [Not 24/7]
+https://toy.vcdn.fyi/placid/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XyBKaXI.png" tvg-country="it", Planeta Channel [Not 24/7]
+https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" tvg-country="es", Pluto TV Aventura
+https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnlQzs7.png" tvg-country="us", Pluto TV Backcountry
+https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ad9b8551b95267e225e59c1/colorLogoPNG.png" tvg-country="us", Pluto TV Explore
+https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66c79a4262e5510008ff68a5/colorLogoPNG.png" tvg-country="br", Pluto TV Filmes Aventura
+https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/colorLogoPNG.png" tvg-country="br", Pluto TV Paisagens por Stingray (720p)
+https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1769016717502.png" tvg-country="br", Pluto TV Viagens
+https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63c923944207be0007fd0887/colorLogoPNG_1774882201565.png" tvg-country="it", Pluto TV Viaggi
+https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/et6giFo.png" tvg-country="us", Pocono Television Network (1080p)
+https://dfoiz3dv1euv7.cloudfront.net/ptnlive-s3/live1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNCpbII.png" tvg-country="ru", Poehali! (1080p)
+http://31.148.48.15/Poehali/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQB6G3s.jpg" tvg-country="us", POP World TV (720p)
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bFG4Rqz.png" tvg-country="mx", Presumiendo Mexico (720p)
+https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQ6pPPQ.png" tvg-country="ru", Priklyucheniya (576p)
+https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQ6pPPQ.png" tvg-country="ru", Priklyucheniya HD (1080p)
+http://stream.mcquack.net/198/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuh1vzj.png" tvg-country="rs", Prva World (1080p)
+https://de1.dstv.cx/PrvaWorld/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wHOQU0R.png" tvg-country="jo", Radio Yaqeen Jordan City View (1080p) [Not 24/7]
+http://45.63.116.205/hls4/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tDuKkh3.png" tvg-country="it", Rai World Premium (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
+#EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39438460-99ba-412e-ac19-9342249384af-width200-quality90.jpeg" tvg-country="de", Royalworld
+https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZpUNou4.png" tvg-country="ru", RTG int.
+http://213.91.179.28:8000/play/a0bw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-country="ru", RTG TV (720p)
+http://31.148.48.15/RTG_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-country="ru", RTG TV HD (1080p)
+http://stream.mcquack.net/164/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png" tvg-country="in", Safari TV (576p)
+https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gCKMxrW.png" tvg-country="au", SBS WorldWatch
+http://44.32.200.142:5004/auto/v35
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg" tvg-country="at", Schladming-Dachstein TV (720p)
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pDFkH0.png" tvg-country="vn", SCTV12 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wnNd3b8.png" tvg-country="us", Shalom World (1080p)
+https://broadcaster-1.cclouds.in/srt-2/channel2_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wnNd3b8.png" tvg-country="au", Shalom World Australia (1080p) [Geo-blocked]
+https://broadcaster-1.cclouds.in/srt-3/channel3_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wnNd3b8.png" tvg-country="gb", Shalom World Europe (1080p)
+https://broadcaster-1.cclouds.in/srt/channel1_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uUrTto3.png" tvg-country="us", Shalom World Prayer (1080p)
+https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g4QeXwF.png" tvg-country="de", Sonnenklar TV (1080p)
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptv.rt.ru/images/d6iist8mifeailfopupg.png" tvg-country="ru", START World (576p)
+https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-logo="https://images.iptv.rt.ru/images/d6iist8mifeailfopupg.png" tvg-country="ru", START World HD (1080p)
+http://str2.iptvhd.ru:8080/START_World_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B26qL3e.png" tvg-country="ve", Sun Channel (720p)
+http://168.196.127.137:6001/play/a06p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgjgjE1.png" tvg-country="mc", Superyacht TV (1080p)
+https://sy.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8s6aRwv.png" tvg-country="us", Tastemade Travel (1080p)
+https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eXJm1n3.png" tvg-country="ru", Teleputeshestviya (576p)
+http://str2.iptvhd.ru:8080/Teleputeshestviya/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ig4gR93.png" tvg-country="cr", Teletur (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5yzPhRo.png" tvg-country="us", The Amazing Race
+https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/khj869k.png" tvg-country="us", Tour Spot TV (1280p) [Not 24/7]
+https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3tBJERH.png" tvg-country="br", Travel Box Brazil (720p)
+http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5xllfed.png" tvg-country="bg", Travel TV (576p)
+https://streamer103.neterra.tv/travel/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-country="ru", Travel+Adventure (1080p)
+http://31.148.48.15/Travel_Adventure_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-country="ru", Travel+Adventure HD (1080p)
+http://stream.mcquack.net/206/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" tvg-country="in", Travelxp 4K HDR (2160p) [Geo-blocked]
+https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" tvg-country="in", Travelxp HD (1080p) [Geo-blocked]
+https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" tvg-country="ru", Travelxp Russia (1080p)
+http://stream.mcquack.net/451/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" tvg-country="tr", TRT World (720p)
+https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" tvg-country="tr", TRT World HD
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208343.jpg" tvg-country="es", Turismo HD (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3800-294x165-FFFFFF.jpg" tvg-country="do", Turismo RDTV (720p)
+https://streamunoapp.com:3086/live/telemileniolive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ixl8Px.png" tvg-country="ar", Turismo Travel TV
+https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g9j0ze8.png" tvg-country="cl", Turistik TV (720p)
+https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I6pKoBd.png" tvg-country="br", TV Parana Turismo (720p) [Not 24/7]
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lAkMrtr.png" tvg-country="tj", TV Sayohi (1080p)
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3CDxatu.png" tvg-country="it", TV Yes Italia (720p)
+https://stream1.aswifi.it/radioyes/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lB4MgRI.png" tvg-country="pl", TVP World
+https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png" tvg-country="id", TVRI World (1080p)
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSFf5Ce.png" tvg-country="us", TVS Travel Network (720p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/U_Travel.svg/1920px-U_Travel.svg.png" tvg-country="us", U Travel (1080p)
+http://str2.iptvhd.ru:8080/travel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cTSDB8O.png" tvg-country="th", Uniquely Thai (720p)
+https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.g-cdn.app/streams/vacation-channel-il-hd.png" tvg-country="us", Vacation Channel
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G7lONcu.png" tvg-country="us", Vegas Life TV (1080p)
+https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://antiabuse-container.b-cdn.net/mirseriallogo.png" tvg-country="ru", Velvet. World Series (1080p)
+https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg" tvg-country="bg", Viasat Explore (Bulgaria) (1080p)
+https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DyT5pKB.png" tvg-country="cz", Viasat Explore (Czech Republic)
+http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg" tvg-country="ro", Viasat Explore (Romania)
+https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jboGcoY.png" tvg-country="si", Viasat Explore (Slovenia)
+https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DyT5pKB.png" tvg-country="se", Viasat Explore (Sweden) [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RBqKj6R.png" tvg-country="ua", Viasat Explore (Ukraine) (576p)
+http://dtv.vol.net.ua/Viasat-Explore/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/1f51bd5f-5c9a-486d-8720-800de7f73129-width200-quality90.jpeg" tvg-country="se", Viasat Explore Classic (720p)
+https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GPiE2Rb.png" tvg-country="ua", Viasat Kino World
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zEi8eMC.png" tvg-country="it", Video Tour Channel
+https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-country="ru", viju Explore (576p)
+http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" tvg-country="fr", Voyages & Saveurs (720p)
+https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
+#EXTINF:-1 tvg-logo="https://whiplash.cc/assets/img/channels/windowtv.png" tvg-country="cz", Window TV (720p)
+https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe-width200-quality90.png" tvg-country="gb", World Billiards
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://worldchannel.org/static/images/logo-world-channel.png" tvg-country="us", World Channel (1080p)
+https://world.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-logo="https://worldchannel.org/static/images/logo-world-channel.png" tvg-country="us", World Channel WGTV (1080p)
+https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/03bcq49.png" tvg-country="us", World Entertainment TV 42
+http://3bb.engatetv.com:25461/hstn/line/147
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xtbkDDN.png" tvg-country="us", World Harvest TV (360p)
+https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lta5Mog.png" tvg-country="de", World of Freesports (1080p)
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98kLMjj.png" tvg-country="us", World Poker Tour (1080p)
+https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98kLMjj.png" tvg-country="de", World Poker Tour Germany
+https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98kLMjj.png" tvg-country="pl", World Poker Tour Poland (1080p)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98kLMjj.png" tvg-country="gb", World Poker Tour UK (1080p)
+https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://papaji.freetvindia.com/media/World_Punjabi_TV.png" tvg-country="ca", World Punjabi TV (1080p)
+https://live1.ottlive.co.in/worldpunjabitv/worldpunjabitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G4cTmRgz/World-Tv-Guatemala.png" tvg-country="gt", World TV Guatemala (720p)
+https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8oy62fX.png" tvg-country="de", Xplore (714p) [Geo-blocked]
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WaGRlFO.png" tvg-country="de", Xplore TV (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HARIGQl.png" tvg-country="it", YES
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8

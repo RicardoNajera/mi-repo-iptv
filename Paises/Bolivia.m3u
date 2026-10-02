@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://abyayala.tv.bo/wp-content/uploads/2024/04/MOSCA-BLANCA-OK-308x189.png" tvg-country="bo", Abya Yala TV (720p)
+http://15.204.246.24:8080/AbyaYalaTvHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sSW7d8e.png" tvg-country="bo", Amazonia TV
+https://servilive.com:3199/live/amazoniatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05gwtk2.png" tvg-country="bo", Antares Television
+https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QtCgtZq.jpg" tvg-country="bo", Audaz TV (432p) [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3XOk1lP.jpeg" tvg-country="bo", Beb TV (720p)
+https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png" tvg-country="bo", Bolivia TV (1080p)
+http://190.181.61.93:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U98Z5zn.png" tvg-country="bo", Bolivision (1080p)
+http://15.204.246.24:8080/BolivisionHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Bolivisi%C3%B3n2025.png" tvg-country="bo", Bolivision Santa Cruz (720p)
+https://d1mws3umreue1g.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JO5yuNC.png" tvg-country="bo", Canal DTV (720p)
+https://s.emisoras.tv:8081/dtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/puOrL7B.jpg" tvg-country="bo", Canal Multivision (720p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/edaAexc.png" tvg-country="bo", Canal Nets (720p) [Not 24/7]
+https://movil.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7aKJCt.png" tvg-country="bo", Canal Peniel (720p) [Not 24/7]
+https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ljKb0UX.png" tvg-country="bo", CTV (Bolivia) (1080p)
+http://15.204.246.24:8080/CTVHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png" tvg-country="bo", Despertar TV (720p)
+https://br.conectmy.com.br/DespertarTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.trabajopolis.bo/attachment/images/cw600_ch315_sw585_sh300_clfff_q100_id618378_8e3aaf1db590f10.jpeg" tvg-country="bo", EL DEBER (1080p)
+https://master.tucableip.com/eldebertv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hn1KI7t.png" tvg-country="bo", Erbol (720p)
+https://twitch-m3u8.bastypro112.workers.dev/erboldigital/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" tvg-country="bo", F10 HD (720p)
+http://15.204.246.24:8080/F10HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YtdOXWb.png" tvg-country="bo", Farovision (720p)
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhwmWXD.png" tvg-country="bo", Frecuencia 7 TV (720p)
+https://v2.tustreaming.cl/frecuencia7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YOr1Oac.png" tvg-country="bo", FTV (Bolivia) (720p)
+https://master.tucableip.com/ftvhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png" tvg-country="bo", Imperial TV (720p)
+https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/13PjEk8.png" tvg-country="bo", Max TV (1080p)
+https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IAQXCak.png" tvg-country="bo", Megavision (720p)
+https://twitch-m3u8.bastypro112.workers.dev/megavisionbo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5ECnZd.png" tvg-country="bo", MegaVision TV (480p)
+http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wLjSSo2.jpg" tvg-country="bo", Multivision Sports (720p) [Not 24/7]
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3taT6JK.jpeg" tvg-country="bo", Nande Portetepe TV
+https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g7iFN3s.png" tvg-country="bo", Naranja TV (720p)
+https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLvRD4k.png" tvg-country="bo", Netmax TV (720p)
+https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4r2Ycju.png" tvg-country="bo", Nuka TV (720p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8118/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wAIBvaO.png" tvg-country="bo", Palenque TV (576p)
+http://15.204.246.24:8080/PalenqueTVSD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YtPRKmS.png" tvg-country="bo", Peniel K&Y (480p)
+https://s.emisoras.tv:8081/penielkids/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFQbGEf.png" tvg-country="bo", Peniel Musical (480p)
+https://s.emisoras.tv:8081/penielmusical/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j3gGwYk/D64575438be2a3a54fdf64d4035ade48.png" tvg-country="bo", Peniel TV Biblia Abierta (480p)
+https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vPvR7dX.png" tvg-country="bo", PTV (Bolivia) (720p)
+https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6bi7fGB.jpeg" tvg-country="bo", Qollasuyo TV (720p)
+https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://kollasuyobucket.s3.amazonaws.com/wp_files/2022/08/01/rk-white-500.png" tvg-country="bo", Radio Kollasuyo (720p)
+https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1502_Radio_Panoramica.png" tvg-country="bo", Radio Panoramica (720p)
+https://v2.tustreaming.cl/alingeproducciones/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bec3csmj7emx.jpg" tvg-country="bo", Radio San Gabriel (720p)
+https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBPVOBI.png" tvg-country="bo", Radio Tropical (480p) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/0/LogoRUSA+%283%29.jpg" tvg-country="bo", Radio Universitaria San Andres (720p)
+https://edge.enhdtv.com/8054/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iHaFLHX.png" tvg-country="bo", RadioTV Oriente (720p)
+https://live.obslivestream.com/tvoriente/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fK0g2CK.png" tvg-country="bo", Red DTV (1080p)
+http://15.204.246.24:8080/DTVHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4KOypc.jpeg" tvg-country="bo", Red Rubi (720p)
+https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wfNaEV9.png" tvg-country="bo", Red Uno (1080p) [Geo-blocked]
+http://15.204.246.24:8080/RedUnoSCZHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wfNaEV9.png" tvg-country="bo", Red Uno La Paz (1080p) [Geo-blocked]
+http://15.204.246.24:8080/RedUnoLPZHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WGkMt2j.png" tvg-country="bo", RedADvenir TV (360p) [Not 24/7]
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" tvg-country="bo", Retrox TV (720p) [Not 24/7]
+https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cECNvvr.png" tvg-country="bo", RTP (Bolivia) (576p)
+https://rtp.noxun.net/hls720/stream3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M2Fnxj7.png" tvg-country="bo", Sayare TV (720p) [Not 24/7]
+https://goliveafrica.media:9998/live/636dedfa327d7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2m8PVpA.png" tvg-country="bo", Sol TV (Bolivia) (720p)
+http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/noN0Yhe.png" tvg-country="bo", Sucremanta TV (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/500px-Logo_de_la_chaine_T18.svg.png" tvg-country="bo", T18 (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/bo.png" tvg-country="bo", Tele Fe Bolivia (720p)
+https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5byPkd7.png" tvg-country="bo", Telecanal Santa Cruz (720p)
+https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6wkmgGM.png" tvg-country="bo", Tigo Sports (Bolivia) (720p) [Geo-blocked]
+https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
+#EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/lBVfEh.png" tvg-country="bo", TV Culturas (576p)
+http://15.204.246.24:8080/TVCulturasSD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7c0b4Y4.png" tvg-country="bo", TVU Sucre (720p)
+https://edge.enhdtv.com/8214/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xYGkUR9.png" tvg-country="bo", Uchu TV (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" tvg-country="bo", UMSA TVU Internacional (720p)
+https://edge.enhdtv.com/8026/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" tvg-country="bo", UMSA TVU LP (720p)
+https://edge.enhdtv.com/8190/index.m3u8
+#EXTINF:-1 tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" tvg-country="bo", Unifranz (720p)
+https://edge.enhdtv.com/8192/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0PWpyc.png" tvg-country="bo", Unitel (1080p)
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" tvg-country="bo", Univalle Television (1080p)
+https://master.tucableip.com/univalletv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png" tvg-country="bo", UPEA TV (720p)
+https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cm1Xjeq.png" tvg-country="bo", Vos TV (Bolivia) (720p)
+http://15.204.246.24:8080/VOSTVHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLwLlWl.png" tvg-country="bo", XTOTV (720p)
+https://www.sccbolivia.com/dash/720p.mpd

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YkJPCfR.jpeg" tvg-country="gn", ATV (Guinea) (400p) [Not 24/7]
+https://guineetvdirect.online:3320/live/atvguineelive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R5tbzFI.png" tvg-country="gn", Espace TV (1080p)
+https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8

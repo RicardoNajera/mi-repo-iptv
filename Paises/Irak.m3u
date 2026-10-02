@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg" tvg-country="iq", 4Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t7CaTu3.png" tvg-country="iq", Afaq TV
+https://stream.afaq.iq/live/channel/afaqtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png" tvg-country="iq", Afarin Baxcha (1080p)
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6MnXD7g.png" tvg-country="iq", Afarin TV (720p) [Not 24/7]
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5FrE3Nv.png" tvg-country="iq", Al Alamiya 2
+http://82.212.74.98:8000/live/7815.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8qQouTW.jpg" tvg-country="iq", Al Iraqia (1080p)
+https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
+#EXTINF:-1 tvg-logo="https://gateway.esite-lab.com/file-storage/api/v1/public/uploads/2025/3/8/7a8a2548d8e5850e87066d2e573796189.png" tvg-country="iq", Al Iraqia Kurdish (720p)
+https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/feQTXeZ.jpg" tvg-country="iq", Al Iraqia News (720p)
+https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrrlxTO.png" tvg-country="iq", Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QMUjPXx.png" tvg-country="iq", Al Ittihad TV (552p) [Not 24/7]
+http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU" tvg-country="iq", Al Masar TV (576p)
+https://starmenajo.com/hls/almasar/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zkBT0C8.png" tvg-country="iq", Al Qamar TV (1080p)
+https://streamer3.premio.link/alqamar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltyRjPK.png" tvg-country="iq", Al Rasheed TV (1080p) [Not 24/7]
+https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/otAHLRo.png" tvg-country="iq", Al Shallal TV (1080p)
+https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJIG5IV.png" tvg-country="iq", Al Sharqiya (1080p)
+http://185.9.2.18/chid_144/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PeAcXB9.png" tvg-country="iq", Al Sharqiya News (1080p)
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://alaimma.tv/alaimma-logo.png" tvg-country="iq", Al-Aimma TV (1080p)
+https://alaimma.tv/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eo3UYCK.png" tvg-country="iq", Al-Jawadain TV (1080p) [Not 24/7]
+https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JyWjfIB.png" tvg-country="iq", Al-Naeem TV
+http://37.238.136.61/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rjXDCN5.png" tvg-country="iq", Al-Rafidain TV (720p) [Not 24/7]
+https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Alabbassia2026/Alabbassia-TV-Official/main/Logo%20PNG.png" tvg-country="iq", Alabbassia TV (1080p)
+https://stream.alabbassia.com/live/alabbassia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YPj6kXq.png" tvg-country="iq", Alghadeer TV (1080p)
+https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTyCBvB.png" tvg-country="iq", Altaghier TV (1080p)
+https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sseqFsO.png" tvg-country="iq", Amozhgary TV
+https://app-live.org/live/3268334b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yHZXPcn.png" tvg-country="iq", Anwar TV2 (720p)
+https://cloud.odysee.live/content/f92670235a1ce2bce4cf77671cc4dcc2188baa1d/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dwSHt2SG/Ara.png" tvg-country="iq", Ara TV
+https://ncdn.telewebion.ir/ara/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/iq.png" tvg-country="iq", Arvan TV
+https://arvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/b/b9/TV_Baran.svg/500px-TV_Baran.svg.png" tvg-country="iq", Baran TV
+https://ncdn.telewebion.ir/baran/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/960px-Channel8corp.png" tvg-country="iq", Channel8 (720p)
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFnmSLW.png" tvg-country="iq", Cira TV (1080p)
+https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kyzH3G5.png" tvg-country="iq", Dijlah TV (1080p)
+https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qWkHjRA.png" tvg-country="iq", Diyar TV (720p)
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ibb.co/Ng5nkX6F" tvg-country="iq", HSTV (720p)
+https://live.castmaxcloud.com/live/hstv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7woTe5.png" tvg-country="iq", Iraq Future (480p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qzApokm.png" tvg-country="iq", Ishtar TV SD (1080p)
+https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/37ajg2j.png" tvg-country="iq", Jin TV
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 tvg-logo="https://www.karbala-tv.iq/documentary/static/img/logo.png" tvg-country="iq", Karbala Documentary
+https://ktvlive.online/stream/hls/ch3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OyMxcRG.png" tvg-country="iq", Kolalnas TV
+https://htvint.mada.ps/kolalnas/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9QWs2ms.png" tvg-country="iq", Kurdistan 24 (1080p)
+https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mjQptpc.png" tvg-country="iq", Kurdistan TV (720p) [Not 24/7]
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UAbSwYA.png" tvg-country="iq", Kurdsat (1080p)
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F3XRwkt.png" tvg-country="iq", Kurdsat News (1080p)
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPoycVY.png" tvg-country="iq", Lana TV (576p)
+https://cdn.streamlane.tv/hls/ltv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LsYYkUI.png" tvg-country="iq", Marjaeyat TV Arabic (1080p)
+https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dvf61Jp.png" tvg-country="iq", Marjaeyat TV English (1080p)
+https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCj05f0.png" tvg-country="iq", Marjaeyat TV Persian (240p) [Not 24/7]
+https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D0LxiPE.png" tvg-country="iq", MBC Iraq (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WHeH5i7.png" tvg-country="iq", Mixkurdy (1080p)
+https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uGKGtbW.png" tvg-country="iq", NRT TV (720p) [Not 24/7]
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qySEibb.png" tvg-country="iq", Payam TV (1080p)
+https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zo3IWOn.png" tvg-country="iq", Rudaw TV (1080p)
+https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7uQoIXi.png" tvg-country="iq", Samarra TV
+https://live.bradosti.net/live/samaraweb_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg" tvg-country="iq", Shams TV (Iraq) (1080p)
+https://stream.shams.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJ05m8s.png" tvg-country="iq", Sqala TV (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bIheNAI.png" tvg-country="iq", Sterk TV (1080p)
+https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9qFHjnu.png" tvg-country="iq", UTV (Iraq) (1080p)
+https://utviraqi-live.lg.mncdn.com/utviraqi-live/64c80359/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rK0y02d.png" tvg-country="iq", Waar TV (1080p)
+https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
+#EXTINF:-1 tvg-logo="https://sbauae.faulio.com/storage/mediagallery/d2/ad/fullhd_48adf2291d08266c05ed1b0c24f326c86b1095b7.png" tvg-country="iq", Watar Radio (1080p)
+https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jdr22Sk.jpeg" tvg-country="iq", Watar TV (720p) [Not 24/7]
+http://htvint.mada.ps:8889/orient/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Mspf32.png" tvg-country="iq", Zagros TV (Iraq) (1080p)
+https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8

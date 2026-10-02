@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIrVAa2.png" tvg-country="bf", Canal 3 (Burkina Faso)
+https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nynh5LY.png" tvg-country="bf", Impact TV (Burkina Faso)
+https://edge11.vedge.infomaniak.com/livecast/ik:impacttv-2/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BFfLV0y.png" tvg-country="bf", RTB (360p) [Not 24/7]
+https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mv3S1Zc.png" tvg-country="bf", Savane TV
+https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8

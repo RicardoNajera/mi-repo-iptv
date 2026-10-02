@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1638_ADA_TV.png" tvg-country="az", ADA TV (720p)
+https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lwgdbuu.png" tvg-country="az", AnewZ TV
+https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2CSW4V4.png" tvg-country="az", APA Tv (1080p)
+http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/di3XX5L.png" tvg-country="az", Az Star TV (1080p)
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/snBMMeH.png" tvg-country="az", Az TV (1080p)
+https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kw17XfP.png" tvg-country="az", Aznews TV (720p) [Not 24/7]
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r4FzxSg.png" tvg-country="az", Baku.TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3mEdjuq.png" tvg-country="az", CBC Sport [Geo-blocked]
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Abg1fct.png" tvg-country="az", Huzur TV (1080p) [Not 24/7]
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HzY4VMo.png" tvg-country="az", Ictimai TV
+https://live.itv.az/itv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Kanal%20S.png" tvg-country="az", Kanal S
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/500px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png" tvg-country="az", Kapaz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PlvaDIa.png" tvg-country="az", Medeniyyet TV (1080p)
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8yLFkdE.png" tvg-country="az", Naxcivan TV (720p)
+https://str2.yodacdn.net/ntv/video.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/az.png" tvg-country="az", Xezer TV (720p)
+https://www.xezerxeber.az/stream/index.m3u8

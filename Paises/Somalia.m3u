@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2tlFMXF.png" tvg-country="so", Arlaadi TV
+https://ap02.iqplay.tv:8082/iqb8002/alr114iapp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bTktkcr.png" tvg-country="so", Ashiil TV (480p)
+https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMqrLzV.png" tvg-country="so", Dacwa TV (576p) [Not 24/7]
+https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spZRy7mg/habib.png" tvg-country="so", Habib TV
+https://ncdn.telewebion.ir/habib/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kk0A2o7.png" tvg-country="so", Hirshabelle TV (576p)
+http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqyY1bR.png" tvg-country="so", Kalsan TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C8EvQUo.png" tvg-country="so", Puntland TV (720p)
+http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JEC1J89.png" tvg-country="so", Saab TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zmVKI26.jpg" tvg-country="so", SNTV Daljir (576p)
+https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2y8gv7V.png" tvg-country="so", Somali National TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pk8zzTL.jpeg" tvg-country="so", Soona TV
+https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
+#EXTINF:-1 tvg-logo="https://talenttv.lk/logo-footer.png" tvg-country="so", Talent TV (720p)
+http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LtiPOYG.jpg" tvg-country="so", YOUNIB Media TV (720p) [Not 24/7]
+https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8

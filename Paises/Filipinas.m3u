@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" tvg-country="ph", Abante TV (1080p)
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" tvg-country="ph", ADB TV (1080p)
+https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yOncWla.png" tvg-country="ph", ARDB TV (1080p) [Not 24/7]
+https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-country="ph", AXN Asia Philippines (576p)
+https://sra72yz.s.gy/AXN_ASIA_PHILIPPINES.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iTH9Z0j.png" tvg-country="ph", Bilyonaryo News Channel (1080p) [Geo-blocked]
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2fGhl7q.png" tvg-country="ph", CLTV 36 (720p) [Not 24/7]
+https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
+#EXTINF:-1 tvg-logo="https://www.mongolsat.mn/assets/img/channel/13.png" tvg-country="ph", Eagle News (1080p)
+https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LB2vmMt.png" tvg-country="ph", Hope Channel Philippines (1080p)
+https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8WsYVpt.png" tvg-country="ph", Immaculata TV (720p)
+https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2Nrr68.png" tvg-country="ph", INC Radio (1080p)
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JGSLqA6.png" tvg-country="ph", INC TV (1080p)
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q3UToRM.png" tvg-country="ph", Living Asia Channel (1080p)
+https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/ph.png" tvg-country="ph", Master's TV (720p)
+https://mn-nl.mncdn.com/commectv_live/masterstv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xBlYirh.jpeg" tvg-country="ph", Mindanow Network TV (1080p)
+https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RxQNm6.png" tvg-country="ph", MISA TV
+https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vBpxX4S.png" tvg-country="ph", PBO (1080p)
+http://190.93.224.42/PBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a1zuW2C.png" tvg-country="ph", RJTV (1080p)
+https://rjtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tWZXRVu.png" tvg-country="ph", SIL TV (1080p)
+https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9QhVnqY.jpg" tvg-country="ph", SMNI (720p)
+https://stream.kdlc.click/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ufnWpUf.png" tvg-country="ph", Solar Television (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5mhYHtD.png" tvg-country="ph", TAP TV Channel 23 (720p)
+https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5mhYHtD.png" tvg-country="ph", TAP TV Channel 24 (720p)
+https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5mhYHtD.png" tvg-country="ph", TAP TV Channel 25 (720p)
+https://livestream.telvue.com/lompoccmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mongolsat.mn/assets/img/channel/6.png" tvg-country="ph", TV5 (1080p)
+https://cdn4.skygo.mn/live/disk1/TV5HD/DASH-FTA/TV5HD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qY7T9s9/cropped-TV-MARIA-LOGO-C.jpg" tvg-country="ph", TV Maria (720p) [Not 24/7]
+https://streamtv.intervenhosting.net:3155/live/juandelacruz3live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n0buXRa.jpeg" tvg-country="ph", Viva TV [Not 24/7]
+https://cdn.amixtv.com/vivatv/index.m3u8

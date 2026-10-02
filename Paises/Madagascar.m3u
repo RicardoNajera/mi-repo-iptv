@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jUPHG21.png" tvg-country="mg", GVision (288p)
+https://videostream.chileservidores.com:8081/tome/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/asD5y7i.png" tvg-country="mg", Makao TV (1080i)
+https://live.obslivestream.com/makaomux/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Vzg2OR.png" tvg-country="mg", MaLive (1080p)
+https://live.salto.nl/hls/malive_high.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/960px-MDTV_logo.svg.png" tvg-country="mg", MDTV (1080p)
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+#EXTINF:-1 tvg-logo="https://www.utrk.kg/img/stream/45.png" tvg-country="mg", Music (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KJHWZ3B.png" tvg-country="mg", Rika TV (480p)
+https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XIDC4Mv.png" tvg-country="mg", Riku TV (1080p)
+https://amixtv.com:8081/rikutv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYBTrLc.png" tvg-country="mg", RN7 (1080p)
+https://streams.rn7.nl/memfs/49823eea-a17d-4e39-a435-75b6d60df96e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ja3HVLB.jpg" tvg-country="mg", RT JVA (720p) [Not 24/7]
+https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4z0FiEA.png" tvg-country="mg", RTH-TV1 (1080p)
+https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4z0FiEA.png" tvg-country="mg", RTH-TV2 Gospel (720p)
+https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9Twxsi.png" tvg-country="mg", RTM TV (1080p)
+https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iOAl2j.png" tvg-country="mg", TMA (1080p)
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGWaunJ.jpeg" tvg-country="mg", Zeleve TV (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8

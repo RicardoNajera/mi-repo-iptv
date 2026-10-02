@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qKLEGU7.png" tvg-country="np", Angel TV Nepal (720p)
+https://janya-digimix.akamaized.net/vglive-sk-109639/nepali/ngrp:angelnepali_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2MByL1X/indigenous-television.png" tvg-country="np", Indigenous Television (720p)
+https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XWXFoJA.png" tvg-country="np", Kalika TV (576p)
+http://server.applelive.in/kalikatv/kalikatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EZUyzhG.jpg" tvg-country="np", Kantipur Max [Geo-blocked]
+https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-country="np", Kantipur TV
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-country="np", Kantipur TV SD (1080p)
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg" tvg-country="np", Matribhumi TV (720p)
+http://live.playmax.live/matribhumi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg" tvg-country="np", Mithila Nepal TV (1080p)
+http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xr4FjC8.png" tvg-country="np", Nepal 1 (576p)
+https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MYoosNo.png" tvg-country="np", TV Today (576p)
+http://103.250.28.74:8000/play/a06e/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5fZF69m.png" tvg-country="np", TV Today Janakpur
+https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8

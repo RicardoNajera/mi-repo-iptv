@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/jo.png" tvg-country="jo", Alhaqeqa Aldawlia (1080p) [Not 24/7]
+https://ghaasiflu.online/alhqeqa/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5l7kw0b.png" tvg-country="jo", Amman TV (720p)
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8UrCl4k.png" tvg-country="jo", Jordan Archive (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DuwwoO2.png" tvg-country="jo", Jordan Comedy (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gvIAEsJ.png" tvg-country="jo", Jordan Drama (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B45qcQX.png" tvg-country="jo", Jordan Kitchen (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1DE7Gmw.png" tvg-country="jo", Jordan Songs (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2EmrZPQ.png" tvg-country="jo", Jordan Sport (1080p) [Geo-blocked]
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gpeIoU9.png" tvg-country="jo", Jordan Tourism (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XozB5N.png" tvg-country="jo", Jordan TV (1080p)
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" tvg-country="jo", Radio Albalad TV (720p)
+http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s142626/images/logod.jpg" tvg-country="jo", Radio Fann Jordan Studio (1080p) [Not 24/7]
+http://45.63.116.205/hls2/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wHOQU0R.png" tvg-country="jo", Radio Yaqeen Jordan City View (1080p) [Not 24/7]
+http://45.63.116.205/hls4/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xGDjlp5.png" tvg-country="jo", Rotana Radio Jordan Studio (1080p) [Not 24/7]
+http://45.63.116.205/hls/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NjgOBts.png" tvg-country="jo", Rotana Tarab Jordan City View (720p) [Not 24/7]
+http://45.63.116.205/hls3/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WX80rty.png" tvg-country="jo", Roya TV (Jordan) (1080p)
+https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8

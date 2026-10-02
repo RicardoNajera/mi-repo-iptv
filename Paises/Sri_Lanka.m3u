@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LEVEhTH.png" tvg-country="lk", Aathavan TV (720p) [Not 24/7]
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/lk.png" tvg-country="lk", Charana TV (360p)
+https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fU0ZhKD.png" tvg-country="lk", Global Buddhist Network (1080p)
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M66UqPB.png" tvg-country="lk", Hiru TV (360p) [Not 24/7]
+https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EB99mzR.png" tvg-country="lk", Monara TV (720p) [Not 24/7]
+https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5cyTVRJ.png" tvg-country="lk", NDTV LANKA (1080p)
+https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143587_ld_h15_aa.png?lock=720x540" tvg-country="lk", News 1st (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/News1st/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RX6IwK8.png" tvg-country="lk", Shakthi TV (576p)
+https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sZ3fEMi.png" tvg-country="lk", Shraddha TV (480p)
+https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Zc8G7i.png" tvg-country="lk", Siyatha TV (576p)
+https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" tvg-country="lk", Sooriyan TV (1080p)
+https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fjHcr9z.jpg" tvg-country="lk", Star Tamil Television (360p)
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suryatvtamil.png" tvg-country="lk", Suriya TV (1080p)
+https://stream.ottlive.co.in/suryatvtamil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0hnpeq9.png" tvg-country="lk", Swarnavahini (480p)
+https://teledrama.ebc.lk/TTT/proxy.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DUzOKWM.png" tvg-country="lk", The Buddhist (480p)
+https://edge3-moblive.yuppcdn.net/drm1/smil:thebuddhistdrm.smil/index.m3u8

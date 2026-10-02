@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WKr5ncQ.png" tvg-country="si", Exodus TV (720p)
+https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RK1IASU.png" tvg-country="si", Folx Slovenija
+https://folxsloapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-country="si", History (Slovenia) (1080p)
+https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JHNpcqF.png" tvg-country="si", Kanal A
+https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0zCt8e4.png" tvg-country="si", SpektraTV (720p)
+https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-country="si", Star Channel (Slovenia)
+http://92.36.202.5:10001/play/a01s
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" tvg-country="si", Star Crime (Slovenia)
+http://92.36.202.5:10001/play/a02o
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" tvg-country="si", Star Life (Slovenia)
+http://92.36.202.5:10001/play/a02n
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JcoAgDF.png" tvg-country="si", Star Movies (Slovenia)
+http://92.36.202.5:10001/play/a01o
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZwdXlN.png" tvg-country="si", Televizija Urslja (1080p) [Not 24/7]
+http://ott.sgn.net/hls/tvurslja.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZiaoqz.png" tvg-country="si", Trzic TV (1080p) [Not 24/7]
+https://vpn.video2go.live:444/trzic/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E3YmlxF.png" tvg-country="si", TV SLO 1
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E3YmlxF.png" tvg-country="si", TV SLO 1 HD
+https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OPlzjjv.png" tvg-country="si", TV SLO 2
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OPlzjjv.png" tvg-country="si", TV SLO 2 HD
+https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yPb2FKg.png" tvg-country="si", TV SLO 3
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/49VrbSW.png" tvg-country="si", TV Veseljak Golica HD
+https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jboGcoY.png" tvg-country="si", Viasat Explore (Slovenia)
+https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qCkCGqa.png" tvg-country="si", Viasat History (Slovenia)
+https://lb.dstvmultimedia.com/ViasatHistory/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gxlZZ91.png" tvg-country="si", Viasat Nature (Slovenia)
+https://lb.dstvmultimedia.com/ViasatNature/index.m3u8

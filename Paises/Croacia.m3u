@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QoDpnKg.png" tvg-country="hr", Adria Music Television
+https://adriaapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qZzsASl.png" tvg-country="hr", Diadora TV
+https://diadoratv.stream/live/diadora/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lDSctzX.png" tvg-country="hr", HRT 1 (720p)
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lDSctzX.png" tvg-country="hr", HRT 1 HD (1080p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yyePcl1.png" tvg-country="hr", HRT 2 (720p)
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yyePcl1.png" tvg-country="hr", HRT 2 HD (1080p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4OrOJRx.png" tvg-country="hr", HRT 3 (720p)
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4OrOJRx.png" tvg-country="hr", HRT 3 HD (720p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcNrY0m.png" tvg-country="hr", HRT 4 HD (720p) [Geo-blocked]
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sKj3dgc.png" tvg-country="hr", Klape i Tambure TV (1080p)
+https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C90BYlb.png" tvg-country="hr", Klasik (576p) [Not 24/7]
+https://178.253.194.105/klasiktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4a4qX0P.png" tvg-country="hr", Kus-Kus
+https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4R4fhbd.png" tvg-country="hr", Libertas TV (1080p)
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="hr", National Geographic (Croatia) (1080p)
+http://176.61.157.250/NationalGeographic/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-country="hr", Nick Jr. (Croatia) (540p)
+http://176.61.157.250/NickJr/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" tvg-country="hr", Nickelodeon (Croatia) (1080p)
+http://176.61.157.250/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/960px-Nova_TV_Croatia_logo.png" tvg-country="hr", Nova TV (1080p)
+http://176.61.157.250/NovaTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/67zVdu2.png" tvg-country="hr", OTV (Croatia) (720p) [Not 24/7]
+https://stream.agatin.hr:3559/live/otvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8gSLJ2f.png" tvg-country="hr", Pula TV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/pulatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gCFgC5D.png" tvg-country="hr", Radio Televizija Banovina (1080p) [Not 24/7]
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvFpGeH.png" tvg-country="hr", Sports Television (720p) [Not 24/7]
+https://live.koryocdn.org/sports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fl8I3cg.png" tvg-country="hr", SPTV (360p)
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3yRl17.png" tvg-country="hr", STV (Croatia) (720p)
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWMHnOG.png" tvg-country="hr", TV Jadran (720p) [Not 24/7]
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgCeX12.png" tvg-country="hr", TV Zapad (1080p) [Not 24/7]
+http://85.94.67.158/TVZAPAD/index.fmp4.m3u8

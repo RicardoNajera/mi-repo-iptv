@@ -1,0 +1,517 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ecgGIG.png" tvg-country="mx", 8NTV (1080p)
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG_1756972226445.png" tvg-country="mx", Acapulco Shore
+https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dhiNIng.png" tvg-country="mx", Acustik TV
+https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Og17U9N.png" tvg-country="mx", ADN 40 (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pvid2iH.png" tvg-country="mx", Adrenalina Pura TV (720p)
+https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ymcWecA.png" tvg-country="mx", Alcance FM PLAY TV
+https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5nYjRlb.png" tvg-country="mx", Alcance TV (Mexico) (720p)
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/snIU1UA.jpg" tvg-country="mx", AMX Noticias (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6W7HUtG.png" tvg-country="mx", Asi Sucede Guanajuato (720p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QWR9SOH.png" tvg-country="mx", Atabal TV (1080p) [Not 24/7]
+https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png" tvg-country="mx", Avatar: La Leyenda de Aang
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-country="mx", AXN Latin America (1080p)
+http://138.121.15.230:9002/AXN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-country="mx", AXN Latin America Mexico
+http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yu3Bpbd.png" tvg-country="mx", AyM Sports (1080p)
+http://168.196.127.137:6001/play/a06v/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B5UN7C8.png" tvg-country="mx", Az Cinema (1080p)
+https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ClqIQ4M.png" tvg-country="mx", Az Clic (1080p)
+http://38.252.238.18:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KIpSdQC.png" tvg-country="mx", Az Corazon (720p)
+http://200.115.120.1:8000/play/ca020/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" tvg-country="mx", Azteca 7 (1080p)
+http://187.245.231.226:8000/play/a0uz/index.m3u8
+#EXTINF:-1 tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" tvg-country="mx", Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" tvg-country="mx", Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaUhEQy.png" tvg-country="mx", B15 Fresnillo (1080p)
+https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaUhEQy.png" tvg-country="mx", B15 Zacatecas (1080p)
+https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4DfnOTA.png" tvg-country="mx", Bandamax (1080p)
+http://181.78.106.127:5000/play/ca064/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" tvg-country="mx", bitMe (1080p)
+https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgXQz6c.png" tvg-country="mx", bitMe Latin America (1080p)
+https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1781042617821.png" tvg-country="mx", Bob Esponja Pantalones Cuadrados (720p)
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IDvpRNI.png" tvg-country="mx", California Medios TV (720p)
+https://s5.mexside.net:1936/medios/medios/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" tvg-country="mx", Canal 5 (Mexico) (1080p)
+http://45.181.87.106/CANAL5HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cBC2Jre.png" tvg-country="mx", Canal 5 (Mexico) XET-TDT (1080p)
+http://45.5.118.152:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0nzNMuP.jpeg" tvg-country="mx", Canal 5 TV Cozumel (1080p)
+https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TvTn3hO.png" tvg-country="mx", Canal 10 Cancun (720p) [Not 24/7]
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H34quHQ.png" tvg-country="mx", Canal 10 Durango (1080p)
+https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SlycKgZ.png" tvg-country="mx", Canal 13 Bajio (720p) [Not 24/7]
+https://stream-207963.castr.net/65313d270e749722b6474684/live_1c690d40dfb711eeabd66ba1b9ba93a1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SlycKgZ.png" tvg-country="mx", Canal 13 Campeche (720p) [Not 24/7]
+https://stream-207963.castr.net/65313d270e749722b6474684/live_38c14fb0dfbd11ee8847c303f3096501/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SlycKgZ.png" tvg-country="mx", Canal 13 Chiapas (720p) [Not 24/7]
+https://stream-207963.castr.net/65313d270e749722b6474684/live_55784330f36711ee97a7a19a8448730c/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SlycKgZ.png" tvg-country="mx", Canal 13 Guadalajara (720p) [Not 24/7]
+https://stream-207963.castr.net/65313d270e749722b6474684/live_fa0ed380dfbe11eeabd66ba1b9ba93a1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SlycKgZ.png" tvg-country="mx", Canal 13 Michoacan (720p) [Not 24/7]
+https://stream-207963.castr.net/65313d270e749722b6474684/live_0424eb20dfbf11ee821911a0b6ba5091/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SlycKgZ.png" tvg-country="mx", Canal 13 Oaxaca (720p) [Not 24/7]
+https://stream-207963.castr.net/65313d270e749722b6474684/live_0bd65ed0dfbf11ee848c53d8a686e201/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SlycKgZ.png" tvg-country="mx", Canal 13 Puebla (720p) [Not 24/7]
+https://stream-207963.castr.net/65313d270e749722b6474684/live_19c1e870dfbf11eeadd41749c3286f4a/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SlycKgZ.png" tvg-country="mx", Canal 13 Tabasco (720p) [Not 24/7]
+https://stream-207963.castr.net/65313d270e749722b6474684/live_185f5f10888711ee83e2f144889e3879/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SlycKgZ.png" tvg-country="mx", Canal 13 Tapachula (720p) [Not 24/7]
+https://stream-207963.castr.net/65313d270e749722b6474684/live_2b589fc0dfbf11ee9ce13534ca2a46c3/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R4wXVxf.png" tvg-country="mx", Canal 22 (720p)
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6qiYvhe.png" tvg-country="mx", Canal 22 Nacional (720p) [Geo-blocked]
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PAvnVN9.png" tvg-country="mx", Canal 26 (Mexico) (1080p)
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lr4MZFg.png" tvg-country="mx", Canal 28 (720p) [Not 24/7]
+https://stream.castr.com/653d77dcde70014f52ad1e19/live_bf24d4208d8611eeb116dbe87aa63be0/rewind-3600.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xv13N7q.jpg" tvg-country="mx", Canal 30 Cintalapa (720p) [Not 24/7]
+https://rpn3.bozztv.com/ssh101/ssh101/canal30mx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dS4Gb0Q.jpg" tvg-country="mx", Canal 32 STO (720p) [Not 24/7]
+https://s.emisoras.tv:8081/stocanal32hn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JCt1Nbn.png" tvg-country="mx", Canal 33 Tijuana (720p)
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/co7TCWC.png" tvg-country="mx", Canal 38 (720p)
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YDp8MlN.png" tvg-country="mx", Canal 44 (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l9kDNld.jpeg" tvg-country="mx", Canal 56 Quiero TV (720p)
+http://45.5.118.152:8000/play/a08z/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iKLGBbA.png" tvg-country="mx", Canal Catorce (1080p) [Not 24/7]
+https://stream.haislin.com/14tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xAC6gQO.png" tvg-country="mx", Canal del Congreso 45.1
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png" tvg-country="mx", Canal Once (1080p)
+https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fLpkHfZ.png" tvg-country="mx", Canal Parlamento del Congreso de Jalisco (720p) [Not 24/7]
+https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hs2YVJ3.png" tvg-country="mx", Canal Ricos (480p)
+https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ign49i.png" tvg-country="mx", Capital 21 (1080p) [Not 24/7]
+https://video.cdmx.gob.mx/redes/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oFeCIeD.png" tvg-country="mx", CB TV Michoacan
+https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/njCKaMv.png" tvg-country="mx", Cine Adrenalina
+https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eAS86qH.png" tvg-country="mx", Cine Amor
+https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" tvg-country="mx", Cine Terror LatAm
+https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2V0R0xT.png" tvg-country="mx", CineLatino (720p)
+http://45.162.193.35/CINELATINO_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOLGQxQ.jpg" tvg-country="mx", Claro Cinema (1080p)
+http://158.172.217.18:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vrSFUwv.png" tvg-country="mx", Claro Musica TV (1080p)
+http://45.171.64.30:6060/play/a010
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n0kd17r.png" tvg-country="mx", Claro Sports (1080p)
+http://168.196.127.137:6001/play/a08r/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DbjywI3.png" tvg-country="mx", Codigo TV (1080p) [Not 24/7]
+https://edge.essastream.com/codigotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c2czW3M/Screenshot-20231201-180316.jpg" tvg-country="mx", Cristo TV (480p)
+https://stream.oursnetworktv.com/latin/CristoTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOO2SaH.png" tvg-country="mx", Cruz TV
+https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" tvg-country="mx", CSI: Miami LatAm
+https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jsi4qVb.jpg" tvg-country="mx", CTT Canal 49 (1080p) [Not 24/7]
+https://cdnfox.hostlagarto.com/cct49/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aksM8pa.png" tvg-country="mx", De Pelicula Latin America (1080p)
+http://38.19.41.46:8081/DEPELICULA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMhSmDK.png" tvg-country="mx", De Pelicula Plus (1080p)
+http://200.115.120.1:8000/play/ca030/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-country="mx", Disney Channel Latin America Mexico (720p)
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-country="mx", Disney Channel Latin America North (576p)
+http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-country="mx", Disney Jr. Latin America North HD (1080p)
+http://181.78.14.26:4000/play/a073/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" tvg-country="mx", Distrito Comedia (1080p)
+http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" tvg-country="mx", E! Latin America Mexico (720p)
+http://72.1.184.5:8089/play/a05d/index.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/211465.png" tvg-country="mx", El Chavo TV (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aKvPd4g.jpg" tvg-country="mx", El Sonorense (1080p) [Not 24/7]
+https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/neJGp9C.png" tvg-country="mx", Evavision
+https://stmv2.voxtvhd.com.br/evavision/evavision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWOqr1a.png" tvg-country="mx", Exa TV
+http://190.61.90.17:40000/play/a0hk/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFVVGrg.png" tvg-country="mx", Expresa TV (720p)
+https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lFek4Pj.png" tvg-country="mx", Expresion TV (1080p)
+https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarTiQHz2Pl0Bpx9g7JV_eaz4V4f61wtGyRw&s" tvg-country="mx", Foro TV
+https://mc.servidor.stream:19360/8274/8274.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rr9pKQh.png" tvg-country="mx", Franchs TV (720p)
+https://stream.oursnetworktv.com/latin/franchstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gwz78jZ.png" tvg-country="mx", GikTVMX (720p)
+https://pistream.ddns.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png" tvg-country="mx", Golden (1080p)
+http://38.19.41.46:8081/MTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" tvg-country="mx", Golden Edge (1080p)
+http://38.19.41.46:8081/GOLDENEDGE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOEkyM2.png" tvg-country="mx", Golden Plus (1080p)
+http://45.5.118.152:8000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GBlvQBI.png" tvg-country="mx", Golden Premier 2 (1080p)
+http://200.229.147.210:9999/play/a00l/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" tvg-country="mx", Golden Premier (1080p)
+http://200.229.147.210:9999/play/a00k/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iUks0ot.png" tvg-country="mx", Icrtv Colima (1080p)
+https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R3icGuG.png" tvg-country="mx", IERTBCS Canal 8.2 (1080p) [Not 24/7]
+https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r7czgOc.png" tvg-country="mx", ILCE Canal 15 Summa Saberes (720p)
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lKrRvtS.png" tvg-country="mx", Imagen TV (1080p)
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pAppH1M.png" tvg-country="mx", Ingenio TV (720p) [Geo-blocked]
+https://aprende-usea.streaming.media.azure.net/9317ea3f-03a0-4266-9292-ac97a0e41c4d/output-20230609-123537-manifest.ism/manifest(format=m3u8-cmaf).m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ql4jXv.png" tvg-country="mx", Islandia (720p)
+https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/J1kV1Bn.png" tvg-country="mx", ITV Deportes (720p)
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k1oW0C6.png" tvg-country="mx", Jacal Canal 5 (720p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/jacaltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N4meE8I.png" tvg-country="mx", Jalisco TV (720p)
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zyAS1hk.png" tvg-country="mx", Justicia TV (Mexico) (720p)
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tK9zOgo.png" tvg-country="mx", La Rosa de Guadalupe (360p)
+https://app.viloud.tv/hls/channel/9c88161fe675b59d4b008c776f033960.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-country="mx", Las Estrellas (1080p)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-country="mx", Las Estrellas Latin America (1080p)
+http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3fA50RJ.png" tvg-country="mx", Lobo TV (720p)
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GylOPxE.png" tvg-country="mx", Maria Vision (360p) [Not 24/7]
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yID5T2S.jpg" tvg-country="mx", Metropoli Medios TV (720p)
+https://eu1.servers10.com:8081/8214/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iVfzakA.png" tvg-country="mx", Mexiquense TV (720p)
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1T5Oh.png" tvg-country="mx", Milenio Television (720p)
+https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sgrEt9z.png" tvg-country="mx", MiTV (720p)
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rMHbbM.png" tvg-country="mx", Monte Maria (1080p)
+https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" tvg-country="mx", MTV Biggest Pop LatAm (1080p)
+https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" tvg-country="mx", MTV Catfish (United States) LatAm (720p)
+https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" tvg-country="mx", MTV Classic LatAm (720p)
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png" tvg-country="mx", MTV Con Mi Ex
+https://jmp2.uk/plu-638693db857364000781b471.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png" tvg-country="mx", MTV Dating (United States) LatAm (720p)
+https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" tvg-country="mx", MTV Drag LatAm
+https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" tvg-country="mx", MTV Embarazada a los 16
+https://jmp2.uk/plu-5f98537a5a4341000733aefe.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" tvg-country="mx", MTV Flow Latino LatAm (720p)
+https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-country="mx", MTV Latin America (1080p)
+http://15.204.246.24:8080/MTVHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png" tvg-country="mx", MTV Pluto TV LatAm (720p)
+https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png" tvg-country="mx", MTV Reality (United States) LatAm (720p)
+https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68641eb4852dfe78698c3390/colorLogoPNG_1751392300412.png" tvg-country="mx", MTV Ridiculousness (United States) LatAm (720p)
+https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png" tvg-country="mx", MTV Rocks LatAm
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-country="mx", Multimedios Bajio (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-country="mx", Multimedios CDMX (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-country="mx", Multimedios Ciudad Juarez (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-country="mx", Multimedios Guadalajara (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-country="mx", Multimedios Laguna (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-country="mx", Multimedios Monterrey (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-country="mx", Multimedios Puebla (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-country="mx", Multimedios Saltillo (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H3PzGZW.png" tvg-country="mx", MultiPremier (1080p)
+http://168.196.127.137:6001/play/a08n/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TcB37yV.png" tvg-country="mx", MVS TV [Geo-blocked]
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pw4NZK1.png" tvg-country="mx", MyTime Movie Network (Mexico) (720p)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="mx", National Geographic (Mexico) (1080p)
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aZCTkjU.jpg" tvg-country="mx", Nayarit Comunica (1080p)
+https://live.iplanay.gob.mx/hls/nayarittv.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU" tvg-country="mx", Nortena Tv (576p)
+https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V3pfjfB/novela-channel-telepack.jpg" tvg-country="mx", Novela Channel (720p) [Not 24/7]
+https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sknLXZI.jpeg" tvg-country="mx", Nuestra Imagen TV
+https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XsvbAWR.png" tvg-country="mx", One Piece LatAm
+https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XOJzlfS.png" tvg-country="mx", Panico (576p)
+http://181.78.8.199:8000/play/a0bt/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png" tvg-country="mx", Pluto TV Anime LatAm
+https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png" tvg-country="mx", Pluto TV Cine Comedia (United States) LatAm
+https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" tvg-country="mx", Pluto TV Cine Drama LatAm
+https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1769014514491.png" tvg-country="mx", Pluto TV Cine Estelar
+https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1732045254120.png" tvg-country="mx", Pluto TV Cine Familia LatAm
+https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6806d519fea7414f33f57016/colorLogoPNG_1746817663597.png" tvg-country="mx", Pluto TV Cine Inspirador
+https://jmp2.uk/plu-6806d519fea7414f33f57016.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG_1771344977802.png" tvg-country="mx", Pluto TV Cine Romance LatAm
+https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" tvg-country="mx", Pluto TV Cine Suspenso
+https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/logo7_2-20250131170429.png" tvg-country="mx", Pluto TV Competencias
+https://jmp2.uk/plu-5dd6d935d000120009bc1132.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png" tvg-country="mx", Pluto TV Deportes
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png" tvg-country="mx", Pluto TV Diseno
+https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG_1765467371603.png" tvg-country="mx", Pluto TV Dramas Coreanos
+https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6661d5424b10960008599fa3/colorLogoPNG_1765467438253.png" tvg-country="mx", Pluto TV Dramas Coreanos Teen
+https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1778796418782.png" tvg-country="mx", Pluto TV Estilo de Vida
+https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GVOYX4L.png" tvg-country="mx", Pluto TV Estrellas de Accion
+https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65bd0f53dc10a40008e68b96/colorLogoPNG_1747382175081.png" tvg-country="mx", Pluto TV Gasolina
+https://jmp2.uk/plu-65bd0f53dc10a40008e68b96.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG_1754405659295.png" tvg-country="mx", Pluto TV Historia (United States) LatAm
+https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" tvg-country="mx", Pluto TV Historias de Ultratumba
+https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68adc697116b783a33f99e6c/colorLogoPNG_1760448745473.png" tvg-country="mx", Pluto TV Impacto
+https://jmp2.uk/plu-68adc697116b783a33f99e6c.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png" tvg-country="mx", Pluto TV Invasion Alien
+https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" tvg-country="mx", Pluto TV Junior LatAm
+https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" tvg-country="mx", Pluto TV Karaoke por Stingray LatAm (720p)
+https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" tvg-country="mx", Pluto TV Kids LatAm
+https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG_1765475296297.png" tvg-country="mx", Pluto TV Novelas de Mexico
+https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG_1765466599084.png" tvg-country="mx", Pluto TV Novelas de Otros Continentes
+https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png" tvg-country="mx", Pluto TV Series de Crimen
+https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6806d570c178637410ae4962/colorLogoPNG_1765466496602.png" tvg-country="mx", Pluto TV Series de Otros Continentes
+https://jmp2.uk/plu-6806d570c178637410ae4962.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/691627e4a29a6123e400b3e0/colorLogoPNG_1764878235665.png" tvg-country="mx", Pluto TV Series Novelescas
+https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_1732044921019.png" tvg-country="mx", Pluto TV Vida Real LatAm
+https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bFG4Rqz.png" tvg-country="mx", Presumiendo Mexico (720p)
+https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7i7GkSL.png" tvg-country="mx", PSN (288p)
+https://srspsn.live/live/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7i7GkSL.png" tvg-country="mx", PSN Canal 45.2 (288p)
+https://srspsn2.live/live/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://puntotvdigital.net/wp-content/uploads/2024/02/logo.png" tvg-country="mx", Punto TV Digital 40 [Geo-blocked]
+https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/960px-PX_Sports_-_Logo.png" tvg-country="mx", PX Sports (1080p)
+http://38.252.238.18:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hXs9b7v.png" tvg-country="mx", RCG TV 2 (360p) [Not 24/7]
+https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kYtAR26.png" tvg-country="mx", RCG TV (1080p)
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iZMDddR.png" tvg-country="mx", Reforma TV (1080p)
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RRckCvf.png" tvg-country="mx", RTQ Queretaro (1080p)
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dbJKErB.png" tvg-country="mx", SICOM Television XHPBZC-TDT (720p) [Not 24/7]
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/123P7dV.png" tvg-country="mx", SIPSE TV 8.1 (1080p) [Not 24/7]
+https://webprod.sipse.com.mx:8080/show/merida.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uiTgClU.png" tvg-country="mx", SIPSE TVCUN 8.1 (1080p) [Not 24/7]
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7MXF4Fd.png" tvg-country="mx", Sistema Michoacano de TV (1080p) [Not 24/7]
+https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GTPs9Xy/9068.png" tvg-country="mx", SIXO TV (360p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoPNG.png" tvg-country="mx", South Park: Coleccion Cartman
+https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df7272ec9fda0008b7a970/colorLogoPNG.png" tvg-country="mx", South Park: Coleccion Kenny
+https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df73520d4561000817c29b/colorLogoPNG.png" tvg-country="mx", South Park: Coleccion Kyle
+https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df72db18036500081a8292/colorLogoPNG.png" tvg-country="mx", South Park: Coleccion Stan
+https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qnx8nBP.png" tvg-country="mx", SQCS Canal 4 (1080p)
+https://video0.rogohosting.com:19360/4982/4982.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLHIvKz.png" tvg-country="mx", Super Channel 12 (1080p)
+https://servilive.com:3263/live/channel12live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TkzIqR2.jpg" tvg-country="mx", TELE 4 Ojocaliente (720p)
+https://stream.oursnetworktv.com/latin/encoder53/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PgBtvgO.png" tvg-country="mx", Tele Saltillo
+https://servilive.com:3879/live/telesaltillolive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8MdUH69.jpeg" tvg-country="mx", Tele UV [Not 24/7]
+https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XkpDSmO.png" tvg-country="mx", Tele Yucatan (1080p) [Geo-blocked]
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hEJ6lZ9.png" tvg-country="mx", Telecanal 28 (1080p) [Not 24/7]
+https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png" tvg-country="mx", TeleFormula (720p)
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NVxHxJn.png" tvg-country="mx", TeleHit (576p)
+http://200.115.120.1:8000/play/ca048/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CofYjWh.png" tvg-country="mx", Telehit Musica (1080p)
+http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0vX9oJF.png" tvg-country="mx", Telemar (720p)
+https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Rc8mA5.png" tvg-country="mx", TeleMas (720p) [Not 24/7]
+https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/klhTyDU.png" tvg-country="mx", Telemax (Mexico) XEWH-TDT (1080p)
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MeV5N08.png" tvg-country="mx", Teleplay Sureste (720p)
+https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9s380Bz.png" tvg-country="mx", Teleritmo (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ejKctXc.png" tvg-country="mx", Telever (1080p) [Not 24/7]
+https://soportedvb.click:3413/live/televerlive.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png" tvg-country="mx", The New Detectives (United States) LatAm
+https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" tvg-country="mx", The Pet Collective Mexico (720p)
+https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/mx.png" tvg-country="mx", TL Estrella (720p)
+https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5vaEhfy.png" tvg-country="mx", Tlaxcala TV (360p) [Not 24/7]
+https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rvm38Mu.png" tvg-country="mx", Tlnovelas Latin America (1080p)
+http://209.14.115.253:8081/TELENOVELAS/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" tvg-country="mx", Tlnovelas Mexico (1080p)
+http://167.249.23.102:8000/play/a0g8/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8QbvXva.png" tvg-country="mx", TNE (720p) [Not 24/7]
+https://v2.tustreaming.cl/tnetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rSIB579.jpeg" tvg-country="mx", TNE Canal 58 (720p) [Not 24/7]
+https://stream.castr.com/5da89a909db964293ad13301/live_85f2053091cd11f1a5e59d9ec0f6bd3a/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jYMpVQA.png" tvg-country="mx", Transmedia Television Morelia (614p) [Geo-blocked]
+http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P4hxWVZ.png" tvg-country="mx", Trimedio TV (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/TriMedioTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" tvg-country="mx", TUDN (Mexico) (1080p)
+https://streaming.alwaysdata.net/tudn.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHrIn0r.png" tvg-country="mx", TV BUAP (1080p)
+https://tvenvivo.buap.mx/livestream/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Of044Jx.png" tvg-country="mx", TV Cuatro 4.1 (1080p)
+https://5ca3e84a76d30.streamlock.net/tv4gto/tv4gto.smil/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Of044Jx.png" tvg-country="mx", TV Cuatro 4.2 (1080p)
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Of044Jx.png" tvg-country="mx", TV Cuatro 4.3 (1080p)
+https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Of044Jx.png" tvg-country="mx", TV Cuatro 4.4 (1080p)
+https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HbnCZSF.png" tvg-country="mx", TV Guanajuato (720p)
+https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yvbhH8c.png" tvg-country="mx", TV Libertad (720p)
+https://stream.oursnetworktv.com/latin/tvlibertad/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9p1Spj.png" tvg-country="mx", TV Lobo (720p)
+https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z9iVlMn.png" tvg-country="mx", TV Mar La Paz (1080p)
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z9iVlMn.png" tvg-country="mx", TV Mar Los Cabos (1080p)
+https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z9iVlMn.png" tvg-country="mx", TV Mar Puerto Vallarta (1080p)
+https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tVgkiJF.png" tvg-country="mx", TV Migrante (720p)
+https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pxkDpTU.jpeg" tvg-country="mx", TV UG (1080p) [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4demWOi.png" tvg-country="mx", TV UJAT (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S1xiWB3.png" tvg-country="mx", TVC Network (720p) [Not 24/7]
+https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uX1S3kt.png" tvg-country="mx", TVP Culiacan (720p) [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uX1S3kt.png" tvg-country="mx", TVP Los Mochis (720p) [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uX1S3kt.png" tvg-country="mx", TVP Mazatlan (720p) [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uX1S3kt.png" tvg-country="mx", TVP Obregon (720p) [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/brCSiGh.png" tvg-country="mx", UAA TV (1080p)
+https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a1WaGTQ.jpeg" tvg-country="mx", UACJ-TV [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/uacj/videouacj/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QKvINA6.png" tvg-country="mx", UDG TV (720p) [Not 24/7]
+https://liveos.bytecazt.com/udgtv/streams/cfprivq23akg00a7ke2g_d306m7q9io6g00fsq3cg_.m3u8
+#EXTINF:-1 tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" tvg-country="mx", Ultra TV Puebla (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m0RVb79.png" tvg-country="mx", UMA TV
+https://umatv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tc3zenG.png" tvg-country="mx", Unidad de investigacion
+https://jmp2.uk/plu-61bb2814ac085a00074309a6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ixWRId.png" tvg-country="mx", Unison TV (1080p) [Not 24/7]
+https://stream.unison.mx/hls/unisontvatem.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w54eVy.png" tvg-country="mx", Video Rola (1080p)
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KIEKOt1.png" tvg-country="mx", WeatherSpy (Mexico) (720p)
+https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iOYlKpF.png" tvg-country="mx", XEJ-TDT (614p)
+https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R3icGuG.png" tvg-country="mx", XHBZC-TDT (1080p) [Not 24/7]
+https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ZXCQvy.png" tvg-country="mx", XHFGL-TDT (1080p)
+https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/15kcNRb.png" tvg-country="mx", XHGV-TDT (360p) [Not 24/7]
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oRudPXX.png" tvg-country="mx", XHIJ-TDT (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dw6puHC.png" tvg-country="mx", XHTTG-TDT (720p)
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LbZkdca.png" tvg-country="mx", XHUNES-TDT (720p)
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RxhABeK.png" tvg-country="mx", XHZHZ-TDT (720p)
+https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z5NwizH.png" tvg-country="mx", Xtrema Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X2d8y4e.png" tvg-country="mx", Xtrema Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j91M4Yf.png" tvg-country="mx", Xtrema Cine Clasico
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FcaTUym.png" tvg-country="mx", Xtrema Terror
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pVPTl8J.png" tvg-country="mx", Za! TV
+https://streaming.televizor-24-tochka.ru/live/25.m3u8
+#EXTINF:-1 tvg-logo="https://flagcdn.com/w160/mx.png" tvg-country="mx", ZAZ (1080p)
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8

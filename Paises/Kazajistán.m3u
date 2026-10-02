@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/24KZ_logo.svg/1280px-24KZ_logo.svg.png" tvg-country="kz", 24KZ (576p)
+https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-logo="https://31.kz/noimage.png" tvg-country="kz", 31 Kanal (576p)
+http://stream.mcquack.net/388/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nw2R7Dq.png" tvg-country="kz", Abai TV (720p)
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gK6ZRzp.png" tvg-country="kz", Alau TV (576p)
+https://otv.wotom.net/alau/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mjqwt8C.png" tvg-country="kz", Almaty TV (576p)
+https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqIzzmf.png" tvg-country="kz", Aqjaiyq (576p)
+https://stream.kaztrk.kz/regional/oraltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/csKl1z6.png" tvg-country="kz", Aqtobe (576p)
+https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CTFVEAb.png" tvg-country="kz", Aris 24 (720p) [Not 24/7]
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astana_TV_Logo.png" tvg-country="kz", Astana TV (576p)
+http://stream.mcquack.net/28/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CfRvm8i.png" tvg-country="kz", Atameken Business (576p)
+https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kva4O3T.png" tvg-country="kz", Atyray (720p)
+https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+#EXTINF:-1 tvg-logo="https://vote.rtrk.kz/img/balapan-logo.png" tvg-country="kz", Balapan (576p)
+https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-logo="https://vote.rtrk.kz/img/balapan-logo.png" tvg-country="kz", Balapan HD (1080p)
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png" tvg-country="kz", Balapan International (1080p)
+https://live-3.otcnet.ru/Balapan/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qswtSWm/428598841-309456895457301-6206911287895397651-n-1.png" tvg-country="kz", Bilim Ilim (480p) [Not 24/7]
+http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
+#EXTINF:-1 tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" tvg-country="kz", BIZ Cinema (1080p)
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg" tvg-country="kz", BIZ Music (1080p)
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
+#EXTINF:-1 tvg-logo="https://biztv.uz/static/media/logo.5f993187.png" tvg-country="kz", BIZ TV (1080p)
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LebKU09.png" tvg-country="kz", Channel 7 (Kazakhstan) (576p)
+http://stream.mcquack.net/27/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vm5sJHP.png" tvg-country="kz", Channel One Eurasia (576p)
+https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tghMiwW.png" tvg-country="kz", Ertis (1080p) [Not 24/7]
+https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4JUHIVS.png" tvg-country="kz", Eurasia (720p)
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N2z3EZC.png" tvg-country="kz", Friday! International Kazakhstan (576p)
+https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hwuaomt.png" tvg-country="kz", IQ Channel (720p)
+https://rtmp.info/iqtv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7N3JK4.png" tvg-country="kz", Jambyl (360p) [Not 24/7]
+https://stream.kaztrk.kz/regional/taraztv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SqyXtgK.png" tvg-country="kz", Jibek Joly (576p)
+https://fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SqyXtgK.png" tvg-country="kz", Jibek Joly HD (1080p)
+https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xG3HxId.png" tvg-country="kz", Khabar (576p)
+https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pOR3FSR.png" tvg-country="kz", Kokshe (720p) [Not 24/7]
+https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BurrNTo.png" tvg-country="kz", KTK (576p)
+http://stream.mcquack.net/26/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BurrNTo.png" tvg-country="kz", KTK HD (720p) [Not 24/7]
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9JfLseu.png" tvg-country="kz", Mangystay (540p) [Not 24/7]
+https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqWaJT8.png" tvg-country="kz", Mir Kazakhstan (576p)
+http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nHVABXh.png" tvg-country="kz", MuzzOne
+https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmKWrWs.png" tvg-country="kz", Novoe televidenie (576p)
+https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHSCH4L.png" tvg-country="kz", NTK (576p)
+http://stream.mcquack.net/389/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqr1hjN.png" tvg-country="kz", Ontustik (360p)
+https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oI8g396.png" tvg-country="kz", Qazaqstan (576p)
+https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oI8g396.png" tvg-country="kz", Qazaqstan HD (1080p)
+http://stream.mcquack.net/71/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" tvg-country="kz", Qazaqstan International
+https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UDJ0P5Q.png" tvg-country="kz", QazSport (1080p)
+http://stream.mcquack.net/72/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JLlqgdp.png" tvg-country="kz", Qonaev Media
+https://s.qonaevtv.kz/live/qonaev/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eOz4xJ8.png" tvg-country="kz", Qostanai (576p) [Not 24/7]
+https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7l1WSDJ.png" tvg-country="kz", Qyzyljar (720p)
+https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r4BFQpE.png" tvg-country="kz", Qyzylorda (720p)
+https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EIXwi1c.png" tvg-country="kz", Saryarqa (720p) [Not 24/7]
+https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P9V0532/Captura.png" tvg-country="kz", Semei (1080p)
+https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SJNDksF.png" tvg-country="kz", Silk Way (1080p)
+https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/Silk-way-CINEMA.png" tvg-country="kz", Silk Way Cinema (1080p) [Geo-blocked]
+https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vIV7x6n.png" tvg-country="kz", Sport+ Qazaqstan (1080p)
+https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ia3acCB.png" tvg-country="kz", Tamyr (576p)
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VagTPMo.png" tvg-country="kz", Turan TV (576p)
+https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jTL6TvC.png" tvg-country="kz", Ulytau
+https://ulytau.tv/hls/master.m3u8

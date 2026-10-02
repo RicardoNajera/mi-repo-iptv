@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCrSbgv.png" tvg-country="ba", Alternativa TV (720p)
+https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/01bZ5rw.png" tvg-country="ba", BHRT (720p) [Geo-blocked]
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LEwlEEE.png" tvg-country="ba", BHT 1 (720p)
+https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/astdRrE.png" tvg-country="ba", Federalna televizija (720p)
+http://185.81.240.65:15000/udp/233.233.233.39:12000
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xUOspBx.png" tvg-country="ba", Maria+Vision Medjugorje (720p)
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k06WvYl.png" tvg-country="ba", RTRS plus (576p) [Not 24/7]
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Sgs5gM.png" tvg-country="ba", RTRS TV (576p) [Not 24/7]
+https://uzivo.rtrs.tv/tv/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9NgxOdb.png" tvg-country="ba", RTV Glas Drine (404p) [Not 24/7]
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FNL8Iv.png" tvg-country="ba", RTV HB (576p) [Not 24/7]
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LSJqLJw/RTV-LOGO.png" tvg-country="ba", RTV Islam (720p)
+http://5.254.89.106/8714/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKUaflB.png" tvg-country="ba", RTV Zenica (720p)
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/01yz22a.png" tvg-country="ba", Star Plus Televizija (1080p) [Not 24/7]
+https://live.muzickatv.mk/live/StarMusic2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYWgd3E.png" tvg-country="ba", Super TV (Bosnia and Herzegovina) (720p)
+https://mirtv.club/live/mirtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/znpvJys.png" tvg-country="ba", Televizija 5 (576p)
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jT95ZEI.png" tvg-country="ba", Televizija M (1080p)
+https://live.tv-m.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8CtrYVb.png" tvg-country="ba", TV 1 (720p)
+https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0YtCG4Y.png" tvg-country="ba", TV Panorama
+https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AohYgH1.png" tvg-country="ba", TV Slon Extra (1080p) [Not 24/7]
+http://31.47.0.130:8082

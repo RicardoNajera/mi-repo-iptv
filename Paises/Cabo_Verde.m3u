@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0TEeEFG.jpg" tvg-country="cv", RCV TV (712p)
+https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w91IBj7.png" tvg-country="cv", RTC Television
+https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8

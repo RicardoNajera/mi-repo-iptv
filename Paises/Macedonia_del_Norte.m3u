@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2pAHdAi.png" tvg-country="mk", A1 (576p)
+http://31.148.48.15/A1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NqHla2V.png" tvg-country="mk", A2 (576p)
+http://str2.iptvhd.ru:8080/Amedia_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_of_Alsat_TV_%282020-%29.svg/960px-Logo_of_Alsat_TV_%282020-%29.svg.png" tvg-country="mk", Alsat (576p)
+http://5.254.89.106/8713/index.m3u8
+#EXTINF:-1 tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/e1b4737ec68d96b27f713c034543d472.png" tvg-country="mk", Groovia Kanal (576p)
+https://gist.githubusercontent.com/iptvonlinetv/02d209207082846012c15305f7471c55/raw/4439b54b986e696e6fcfba7a53380d85b27bbbc1/udp450.500.723:6050.m3u8
+#EXTINF:-1 tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/37034d6b30d2c092aa6827a34fa145ab.png" tvg-country="mk", Groovia Kids (576p)
+https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qw7N3S2.png" tvg-country="mk", Kanal 5 (360p)
+https://s2.teve.mk/tvstanici/2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MK_Six.png" tvg-country="mk", MK Six (576p)
+https://mumt06.tangotv.in/qYyB8fXVMKSIX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvOrUnN.png" tvg-country="mk", MRT 2 [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fyNQ8Nf.png" tvg-country="mk", MRT Sobraniski kanal [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9miDQo.png" tvg-country="mk", Rock TV (North Macedonia) (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tD48GMD/RTV-Pendimi.png" tvg-country="mk", RTV Pendimi (720p)
+https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pdobwKt.png" tvg-country="mk", Sitel (480p)
+http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hk3lhuF.png" tvg-country="mk", Sutel TV [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IC1f4h3.png" tvg-country="mk", TV21 [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nSmSnH6.png" tvg-country="mk", TV 21 (576p)
+http://178.134.1.158:8081/TVXXI/index.m3u8
+#EXTINF:-1 tvg-logo="https://ibb.co/BH6CZx3K" tvg-country="mk", TV 21 International (576p)
+http://stream.mcquack.net/152/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV24.png" tvg-country="mk", TV 24 (576p)
+http://51.75.127.199:3141/tv24/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ds0uf7A.png" tvg-country="mk", TV ERA [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qo3Hj3t.png" tvg-country="mk", TV NOVA 12 (576p) [Not 24/7]
+http://151.236.247.171:8080/nova/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JsdUpB8.png" tvg-country="mk", TV Shenja [Geo-blocked]
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
